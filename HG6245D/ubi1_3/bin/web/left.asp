@@ -3,7 +3,7 @@
 <head>
 <title>welcome</title>
 <meta HTTP-EQUIV='Pragma' CONTENT='no-cache'>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html" charset=gbk>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html" charset=UTF-8>
 <script type="text/javascript" src="/js/utils.js"></script>
 <script language="JavaScript" type="text/javascript">
 function show()

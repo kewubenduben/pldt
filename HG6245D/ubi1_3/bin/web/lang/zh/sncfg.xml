@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
   <message msgid="sncfg_prompt" msgstr="在本页面上，您可以修改ONU认证方式的相关参数，使之通过OLT认证。修改ONU的认证参数后请复位ONU生效。" />
   <message msgid="sncfg_prompt_js" msgstr="在本页面，您可以进行设备注册和认证，提交信息后，请到状态页面查询注册结果!" />

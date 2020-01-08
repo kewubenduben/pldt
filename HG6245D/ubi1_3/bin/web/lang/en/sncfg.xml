@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
   <message msgid="sncfg_prompt" msgstr="On this page, you may modify the ONU authentication-related parameters to authenticate the OLT. It will take effect after restarting." />
   <message msgid="sncfg_prompt_user" msgstr="You may modify the ONU authentication-related parameters to authenticate the OLT. It will take effect after restarting. Please do not change the password, it will effect the service if the password has been changed, thanks!" />

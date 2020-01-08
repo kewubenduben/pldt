@@ -3,7 +3,7 @@
 <head>
 <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
 <META HTTP-EQUIV="Expires" CONTENT="-1">
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html" charset=gbk>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html" charset=UTF-8>
 <script type="text/javascript" src="/lang/b28n.js"></script>
 <script type="text/javascript" src="/js/checkValue.js"></script>
 <script type="text/javascript" src="/js/utils.js"></script>

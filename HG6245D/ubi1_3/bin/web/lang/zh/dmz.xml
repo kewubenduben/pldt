@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
   <message msgid="dmz_prompt" msgstr="在本页面上，您可以将一台主机的IP设置到DMZ。" />
   <message msgid="dmzEnable_title" msgstr="DMZ使能" />

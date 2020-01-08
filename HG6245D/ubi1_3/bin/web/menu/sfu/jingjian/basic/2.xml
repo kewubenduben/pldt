@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
 	<menu1 name="state" url="../state/opt_power.asp" >
 			<menu2 name="Device Information" url="../state/opt_power.asp" >

@@ -5,7 +5,7 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
 <link rel="stylesheet" href="../style/style.css" type="text/css"/>
-<meta http-equiv="content-type" content="text/html; charset=gbk">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <script type="text/javascript" src="/lang/b28n.js"></script>
 <script type="text/javascript" src="/js/utils.js"></script>
 <script type="text/javascript" src="/js/wifibasic_5g.js"></script>

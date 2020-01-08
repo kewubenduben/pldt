@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
   <message msgid="voipbasic_prompt" msgstr="On this page, you can config VoIP parameters." />
   <message msgid="voipprotocol_prompt" msgstr="On this page, you can config VoIP parameters. After configuring the device will automatically reboot." />

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
   <message msgid="voipbasic_prompt" msgstr="在本页面上，您可以配置语音基本参数。" />  
   <message msgid="voipprotocol_prompt" msgstr="您可以在本页面配置语音协议类型，配置后设备会自动重启生效。" />

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
   <message msgid="muti_natPrompt" msgstr="您可以在本页面进行NAT功能设置。" />
   <message msgid="Muti_natListHead" msgstr="NAT规则列表" />

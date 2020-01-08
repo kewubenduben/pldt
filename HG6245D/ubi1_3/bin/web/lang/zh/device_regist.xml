@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
   <message msgid="backPage" msgstr="返回登录页面" />
   <message msgid="inputTips" msgstr="请输入申请业务时所提供的帐号。" />

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
   <message msgid="webport_Prompt" msgstr="在本页面，您可以配置WEB的HTTP通信端口。设备重启生效。" />
   <message msgid="web_portTitle" msgstr="当前生效的WEB通信端口" />

@@ -1,6 +1,6 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html" charset="gbk">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html" charset="UTF-8">
 <script type="text/javascript" src="./js/jquery.js"></script>
 <script type="text/javascript" src="./js/jquery.validate.js"></script>
 <script type="text/javascript" src="./lang/b28n.js"></script>

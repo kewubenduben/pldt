@@ -5,7 +5,7 @@
 <!-- Copyright (c), Ralink Technology Corporation All Rights Reserved. -->
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
-<meta http-equiv="content-type" content="text/html; charset=gbk">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" href="../style/style.css" type="text/css"/>
 <script type="text/javascript" src="/lang/b28n.js"></script>
 <script type="text/javascript" src="/js/checkValue.js"></script>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
   <message msgid="restore_prompt" msgstr="On this page, you may restore several device configuration." />  
   <message msgid="restore_apply" msgstr="Restore" />  

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
 	  <message msgid="checktime_prompt" msgstr=" 您可以在本页面进行时间配置。" />
 	  <message msgid="ntpchecktime_title" msgstr="NTP校时" />

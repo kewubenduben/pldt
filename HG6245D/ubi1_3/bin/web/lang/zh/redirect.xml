@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
   <message msgid="redirect_prompt" msgstr="在本页面上，您可以配置页面重定向使能，以及重定向页面。" />
   <message msgid="redirect_title" msgstr="重定向" />

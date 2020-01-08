@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
 	<menu1 name="management" url="../management/FHadminRestore.asp" >
 			<menu2 name="device_admin" url="../management/FHadminRestore.asp" >

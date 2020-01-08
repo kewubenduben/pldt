@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
 	  <message msgid="lanstate_prompt" msgstr="您可以在本页面查询LAN接口状态。" />
 	  <message msgid="lState" msgstr="LAN状态" />

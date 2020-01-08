@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
   <message msgid="acl_funcPrompt" msgstr="On this page, you could configure ACL enable/disable, and enabled rules." />
   <message msgid="acl_usePrompt" msgstr="ACL-enabled before configureing rules. You can click on the button to add rules, delete rules after the selected row or full delete, or modify the rule after you selected a row. Finally, please click the submit button to submit all your configuration." />

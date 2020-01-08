@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
   <message msgid="log_prompt" msgstr="在本页面上，您可以查看日志信息。" />
   <message msgid="log_download" msgstr="下载" />

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>WebServer</title>
-<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link type="text/css" rel="stylesheet" href="./style/frame_pldt.css"/>
 <script type="text/javascript" src="./lang/b28n.js"></script>
 <script type="text/javascript" src="/js/utils.js"></script>

@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Language" content="zh-cn">
-<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Device Regist</title>
 <script type="text/javascript" src="/lang/b28n.js"></script>
 <script type="text/javascript" src="/js/utils.js"></script>

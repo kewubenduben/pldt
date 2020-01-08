@@ -4,7 +4,7 @@
 <head>
 <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
 <META HTTP-EQUIV="Expires" CONTENT="-1">
-<META http-equiv="Content-Type" content="text/html; charset=gbk">
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <script type="text/javascript" src="/lang/b28n.js"></script>
 <script type="text/javascript" src="/js/utils.js"></script>
 <script type="text/javascript" src="/js/checkValue.js"></script>

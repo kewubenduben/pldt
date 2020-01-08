@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="GBK"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <po>
   <message msgid="recontrol_prompt" msgstr="您可以开启或者关闭远程访问设备：关闭远程访问控制，以使外网无法访问web；或者开启远程访问控制，以使外网可以访问web。" />
   <message msgid="recontrol_prompt_romania" msgstr="在本页面，您可以开启或者关闭从https远程访问设备的权限。" />
