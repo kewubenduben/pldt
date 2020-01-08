@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="webport_Prompt" msgstr="在本页面，您可以配置WEB的HTTP通信端口。设备重启生效。" />
+  <message msgid="web_portTitle" msgstr="当前生效的WEB通信端口" />
+  <message msgid="web_portchangeTitle" msgstr="您所修改的WEB通信端口" />
+  <message msgid="web_portchangeTips" msgstr="(请输入 1024-65535 或 80)" />
+  <message msgid="Change_confirm" msgstr="您修改的端口在设备重启后生效!" />
+  <message msgid="web_portIllegalAlert" msgstr="有效端口范围:1024-65535、80" />
+  <message msgid="web_PortNullAlert" msgstr="请输入端口!" />
+  <message msgid="webport_apply" msgstr="应用" />
+  <message msgid="webport_cancel" msgstr="取消" />
+</po> 
+

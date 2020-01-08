@@ -1,0 +1,88 @@
+<po>
+  <message msgid="rule_add" msgstr="Add" />
+  <message msgid="rule_delete" msgstr="Delete" />
+  <message msgid="rule_deleteAll" msgstr="Delete All" />
+
+  <message msgid="apply" msgstr="Apply" />
+  <message msgid="cancel" msgstr="Cancel" />
+  
+  <message msgid="rule_most4RulesAlert" msgstr="You can configure up to 4 rules!" />
+  <message msgid="rule_most8RulesAlert" msgstr="You can configure up to 8 rules!" />
+  <message msgid="rule_most12RulesAlert" msgstr="You can configure up to 12 rules!" />
+  <message msgid="rule_most16RulesAlert" msgstr="You can configure up to 16 rules!" />
+  <message msgid="rule_most20RulesAlert" msgstr="You can configure up to 20 rules!" />
+  <message msgid="rule_most32RulesAlert" msgstr="You can configure up to 32 rules!" />
+  <message msgid="rule_noRuleAlert" msgstr="At present there is no rule, so you can not delete!" />
+  <message msgid="rule_noChooseAlert" msgstr="Please select a rule before deleting!" />
+  <message msgid="rule_deleteRuleConfirm" msgstr="Are you sure you want to delete the selected rule?" />
+  
+  <message msgid="pf_PortforwardingPrompt" msgstr="On this page, you could configure port forwarding." />
+
+  <message msgid="fw_filterListHead" msgstr="Port Forwarding Rules List" />
+  <message msgid="PFdescrip" msgstr="Description" />
+  <message msgid="The_private_Port" msgstr="Private Port" />
+  <message msgid="The_public_Port" msgstr="Public Port" />
+  <message msgid="Protocol" msgstr="Protocol" />
+  <message msgid="Enable" msgstr="Enable" />
+
+  <message msgid="pf_DescriptionTitle" msgstr="Description" />
+  <message msgid="pf_PriPortTitle" msgstr="Private Port" />
+  <message msgid="pf_PubPortTitle" msgstr="Public Port" />
+  <message msgid="pf_protocolTitle" msgstr="Protocol" />
+  <message msgid="pf_enabelTitle" msgstr="Enable" />
+
+  <message msgid="pf_add" msgstr="Add" />
+  <message msgid="pf_delete" msgstr="Delete" />
+  <message msgid="pf_deleteAll" msgstr="Delete All" />
+
+  <message msgid="pf_apply" msgstr="Apply" />
+  <message msgid="pf_cancel2" msgstr="Cancel" />
+
+  <message msgid="pf_mostRulesAlert" msgstr="You can configure 12 rules at most!" />
+  <message msgid="pf_noRuleAlert" msgstr="At present there is no rule, so you can not delete!" />
+  <message msgid="pf_noChooseAlert" msgstr="Please select a rule before deleting!" />
+  <message msgid="pf_deleteRuleConfirm" msgstr="Are you sure you want to delete the selected rule?" />
+
+  <message msgid="pf_ipIllegalAlert" msgstr="Please enter a valid ip!" />
+  <message msgid="pf_maskIllegalAlert" msgstr="Please enter a valid submet mask!" />
+  <message msgid="pf_PortNullAlert" msgstr="Please enter a valid port value!" />
+  <message msgid="pf_endPortTooSmallAlert" msgstr="The starting port should not be greater than the end port!" />
+  <message msgid="pf_portIllegalAlert" msgstr="Valid port range is 1 - 65535!" />
+  <message msgid="pf_portRepeadAlert" msgstr="Several ports are duplicated! Please re-enter!" />
+  <message msgid="pf_wanIllegalAlert" msgstr="Please select a valid WAN!" />
+
+  <message msgid="portMappingPrompt" msgstr="On this page, you could configure port mapping." />
+  <message msgid="pm_ruleListHead" msgstr="Port Mapping Rules List" />
+  <message msgid="pm_descripTitle" msgstr="Description" />
+  <message msgid="Protocol" msgstr="Protocol" />
+  <message msgid="pm_pubIPTitle" msgstr="Public IP" />
+  <message msgid="pm_pubPortTitle" msgstr="Public Port" />
+  <message msgid="pm_priIPTitle" msgstr="Private IP" />
+  <message msgid="pm_priPortTitle" msgstr="Private Port" />
+
+  <message msgid="description_tips" msgstr="( 0-31 characters, including alphanumeric, '-' and '_')" />
+  <message msgid="descripIllegalAlert" msgstr="Please enter valid description!" />
+  <message msgid="pm_portStartIllegalAlert" msgstr="Valid start port range is 1 - 65535!" />
+  <message msgid="pm_portEndIllegalAlert" msgstr="Valid end port range is 0 - 65535!" />
+  
+  <message msgid="v4StaticRoutePrompt" msgstr="On this page, you could configure IPv4 static route." />
+  <message msgid="v4_sr_ruleListHead" msgstr="IPV4 Static Route Rules List" />
+  
+  <message msgid="wanDisableTitle" msgstr="Current WAN isn't effective" />
+  <message msgid="ruleEnable" msgstr="Effective" />
+  <message msgid="ruleDisable" msgstr="Not effective" />
+  
+  <message msgid="wannameTitle" msgstr="WAN Name" />
+  <message msgid="ipTitle" msgstr="IP Address" />
+  <message msgid="gwTitle" msgstr="Gateway" />
+  <message msgid="maskTitle" msgstr="Subnet Mask" />
+  <message msgid="stateTitle" msgstr="State" />
+  <message msgid="Please creat INTERNET WAN first !" msgstr="Please creat INTERNET WAN first !" />
+  
+  <message msgid="bandwidthIllegalAlert" msgstr="Please enter valid bandwidth!" />
+
+  <message msgid="wifi_acl_Prompt" msgstr="On this page, you could configure WIFI ACL enable/disable, and enabled rules." />
+  <message msgid="wifi_acl_enable_title" msgstr="Blacklist/Whitelist" />
+  <message msgid="Disable" msgstr="Disable" />
+  <message msgid="wifi_acl_ruleListHead" msgstr="Access Control List" />
+</po>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="VPN basic apply" msgstr="提交" />
+  <message msgid="VPN basic cancel" msgstr="取消" />
+  <message msgid="VPN_prompt" msgstr="您可以在本页面配置VPN通道开启/关闭。" />
+  <message msgid="VPNEnable_title" msgstr="VPN通道" />
+  <message msgid="VPN_enable" msgstr="开启" />
+  <message msgid="VPN_disable" msgstr="关闭" />
+  
+  <message msgid="Tr069 qos prompt" msgstr="您可以在本页面配置QoS通道开启/关闭。" />
+  <message msgid="Tr069 qoS enable title" msgstr="QoS 使能" />
+  
+</po>

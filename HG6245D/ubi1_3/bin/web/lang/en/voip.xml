@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="voipbasic_prompt" msgstr="On this page, you can config VoIP parameters." />
+  <message msgid="voipprotocol_prompt" msgstr="On this page, you can config VoIP parameters. After configuring the device will automatically reboot." />
+  <message msgid="protocol_title" msgstr="VoIP Protocol" />
+  <message msgid="basic_title" msgstr="VoIP Basic Parameters" />
+  <message msgid="username_title" msgstr="VoIP Username(port1)" />
+  <message msgid="password_title" msgstr="VoIP Password(port1)" />
+  <message msgid="phoneno_title" msgstr="Telephone Number(port1)" />
+  <message msgid="username2_title" msgstr="VoIP Username(port2)" />
+  <message msgid="password2_title" msgstr="VoIP Password(port2)" />
+  <message msgid="phoneno2_title" msgstr="Telephone Number(port2)" />
+  <message msgid="Protocl_confirm" msgstr="Do you confirm config VoIP protocol? Device will reboot after confirmation." />
+  
+  <message msgid="proxip1_title" msgstr="First Proxy Server" />
+  <message msgid="proxip2_title" msgstr="Second Proxy Server" />
+  <message msgid="port_title" msgstr="Port" />
+
+  <message msgid="regip1_title" msgstr="First Register Server" />
+  <message msgid="regip2_title" msgstr="Second Register Server" />
+  <message msgid="outbound_ip_title" msgstr="Outbound Proxy Server" />
+  <message msgid="secOutbound_ip_title" msgstr="Second Outbound Proxy Server" />
+  
+  <message msgid="f_dns_title" msgstr="First DNS Address" />
+  <message msgid="s_dns_title" msgstr="Second DNS Address" />
+  <message msgid="svlan_p_title" msgstr="SVLAN Priority" />
+  <message msgid="cvlan_p_title" msgstr="CVLAN Priority" />
+  <message msgid="fill_title" msgstr="Fill" />
+  <message msgid="nofill_title" msgstr="Not Fill" />
+  
+  <message msgid="address_tip" msgstr="(IP or Domain)" />
+  <message msgid="wConnectionType" msgstr="IP Mode" />
+  <message msgid="wStaticMode" msgstr="STATIC Mode" />
+  <message msgid="wDhcpMode" msgstr="DHCP Mode" />
+  <message msgid="wpppoeMode" msgstr="PPPoE Mode" />
+  <message msgid="wPppoeUser" msgstr="Username" />
+  <message msgid="wPppoePassword" msgstr="Password" />
+  <message msgid="wNetmask" msgstr="Netmask" />
+  <message msgid="wGateway" msgstr="Gateway" />
+  <message msgid="wPppoeCon_userTips" msgstr=" (You can input 1-32 characters)" />
+  <message msgid="wPppoeCon_pwdTips" msgstr=" (You can input 1-32 characters)" />
+
+  <message msgid="timer_promt" msgstr="On this page, you can config VoIP timer and logplot." />
+  <message msgid="logplotmode_title" msgstr="Logplot Mode" />
+  <message msgid="max_title" msgstr="Max" />
+  <message msgid="min_title" msgstr="Min" />
+  <message msgid="packetizationperiod_title" msgstr="Packetization Period" />
+  <message msgid="packetizationperiod_title2" msgstr="Packetization Period (port 2)" />
+  <message msgid="logplot_title" msgstr="Logplot" />
+  <message msgid="sipregistperiod_title" msgstr="Regist Period" />
+  <message msgid="shortdigittimer_title" msgstr="Short Digit Timer" />
+  <message msgid="longdigittimer_title" msgstr="Long Digit Timer" />
+  <message msgid="voiplongcalltime_title" msgstr="Long Call Time" />
+  <message msgid="voiphanguptime_title" msgstr="Hang Up Time" />
+  <message msgid="voipbusytime_title" msgstr="Busy Time" />
+  <message msgid="flashtime_title" msgstr="Sliding Spring Time" />
+
+  <message msgid="slidingspring_tip" msgstr="90~2500(ms), multiple of 10" />
+  <message msgid="slidingspring_50tip" msgstr="50~900(ms), multiple of 10" />
+  <message msgid="startdigittimer_title" msgstr="Start Digit Timer" />
+  <message msgid="voipreinter_title" msgstr="Retransmission Interval" />
+  <message msgid="voipsonwtime_title" msgstr="Avalanche Timer" />
+  <message msgid="timer_title" msgstr="VoIP Timer Param" />
+  
+  <message msgid="jitterBuffer_title" msgstr="Jitter Buffer" />
+  <message msgid="jitterRange_title" msgstr="Jitter Buffer Range" />
+  
+  <message msgid="port2_title_suffix" msgstr="(port 2)" />  
+
+  <message msgid="voipadvance_prompt" msgstr="On this page, you can config VoIP advance parameters." />
+  <message msgid="advance_title" msgstr="VoIP Advance Param" />
+  <message msgid="voipback_title" msgstr="EchoCancel" />
+  <message msgid="dtmf_title" msgstr="DTMF Mode" />
+  <message msgid="RFC2833_title" msgstr="RFC2833 PT Value" />
+  <message msgid="RFC2198_title" msgstr="RFC2198 PT Value" />
+  <message msgid="fox_title" msgstr="Fax Mode" />
+  <message msgid="foxctl_title" msgstr="Fax Control Mode" />
+  <message msgid="fanji_title" msgstr="ReversedPolarity" />
+  <message msgid="voip_enable" msgstr="Enable" />
+  <message msgid="voip_disable" msgstr="Disable" />
+  <message msgid="callwait_title" msgstr="Call-waiting" />
+  <message msgid="3call_title" msgstr="Call Conference" />
+  <message msgid="tran_title" msgstr="Character Escape Mode" />
+  <message msgid="num_disptype_title" msgstr="Caller-ID Head Field" />
+  <message msgid="num_disp_title" msgstr="CallerIDMode" />
+  <message msgid="alive_time_title" msgstr="Alive Times" />
+  <message msgid="alive_title" msgstr="Alive Interval" />
+  <message msgid="set_gain_title" msgstr="Output Gain" />
+  <message msgid="rec_gain_title" msgstr="Input Gain" />
+  <message msgid="voip_trans" msgstr="Transparent" />
+  <message msgid="alivetype_title" msgstr="Keepalive Mode" />
+  <message msgid="localPort_title" msgstr="Local Port" />
+  <message msgid="SilenceSuppression_title" msgstr="Silence Suppression" />
+  
+
+  <message msgid="voipback_title2" msgstr="EchoCancel(port 2)" />
+  <message msgid="num_disp_title2" msgstr="CallerIDMode(port 2)" />
+  <message msgid="callwait_title2" msgstr="Call-waiting(port 2)" />
+  <message msgid="3call_title2" msgstr="Call Conference(port 2)" />
+  <message msgid="set_gain_title2" msgstr="Output Gain(port 2)" />
+  <message msgid="rec_gain_title2" msgstr="Input Gain(port 2)" />
+  <message msgid="SilenceSuppression2_title" msgstr="Silence Suppression(port 2)" />
+
+  <message msgid="VOIP_Channel" msgstr="VoIP Channel" />
+  <message msgid="softswitch" msgstr="Softswitch" />
+  <message msgid="auto_negotiation" msgstr="Auto-negotiation" />
+  <message msgid="passive_tip" msgstr="Passive" />
+  <message msgid="active_tip" msgstr="Active" />
+  <message msgid="disable_tip" msgstr="Disable" />
+  <message msgid="voip_Escape1" msgstr="Not escape" />
+  <message msgid="voip_Escape0" msgstr="Escape" />
+  <message msgid="num_disptype2" msgstr="P-Asserted-id" />
+  <message msgid="num_disptype1" msgstr="From" />
+  <message msgid="active_enable" msgstr="Active" />  
+
+  <message msgid="web_recgainNullAlert" msgstr="Please input Input Gain!" />
+  <message msgid="web_setgainNullAlert" msgstr="Please input Output Gain!" />
+  <message msgid="web_aliveNullAlert" msgstr="Please input Alive Times/Alive Interval!" />
+  <message msgid="web_aliveIllegalAlert" msgstr="Alive Times/Alive Value should be 0～65535!" />
+  <message msgid="web_RFC2833NullAlert" msgstr="Please input RFC2833 PT Value!" />
+  <message msgid="web_RFC2198NullAlert" msgstr="Please input RFC2198 PT Value!" />
+  <message msgid="web_RFC2198IllegalAlert" msgstr="RFC2198 PT Value should be 96～127!" />
+  <message msgid="web_RFC2833IllegalAlert" msgstr="RFC2833 PT Value should be 96～127!" />
+  <message msgid="web_gainIllegalAlert" msgstr="Input Gain/Output Gain should be -12～6!" />
+  <message msgid="usernamelong_tip" msgstr="(Username length should be 1-64.)" />
+  <message msgid="passwordlong_tip" msgstr="(Password length should be 1-64.)" />
+
+  <message msgid="Username is illegal." msgstr="Username is illegal!" />
+  <message msgid="password is illegal." msgstr="Password is illegal!" />
+  <message msgid="phone number is illegal." msgstr="Phone number is illegal!" />
+  <message msgid="usernameRepeatAlert" msgstr="Please input different username!" />
+  <message msgid="telNumRepeatAlert" msgstr="Please input different phone number!" />
+  <message msgid="Please input first proxy server address." msgstr="Please input First Proxy Server!" />
+  <message msgid="Please input first proxy server port." msgstr="Please input First Proxy Server Port!" />
+  <message msgid="First proxy server port is illegal." msgstr="First Proxy Server Port is illegal!" />
+  <message msgid="Second proxy server port is illegal." msgstr="Second Proxy Server Port is illegal!" />
+
+  <message msgid="Please input first Register server address." msgstr="Please input First Register Server!" />
+  <message msgid="Please input first Register server port." msgstr="Please input First Register Server Port!" />
+  <message msgid="First Register server port is illegal." msgstr="First Register Server Port is illegal!" />
+  <message msgid="Second Register server port is illegal." msgstr="Second Register Server Port is illegal!" />
+  <message msgid="Please input IP." msgstr="Please input IP!" />
+  <message msgid="IP is illegal." msgstr="IP is illegal!" />
+  <message msgid="Please input netmask." msgstr="Please input Netmask!" />
+  <message msgid="Netmask is illegal." msgstr="Netmask is illegal!" />
+  <message msgid="Please input gateway." msgstr="Please input Gateway!" />
+  <message msgid="Gateway is illegal." msgstr="Gateway is illegal!" />
+  <message msgid="Please input PPPOE username." msgstr="Please input PPPoE username!" />
+  <message msgid="Please input PPPOE password." msgstr="Please input PPPoE password!" />
+  
+  <message msgid="outboundProxyIPIllegalAlert" msgstr="Outbound Proxy Server is illegal!" />
+  <message msgid="outboundProxyPortIllegalAlert" msgstr="Outbound Proxy Server Port is illegal!" />
+  <message msgid="secOutboundProxyPortIllegalAlert" msgstr="Second Outbound Proxy Server Port is illegal!" />
+
+  <message msgid="mgc1_title" msgstr="Primary MGC Address" />
+  <message msgid="mgc2_title" msgstr="Standby MGC Address" />
+  <message msgid="mgcport1_title" msgstr="Primary MGC Port" />
+  <message msgid="mgcport2_title" msgstr="Standby MGC Port" />
+  <message msgid="mgport_title" msgstr="Local MG Port" />
+  <message msgid="fristdns_title" msgstr="Primary DNS Address" />
+  <message msgid="secdns_title" msgstr="Standby DNS Address" />
+  
+  <message msgid="mg_title" msgstr="MG Marking" />
+  <message msgid="mg_type_title" msgstr="MG Marking Mode" />
+  <message msgid="rtpendpointnamerule_title" msgstr="RTP End Point Name" />
+  <message msgid="prefix_title" msgstr="Prefix" />
+  <message msgid="rtpendpointnumleng_title" msgstr="Digital Part Length" />
+  <message msgid="rtpendpointalign_title" msgstr="Alignment Mode" />
+  <message msgid="rtpendpointnumval_title" msgstr="Digital Part Initial Value" />
+  <message msgid="phy_endpointnamerule_title" msgstr="Physics End Point Name" />
+
+  <message msgid="illegalAlert" msgstr=" is illegal!" />
+  <message msgid="nullAlert" msgstr="Please input " />
+  
+  <message msgid="Please input first MGC address." msgstr="Please input Primary MGC Address!" />
+  <message msgid="First MGC adress is illegal." msgstr="Primary MGC Address is illegal!" />
+  <message msgid="Please input first MGC port." msgstr="Please input Primary MGC Port!" />
+  <message msgid="First MGC port illegal." msgstr="Primary MGC Port is illegal!" />
+  <message msgid="Second MGC address illegal." msgstr="Standby MGC Address is illegal!" />
+  <message msgid="Second MGC port illegal." msgstr="Standby MGC Port is illegal!" />
+  <message msgid="Please input VLAN." msgstr="Please input VLAN!" />
+  <message msgid="VLAN is illegal." msgstr="VLAN is illegal!" />
+  <message msgid="Please input priority." msgstr="Please input VLAN Priority!" />
+  <message msgid="Priority is illegal." msgstr="VLAN Priority is illegal!" />
+  <message msgid="Please input MG port." msgstr="Please input Local MG Port!" />
+  <message msgid="MG port is illegal." msgstr="Local MG port is illegal!" />
+
+  <message msgid="alert_voipphy_endpointnumval" msgstr="Please input the Digital Part Initial Value of Physics End Point!" />
+  <message msgid="alert_voipphy_endpointnumleng" msgstr="Please input the Digital Part Length of Physics End Point!" />
+  <message msgid="alert_voipphy_endpointstart" msgstr="Please input the Prefix of Physics End Point!" />
+  <message msgid="alert_voiprtpendpointnumval" msgstr="Please input the Digital Part Initial Value of RTP End Point!" />
+  <message msgid="alert_voiprtp_tid" msgstr="Please input the number of RTP TID!" />
+  <message msgid="alert_voiprtpendpointnumleng" msgstr="Please input the Digital Part Length of RTP End Point!" />
+  <message msgid="alert_voiprtpendpointstart" msgstr="Please input the Prefix of RTP End Point!" />
+
+  <message msgid="Please input start digit timer" msgstr="Please input Start Digit Timer!" />
+  <message msgid="Please input voip short digit timer" msgstr="Please input Short Digit Timer!" />
+  <message msgid="Please input voip long digit timer." msgstr="Please input Long Digit Timer!" />
+  <message msgid="Please input voip long call time." msgstr="Please input Long Call Time!" />
+  
+  <message msgid="Please input hang up time." msgstr="Please input Hang Up Time!" />
+  <message msgid="Please input busy time." msgstr="Please input Busy Time!" />
+  <message msgid="Please input sliding spring time." msgstr="Please input Sliding Spring Time!" />
+  <message msgid="The value you input is illegal" msgstr="The value you input is illegal!" />
+  <message msgid="Please input voip packetization period." msgstr="Please input Packetization Period!" />
+  <message msgid="Please input voip regist period." msgstr="Please input VoIP Regist Period!" />
+  <message msgid="onHookConfirmTimeNullAlert" msgstr="Please input OnHook Confirm Time!" />
+  
+  <message msgid="Please input Regist Message retransmission interval." msgstr="Please input Regist Message Retransmission Interval." />
+  <message msgid="Please input Avalanche Timer." msgstr="Please input Avalanche Timer!" />
+  <message msgid="maxValueIllegalAlert" msgstr="The value could not be less than the value on the left!" />
+
+  <message msgid="codingrepeat" msgstr="Coding mode repeat, please check it!" />
+  <message msgid="voip_codec_funcPrompt" msgstr="On this page, you can config the related parameters of the VoIP coding mode." />
+  <message msgid="port1_title" msgstr=" Port1 " />
+  <message msgid="port2_title" msgstr=" Port2 " />
+  <message msgid="voip_codecPriTitle" msgstr="Priority" />
+  <message msgid="voip_codecTitle" msgstr="Mode" />
+  
+  <message msgid="voipenable_prompt" msgstr="On this page, you can config VoIP key parameters." />
+  
+  <message msgid="hotline_Prompt" msgstr="On this page, you can config VoIP Hotline parameters." />
+  <message msgid="hotlineport1_title" msgstr="Hotline(port1)" />
+  <message msgid="hotlineport2_title" msgstr="Hotline(port2)" />
+  <message msgid="enableTitle" msgstr="Enable" />
+  <message msgid="HotlineNumberTitle" msgstr="Hotline Number" />
+  <message msgid="HotlineDelayTitle" msgstr="Hotline Delay" />
+  
+  <message msgid="voip_apply" msgstr="Apply" />
+  <message msgid="voip_cancel" msgstr="Cancel" />
+</po>  
+

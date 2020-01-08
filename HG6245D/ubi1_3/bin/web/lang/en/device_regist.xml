@@ -1,0 +1,50 @@
+<po>
+  <message msgid="backPage" msgstr="Return" />
+  <message msgid="inputTips" msgstr="Please enter password provided by operators" />
+  <message msgid="loidTitle" msgstr="LOID" />
+  <message msgid="pwdTitle" msgstr="Password" />
+  <message msgid="regist_submit" msgstr="Activate" />
+  <message msgid="regist_reset" msgstr="Reset" />
+  
+  <message msgid="oltAuthing" msgstr="Registering to the OLT." />
+  <message msgid="oltAuthFailed" msgstr="Failed to register to the OLT." />
+ 
+  <message msgid="oltAuthFailed_info" msgstr="Registering to the OLT. Please check LOID and password!" />
+  <message msgid="oltAuthFailed_loid" msgstr="Registering to the OLT(LOID error). Please check LOID and password!" />
+  <message msgid="oltAuthFailed_lopwd" msgstr="Registering to the OLT(logic password error). Please check LOID and password!" />
+  <message msgid="oltAuthFailed_loid_conflict" msgstr="Registering to the OLT(LOID conflict). Please check LOID and password!" />
+  <message msgid="oltAuthFailed_physn_conflict" msgstr="Registering to the OLT(Physical SN conflict). Please check the input!" />
+  <message msgid="oltAuthFailed_noresource" msgstr="Registering to the OLT(NO RESOURCE), please retry!" />
+  <message msgid="oltAuthFailed_type" msgstr="Registering to the OLT(ONU type error)" />
+  <message msgid="oltAuthFailed_physn" msgstr="Registering to the OLT(Physical SN error). Please check the input!" />
+  <message msgid="oltAuthFailed_phypwd" msgstr="Registering to the OLT(Physical password error). Please check the input!" />
+  <message msgid="oltAuthFailed_phypwd_conflict" msgstr="Registering to the OLT(Physical password conflict). Please check the input!" />
+  <message msgid="oltAuthFailed_default" msgstr="Registering to the OLT, please retry!" />
+
+  <message msgid="serviceDistributingIncomplete" msgstr="Last service distribution isn't complete, please re-register after visiting WEB and restore all configuration." />
+  <message msgid="registTimeout" msgstr="Activation timeout." />
+  <message msgid="registAlready" msgstr="You have successfully registered, without re-registering." />
+  <message msgid="registAlready2" msgstr="You have successfully registered, without re-registering. To re-register, please restore all the configuration and then try again." />
+  
+  <message msgid="getACSIPing" msgstr="Obtaining IP address of management channel." />
+  <message msgid="getACSIPFailed" msgstr="Failed to obtain IP address of management channel." />
+  <message msgid="getACSIPSuccess" msgstr="Obtain IP address of management channel success." />
+  <message msgid="retryRestTimes" msgstr="Please retry(the rest number to attempt: " />
+  <message msgid="retryExceedMaxTimes" msgstr="You have tried the max number of certification, please contact customer service!" />
+  <message msgid="ACSAuthSuccessWaitingDistribute" msgstr="Registration successful. Waiting for service distribution." />
+  <message msgid="ACSAuthSuccess" msgstr="Registration successful. " />
+  <message msgid="serviceDistributing" msgstr="Registration successful. Service is being distributed." />
+  <message msgid="serviceDistributeSuccess" msgstr="Registration successful. Service distribution successful." />
+  <message msgid="serviceDistributeFailed" msgstr="Failed to distribute service." />
+  
+  <message msgid="ACSAuthFailed_pwd" msgstr="User password doesn't exist!" />
+  <message msgid="ACSAuthFailed_loid" msgstr="User LOID doesn't exist!" />
+  <message msgid="ACSAuthFailed_loidpwd" msgstr="User LOID and password match failed!" />
+  <message msgid="ACSAuthFailed_password" msgstr="Password doesn't exist!" />
+  <message msgid="ACSAuthing" msgstr="Being registered with the ACS." />
+  <message msgid="ACSAuthFailed" msgstr="Failed to register to the ACS." />
+ 
+  <message msgid="loidNullAlert" msgstr="LOID is null! Please enter LOID!" /> 
+  
+</po>
+

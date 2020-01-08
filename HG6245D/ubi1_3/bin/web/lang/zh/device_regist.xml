@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="backPage" msgstr="返回登录页面" />
+  <message msgid="inputTips" msgstr="请输入申请业务时所提供的帐号。" />
+  <message msgid="loidTitle" msgstr="逻辑ID" />
+  <message msgid="pwdTitle" msgstr="密码" />
+  <message msgid="regist_submit" msgstr=" 注 册 " />
+  <message msgid="regist_reset" msgstr=" 取 消 " />
+  
+  <message msgid="oltAuthing" msgstr="终端正在注册OLT。" />
+  <message msgid="oltAuthFailed" msgstr="注册失败，请重试。" />
+ 
+  <message msgid="oltAuthFailed_info" msgstr="在OLT上注册失败，请检查逻辑ID和密码是否正确。" />
+  <message msgid="oltAuthFailed_loid" msgstr="在OLT上注册失败(逻辑ID错误)，请检查逻辑ID和密码是否正确。" />
+  <message msgid="oltAuthFailed_lopwd" msgstr="在OLT上注册失败(逻辑密码错误)，请检查逻辑ID和密码是否正确。" />
+  <message msgid="oltAuthFailed_loid_conflict" msgstr="在OLT上注册失败(逻辑ID冲突)，请检查逻辑ID和密码是否正确。" />
+  <message msgid="oltAuthFailed_physn_conflict" msgstr="在OLT上注册失败(物理SN冲突)，请检查输入是否正确。" />
+  <message msgid="oltAuthFailed_noresourse" msgstr="在OLT上注册失败(无资源)，请重试。" />
+  <message msgid="oltAuthFailed_type" msgstr="在OLT上注册失败(ONU类型错误)。" />
+  <message msgid="oltAuthFailed_physn" msgstr="在OLT上注册失败(物理SN错误)，请检查输入是否正确。" />
+  <message msgid="oltAuthFailed_phypwd" msgstr="在OLT上注册失败(物理密码错误)，请检查输入是否正确。" />
+  <message msgid="oltAuthFailed_phypwd_conflict" msgstr="在OLT上注册失败(物理密码冲突)，请检查输入是否正确。" />
+  <message msgid="oltAuthFailed_default" msgstr="在OLT上注册失败，请重试。" />
+
+  <message msgid="serviceDistributingIncomplete" msgstr="上次设备注册业务下发不完整，请登录WEB进行配置全恢复后重新注册。" />
+  <message msgid="registTimeout" msgstr="注册超时！请检查线路后重试。" />
+  <message msgid="registAlready" msgstr="已经注册成功，无需重新注册。" />
+  <message msgid="registAlready2" msgstr="已经注册成功，无需重新注册。如需重新注册，请进行配置全恢复后尝试。" />
+  
+  <message msgid="getACSIPing" msgstr="OLT注册成功，终端正在获取管理地址；" />
+  <message msgid="getACSIPFailed" msgstr="终端获取管理地址失败，请重试。" />
+  <message msgid="getACSIPSuccess" msgstr="终端获取管理地址成功；" />
+  <message msgid="retryRestTimes" msgstr="请重试（剩余尝试次数：" />
+  <message msgid="retryExceedMaxTimes" msgstr="已超出终端认证最大次数，请联系客服。" />
+  <message msgid="ACSAuthSuccessWaitingDistribute" msgstr="终端注册管理平台成功，等待下发业务数据；" />
+  <message msgid="ACSAuthSuccess" msgstr="终端注册管理平台成功。" />
+  <message msgid="serviceDistributing" msgstr="正在下发业务，请勿断电或插拔光纤；" />
+  <message msgid="serviceDistributeSuccess" msgstr="注册全部完成，业务下发配置成功，欢迎使用!" />
+  <message msgid="serviceDistributeFailed" msgstr="注册成功，下发业务失败。" />
+  
+  <message msgid="ACSAuthFailed_pwd" msgstr="用户认证码不存在。" />
+  <message msgid="ACSAuthFailed_loid" msgstr="用户逻辑ID不存在。" />
+  <message msgid="ACSAuthFailed_loidpwd" msgstr="用户逻辑ID与用户认证码匹配失败。" />
+  <message msgid="ACSAuthFailed_password" msgstr="Password不存在。" />
+  <message msgid="ACSAuthing" msgstr="终端正在注册管理平台；" />
+  <message msgid="ACSAuthFailed" msgstr="注册失败，请重试。" />
+  
+  <message msgid="loidNullAlert" msgstr="逻辑ID为空，请输入逻辑ID!" /> 
+  
+</po>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="IPSEC basic apply" msgstr="提交" />
+  <message msgid="IPSEC basic cancel" msgstr="取消" />
+
+  
+  <message msgid="IPSEC_prompt" msgstr="您可以在这里开启/关闭IPSec报文转发功能。" />
+
+  <message msgid="IPSECEnable_title" msgstr="IPSec" />
+  
+  <message msgid="IPSEC_enable" msgstr="启用" />
+  <message msgid="IPSEC_disable" msgstr="禁用" />
+</po>
+

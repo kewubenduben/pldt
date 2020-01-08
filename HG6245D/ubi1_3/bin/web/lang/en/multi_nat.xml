@@ -1,0 +1,30 @@
+<po>
+  <message msgid="muti_natPrompt" msgstr="On this page, you could configure Multi NAT." />
+  <message msgid="Muti_natListHead" msgstr="Multi NAT Rules List" />
+  <message msgid="mn_descrip_title" msgstr="Description" />
+  <message msgid="mn_Type_title" msgstr="Rule Type" />
+  <message msgid="mn_locips_title" msgstr="Local Start IP" />
+  <message msgid="mn_locipe_title" msgstr="Local End IP" />  
+  <message msgid="mn_pubips_title" msgstr="Public Start IP" />
+  <message msgid="mn_pubipe_title" msgstr="Public End IP" />
+
+  <message msgid="pf_add" msgstr="Add" />
+  <message msgid="pf_delete" msgstr="Delete" />
+  <message msgid="pf_deleteAll" msgstr="Delete All" />
+
+  <message msgid="pf_apply" msgstr="Apply" />
+  <message msgid="pf_cancel2" msgstr="Cancel" />
+
+  <message msgid="pf_mostRulesAlert" msgstr="You can configure 8 rules at most!" />
+  <message msgid="pf_noRuleAlert" msgstr="At present there is no rule, so you can not delete!" />
+  <message msgid="pf_noChooseAlert" msgstr="Please select a rule before deleting!" />
+  <message msgid="pf_deleteRuleConfirm" msgstr="Are you sure you want to delete the selected rule?" />
+
+  <message msgid="pf_ipIllegalAlert" msgstr="Please enter a valid IP!" />  
+  <message msgid="pf_endPortTooSmallAlert" msgstr="The starting address should not be greater than the end address!" />
+  <message msgid="IP_longAlert" msgstr="IP address range is too long, please confirm IP address range is within 256!" />
+  <message msgid="Please creat INTERNET WAN first !" msgstr="Please creat INTERNET WAN first !" />
+
+  <message msgid="description_tips" msgstr="( 0-31 characters, including alphanumeric, '-' and '_')" />
+  <message msgid="descripIllegalAlert" msgstr="Please enter valid description!" />
+</po>  

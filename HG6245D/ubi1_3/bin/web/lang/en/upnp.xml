@@ -1,0 +1,22 @@
+<po>
+  <message msgid="upnpEnableApply" msgstr="Apply" />
+  <message msgid="upnpEnableCancel" msgstr="Cancel" />
+   <message msgid="upnpcfg_remove" msgstr="Remove Configuration" />
+  <message msgid="upnp_prompt" msgstr="On this page, you could configure UPnP enable/disable. " />
+  
+  <message msgid="dlna_prompt" msgstr="On this page, you could enable or disable DLNA service. Please make sure that you have inserted the removable storage device and USB port first!" />
+  <message msgid="usb_pathTitle" msgstr="USB Partition" />
+  <message msgid="dlnaEnable_title" msgstr="DLNA Service" />
+  <message msgid="dlna_pathTitle" msgstr="Media Shared Directory" />
+  <message msgid="dlna_path_noalert" msgstr="Please input valid media shared directory!" />
+  
+  <message msgid="upnp_enable" msgstr="Enable" />
+  <message msgid="upnp_disable" msgstr="Disable" />
+  <message msgid="upnp_wan_title" msgstr="WAN Name" />
+
+  <message msgid="igmp_prompt" msgstr="On this page, you could configure multicust mode. " />
+  <message msgid="upnpEnable_title" msgstr="IGMP Mode" />
+  <message msgid="upnpEnable_title2" msgstr="MLD Mode" />
+  <message msgid="igmp_apply" msgstr="Apply" />
+
+</po>

@@ -1,0 +1,143 @@
+<po>
+  <message msgid="firewall_apply" msgstr="Apply" />
+  <message msgid="firewall_cancel" msgstr="Cancel" />
+  
+  <message msgid="firewall_prompt" msgstr="You could configure firewall enable/disable here. " />
+  <message msgid="firewallEnable_title" msgstr="Firewall Enable" />  
+  <message msgid="firewall_enable" msgstr="Enable" />
+  <message msgid="firewall_disable" msgstr="Disable" />
+  <message msgid="fw_srcIPv6Title" msgstr="Src IPv6" />
+  <message msgid="fw_dstIPv6Title" msgstr="Dst IPv6" />
+  <message msgid="fw_ipv6_sourceIllegalAlert" msgstr="Please input source IPv6!" />
+  <message msgid="fw_ipv6_dstIllegalAlert" msgstr="Please input dst IPv6!" />
+  <message msgid="fw_ipv6_ipNullAlert" msgstr="Please input source IPv6 or dst IPv6!" />
+  <message msgid="pf_portIllegalAlert" msgstr="Valid port range is 1 to 65535." />
+  <message msgid="mtu_IllegalAlert" msgstr="The value of MTU is unavailable." />  
+
+  <message msgid="firewall_ipv4filterup_title" msgstr="Filter Mode" />
+  <message msgid="firewall_ipfilterup_title" msgstr="Uplink" />
+  <message msgid="firewall_ipfilterdown_title" msgstr="Downlink" />
+  <message msgid="firewall_white" msgstr="White List" />
+  <message msgid="firewall_black" msgstr="Black List" />
+
+  <message msgid="pro_PortScan_prompt" msgstr="You could configure Anti Port Scan enable/disable here. " />
+  <message msgid="pro_PortScan_title" msgstr="Anti Port Scan" />
+  <message msgid="pps_enable" msgstr="Enable" />
+  <message msgid="pps_disable" msgstr="Disable" />
+  
+  <message msgid="fw_ipfilterPrompt" msgstr="If the firewall is enabled, the rules take effect." />
+  <message msgid="fw_add" msgstr="Add" />
+  <message msgid="fw_delete" msgstr="Delete" />
+  <message msgid="fw_deleteAll" msgstr="Delete All" />
+  <message msgid="fw_filterListHead" msgstr="Filtering Rules List" />
+  <message msgid="fw_directionTitle" msgstr="Direction" />
+  <message msgid="fw_srcIPTitle" msgstr="Src IP" />
+  <message msgid="fw_srcPortTitle" msgstr="Src Port" />
+  <message msgid="fw_dstIPTitle" msgstr="Dst IP" />
+  <message msgid="fw_dstPortTitle" msgstr="Dst Port" />
+  <message msgid="fw_protocolTitle" msgstr="Protocol" />
+  
+  <message msgid="fw_mostRulesAlert" msgstr="Can only create 50 rules!" />
+  <message msgid="fw_noRuleAlert" msgstr="At present there is no rule, can not be deleted!" />
+  <message msgid="fw_noChooseAlert" msgstr="Please select a rule and then delete!" />
+  <message msgid="fw_ipIllegalAlert" msgstr="Please enter a valid IP!" />
+  <message msgid="fw_maskIllegalAlert" msgstr="Please enter a valid Mask!" />
+  <message msgid="fw_startPortNullAlert" msgstr="If the specified end port, also specify the starting port!" />
+  <message msgid="fw_portIllegalAlert" msgstr="Valid port range is 1 to 65535." />
+  <message msgid="fw_endPortTooSmallAlert" msgstr="End port should be greater than or equal to the start port!" />
+  <message msgid="fw_endIPTooSmallAlert" msgstr="End IP should be greater than or equal to the start IP!" />
+
+  <message msgid="fw_most4rulealert" msgstr="You can configure up to 4 rules!" />
+  <message msgid="fw_most8RulesAlert" msgstr="You can configure up to 8 rules!" />
+  <message msgid="fw_most50RulesAlert" msgstr="You can configure up to 50 rules!" />
+  <message msgid="fw_most16RulesAlert" msgstr="You can configure up to 16 rules!" />
+  <message msgid="fw_most32RulesAlert" msgstr="You can configure up to 32 rules!" />
+ 
+  <message msgid="fw_deleteRuleConfirm" msgstr="Are you sure to delete the selected rule?" />
+  
+  <message msgid="ipFilter_syncAlert" msgstr="Get ip filtering data failed! Please try again!" />  
+
+  <message msgid="url_filterPrompt" msgstr="If the firewall is enabled, the rules take effect, then the URL matching the filter rules will be banned. " />
+  <message msgid="URLenable_title" msgstr="Enable" />
+  <message msgid="urldown_title" msgstr="URL Blacklist/Whitelist" />
+  <message msgid="url_filterListHead" msgstr="URL Filtering Table" />
+  <message msgid="urlip" msgstr="URL Address" />
+  <message msgid="urltime" msgstr="Time" />
+  <message msgid="url_enableTitle" msgstr="State" />
+  <message msgid="url_start_time" msgstr="Start Time" />
+  <message msgid="url_end_time" msgstr="End Time" />
+  <message msgid="url_TimeIllegalAlert" msgstr="Please enter valid time!" />
+  <message msgid="url_time_infor" msgstr="(Hour:Min, 24)" />
+
+  <message msgid="macaddr_filterPrompt" msgstr="If the firewall is enabled, the rules take effect, then the MAC Addresses matching the filter rules will be banned." />
+  <message msgid="v6_macaddr_filterPrompt" msgstr="If the firewall is enabled, the rules take effect, then the IPv6 MAC Addresses matching the filter rules will be banned. " />
+  <message msgid="macaddrenable_title" msgstr="MAC Filtering Enable" />
+  <message msgid="v6_macaddrenable_title" msgstr="IPv6 MAC Filtering Enable" />
+  <message msgid="macaddrdown_title" msgstr="MAC Filtering Blacklist/Whitelist" />
+  <message msgid="v6_macaddrdown_title" msgstr="IPv6 MAC Filtering Blacklist/Whitelist" />
+  <message msgid="macaddr_filterListHead" msgstr="MAC Address Filtering Table" />
+  <message msgid="v6_macaddr_filterListHead" msgstr="IPv6 MAC Address Filtering Table" />
+  <message msgid="macaddr" msgstr="MAC Address" />
+  <message msgid="macaddr_macTips" msgstr=" (You can input alphanumeric and ':', such as 00:24:21:19:BD:E4)" />
+  <message msgid="macaddr_most10rulealert" msgstr="You can set up to 10 rules!" />
+
+  <message msgid="fw_NoHostURL" msgstr="Please enter the URL to the filter!" />
+  <message msgid="fw_URLIllegalAlert" msgstr="Please enter a valid URL!" />
+  <message msgid="(1-31)" msgstr="(1 - 31 characters)" />
+
+  <message msgid="fw_nomacalert" msgstr="Please enter a MAC address!" />
+  <message msgid="fw_macillegalalert" msgstr="Please enter a valid MAC address!" />
+
+  <message msgid="dhcp_filterPrompt" msgstr="If the firewall is enable, the configuration of the rules take effect, then Blocking the MAC address to get the DHCP." />
+  <message msgid="dhcpaddrenable_title" msgstr="DHCP Filtering Enable" />
+  <message msgid="dhcpaddrdown_title" msgstr="DHCP Filtering Blacklist/Whitelist" />
+  <message msgid="dhcpaddr_filterListHead" msgstr="DHCP Filtering Table" />
+
+  <message msgid="pro_ddos_prompt" msgstr="On this page, you could enable/disable DDOS." />
+  <message msgid="pro_ddos_title" msgstr="DDOS" />
+  
+  <message msgid="wifiacl_filterPrompt" msgstr="On this page, you could configure WIFI ACL." />
+  <message msgid="wifiacl_mostRulesAlert" msgstr="You can only set up to 10 rules!" />
+  
+  <message msgid="fw_rulesRepeatAlert" msgstr="Rule repeat, please re-enter!"/>
+
+  <message msgid="wanAclPrompt" msgstr="On this page, you can configure network access control based on internet WAN port. Access to the WAN port is allowed from the configured source addresses. If no source address is configured, access to the WAN port from any addresses is allowed. " />
+  <message msgid="ACLenable_title" msgstr="WAN ACL Enable"/>
+  <message msgid="acl_head" msgstr="Access Control List"/>
+  <message msgid="acl_ip_title" msgstr="Secure IP Address"/>
+  <message msgid="acl_apptype_title" msgstr="Protocol"/>
+  <message msgid="acl_enable_title" msgstr="State"/>
+  <message msgid="modifyWANPassword" msgstr="You are opening the HTTP access on the side of WAN. Please configure the WEB login password before you login on the WAN side(the default password is null)!"/>
+  
+  <message msgid="lanAclPrompt" msgstr="On this page. you can grant or deny ONT access. " />
+  <message msgid="lan_acl_ftp_enable_title" msgstr="Enable the LAN-Side PC to access the ONT through FTP"/>
+  <message msgid="lan_acl_http_enable_title" msgstr="Enable the LAN-Side PC to access the ONT through HTTP"/>
+  <message msgid="lan_acl_telnet_enable_title" msgstr="Enable the LAN-Side PC to access the ONT through Telnet"/>
+
+  <message msgid="aclChange_confirm" msgstr="The change of the acl rule will cause the operation of the HTTP/Telnet/ICMP to be abnormal. Are you sure you need to continue?"/>
+  
+  <message msgid="sambaenable_title" msgstr="Samba Enable" />
+  <message msgid="samabListHead" msgstr="Samba List" />
+  <message msgid="samba_username" msgstr="Username" />
+  <message msgid="samba_directory" msgstr="Directory" />
+  <message msgid="samba_state" msgstr="State" />
+  <message msgid="usb_pathTitle" msgstr="USB Partition" />
+  
+  <message msgid="samba_passwordTitle" msgstr="Password" />
+  <message msgid="The directory you select had been used!" msgstr="The directory you select had been used!" />
+  <message msgid="sambaPrompt" msgstr="On this page, you can enable or disable samba service, make sure that you have inserted the removable storage device and usb port first!" />
+  <message msgid="samba_mostRulesAlert" msgstr="You can configure up to 6 rules!" />
+  
+  <message msgid="enable" msgstr="Enable" />
+  <message msgid="disable" msgstr="Disable" />
+  
+  <message msgid="dhcp_macbandPrompt" msgstr="If DHCP Server is enabled, you can bind MAC and IP in this page." /> 
+  <message msgid="dhcp_bandListHead" msgstr="DHCP MAC Binding List" />
+  
+  <message msgid="super_admin_access_list_prompt" msgstr="On this page, you can  query state of super admin access list." />	
+  <message msgid="access_list_title" msgstr="Super Admin Access List" />
+  <message msgid="ip_RepeatAlert" msgstr="This IP address repeats with the existing rule's. Please reconfigure it!" />
+  <message msgid="macAddr_RepeatAlert" msgstr="This MAC address repeats with the existing rule's. Please reconfigure it!" />
+
+  <message msgid="fw_StartIPNullAlert" msgstr="The startIP should not be null!" />
+</po>

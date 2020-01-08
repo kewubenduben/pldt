@@ -1,0 +1,174 @@
+<po>
+  <message msgid="wireless apply" msgstr="Apply" />
+  <message msgid="wireless cancel" msgstr="Cancel" />
+  <message msgid="wireless close" msgstr="Close" />
+  <message msgid="wireless enable" msgstr="Enable" />
+  <message msgid="wireless disable" msgstr="Disable" />
+  <message msgid="wireless allow" msgstr="Allow" />
+  <message msgid="wireless reject" msgstr="Reject" />
+  <message msgid="wireless auto" msgstr="Auto" />
+  <message msgid="wireless long" msgstr="Long" />
+  <message msgid="wireless on" msgstr="On" />
+  <message msgid="wireless off" msgstr="Off" />
+  <message msgid="wireless none" msgstr="None" />
+  <message msgid="ssidNameTips" msgstr="(1-32 Characters)" />
+  <message msgid="Please enter SSID Name!" msgstr="Please enter SSID Name!" />
+  
+  <message msgid="basic_prompt" msgstr="You could configure the minimum number of Wireless settings for communication, such as Channel. The Access Point can be set simply with only the minimum setting items. " />
+  <message msgid="basic wireless network" msgstr="Wireless Network" />
+  <message msgid="basic radio button" msgstr="Radio On/Off" />
+  <message msgid="basic network mode" msgstr="Network Mode" />
+  <message msgid="basic ssid" msgstr="Network Name(SSID)" />
+  <message msgid="basic multiple ssid" msgstr="Multiple SSID" />
+  <message msgid="basic hssid" msgstr="Hidden" />
+  <message msgid="basic isolated" msgstr="Isolated" />
+  <message msgid="basic broadcast ssid" msgstr="Broadcast Network Name(SSID)" />
+  <message msgid="basic apisolated" msgstr="AP Isolation" />
+  <message msgid="basic mbssidapisolated" msgstr="MBSSID AP Isolation" />
+  <message msgid="basic bssid" msgstr="BSSID" />
+  <message msgid="basic frequency" msgstr="Frequency (Channel)" />
+  <message msgid="basic frequency auto" msgstr="AutoSelect" />
+  <message msgid="fre_band_title" msgstr="Frequency Bandwidth" />
+  <message msgid="guard_inter_title" msgstr="Guard Interval" />
+  <message msgid="secure_WMMtitle" msgstr="WMM" />
+  <message msgid="guestTitle" msgstr="Guest" />
+  
+  <message msgid="basicDomain" msgstr="Domain" />
+  <message msgid="domain0" msgstr="ETSI" />
+  <message msgid="domain1" msgstr="FCC" />
+  <message msgid="domain2" msgstr="THAILAND" />
+  <message msgid="domain3" msgstr="PHILIPPINES" />
+  <message msgid="domain4" msgstr="INDONESIA" />
+  <message msgid="domain5" msgstr="BRAZIL" />
+  <message msgid="domain6" msgstr="INDIA" />
+  <message msgid="domain7" msgstr="ARMENIA" />
+  <message msgid="domain8" msgstr="MALAYSIA" />
+  <message msgid="domain9" msgstr="PAKISTAN" />
+  <message msgid="domain10" msgstr="RUSSIAN FEDERATION" />
+  <message msgid="domain11" msgstr="CHINA" />
+  <message msgid="domain12" msgstr="CHILE" />
+  <message msgid="domain13" msgstr="UNITED STATES" />
+  <message msgid="domain14" msgstr="MYANMAR" />
+  <message msgid="domain15" msgstr="ECUADOR" />
+  <message msgid="domain16" msgstr="COLOMBIA" />
+  <message msgid="domain17" msgstr="ARGENTINA" />
+  <message msgid="domain18" msgstr="SRI LANKA" />
+  <message msgid="domain19" msgstr="THE ISLAMIC REPUBLIC OF IRAN" />
+  <message msgid="domain20" msgstr="YEMEN" />
+  <message msgid="domain21" msgstr="SAUDI ARABIA" />
+  <message msgid="domain22" msgstr="KUWAIT" />
+  <message msgid="domain23" msgstr="IRAQ" />
+  <message msgid="domain24" msgstr="VIETNAM" />
+  
+  <message msgid="basic rate" msgstr="Rate" />
+  <message msgid="basic wds title" msgstr="Wireless Distribution System(WDS)" />
+  <message msgid="basic wds mode" msgstr="WDS Mode" />
+  <message msgid="basic wds phy mode" msgstr="Phy Mode" />
+  <message msgid="basic wds encryp type" msgstr="EncrypType" />
+  <message msgid="basic wds encryp key" msgstr="Encryp Key" />
+  <message msgid="basic wds ap macaddr" msgstr="AP MAC Address" />
+  <message msgid="basic ht phy mode" msgstr="HT Physical Mode" />
+  <message msgid="basic ht op mode" msgstr="Operating Mode" />
+  <message msgid="basic ht op mixed" msgstr="Mixed Mode" />
+  <message msgid="basic ht channel bandwidth" msgstr="Channel BandWidth" />
+  <message msgid="basic ht guard interval" msgstr="Guard Interval" />
+  <message msgid="basic ht rdg" msgstr="Reverse Direction Grant(RDG)" />
+  <message msgid="basic ht extension channel" msgstr="Extension Channel" />
+  <message msgid="basic ht amsdu" msgstr="Aggregation MSDU(A-MSDU)" />
+  <message msgid="basic ht addba" msgstr="Auto Block ACK" />
+  <message msgid="basic ht delba" msgstr="Decline BA Request" />
+  <message msgid="basic other" msgstr="Other" />
+  <message msgid="basic ht txstream" msgstr="HT TxStream" />
+  <message msgid="basic ht rxstream" msgstr="HT RxStream" />
+  
+  <message msgid="channel" msgstr="channel" />
+
+  <message msgid="secure ssid title" msgstr="Wireless Security/Encryption Settings" />
+  <message msgid="security_prompt" msgstr="Setup the wireless security and encryption to prevent any unauthorized access and monitoring." />
+  <message msgid="secure select ssid" msgstr="Select SSID" />
+  <message msgid="secure ssid choice" msgstr="SSID Choice" />
+  <message msgid="security_netName" msgstr="SSID Name" />
+  <message msgid="basicHSSID_title" msgstr="Hidden" />
+  <message msgid="secure security policy" msgstr="Security Policy" />
+  <message msgid="secure security mode" msgstr="Security Mode" />
+  <message msgid="secure encryp type" msgstr="Encrypt Type" />
+  <message msgid="secure wep" msgstr="WEP(Wired Equivalent Privacy)" />
+  <message msgid="secure wep default key" msgstr="Default Key" />
+  <message msgid="secure wep default key1" msgstr="Key 1" />
+  <message msgid="secure wep default key2" msgstr="Key 2" />
+  <message msgid="secure wep default key3" msgstr="Key 3" />
+  <message msgid="secure wep default key4" msgstr="Key 4" />
+  <message msgid="secure wep key" msgstr="WEP Keys" />
+  <message msgid="secure wep key1" msgstr="WEP Key 1" />
+  <message msgid="secure wep key2" msgstr="WEP Key 2" />
+  <message msgid="secure wep key3" msgstr="WEP Key 3" />
+  <message msgid="secure wep key4" msgstr="WEP Key 4" />
+  <message msgid="secure wpa" msgstr="WPA(Wi-Fi Protected Access)" />
+  <message msgid="secure wpa algorithm" msgstr="WPA Algorithms" />
+  <message msgid="secure wpa pass phrase" msgstr="Passphrase" />
+  <message msgid="wpa_passphraseTips" msgstr="(You can input 8-64 characters)" />
+  <message msgid="secure wpa key renew interval" msgstr="Key Renewal Interval" />
+  <message msgid="secure wpa key renew interval tips" msgstr="Seconds" />
+  <message msgid="secure wpa pmk cache period" msgstr="PMK Cache Period" />
+  <message msgid="secure wpa preauth" msgstr="Pre-Authentication" />
+  <message msgid="secure 8021x wep" msgstr="802.1x WEP" />
+  <message msgid="secure 1x wep" msgstr=" WEP " />
+  <message msgid="secure radius" msgstr="Radius Server" />
+  <message msgid="secure radius ipaddr" msgstr="IP Address" />
+  <message msgid="secure radius port" msgstr=" Port " />
+  <message msgid="secure radius shared secret" msgstr=" Shared Secret " />
+  <message msgid="secure radius session timeout" msgstr=" Session Timeout " />
+  <message msgid="secure radius idle timeout" msgstr=" Idle Timeout " />
+  <message msgid="secure access policy" msgstr=" Access Policy " />
+  <message msgid="secure access policy capable" msgstr=" Policy " />
+  <message msgid="secure access policy new" msgstr="Add a station MAC" />
+  <message msgid="secure access policy del" msgstr="Del" />
+  <message msgid="secure problem with request" msgstr="There was a problem with the request." />
+  <message msgid="secure no wpapsk key" msgstr="Please input wpapsk key!" />
+  <message msgid="secure wpapsk key length" msgstr="Please input at least 8 characters of wpapsk key!" />
+  <message msgid="secure invalid character in pass" msgstr="Invalid characters in Pass Phrase." />
+  <message msgid="secure choose 802.1x WEP option" msgstr="Please choose the 802.1x WEP option." />
+  <message msgid="secure choose Pre-Auth option" msgstr="Please choose the Pre-Authentication options." />
+  <message msgid="secure no PMK Cache Period" msgstr="Please input the PMK Cache Period." />
+  <message msgid="secure no WPA Algorithm" msgstr="Please choose a WPA Algorithms." />
+  <message msgid="secure valid key renew" msgstr="Please input a valid key renewal interval" />
+  <message msgid="secure renewal interval invalid" msgstr="Warning: The key renewal interval should be 0 or greater than 60." />
+  <message msgid="secure renewal interval too big" msgstr="Warning: A big key renewal interval." />
+  
+  <message msgid="contains invalid characters." msgstr="contains invalid characters." />
+  <message msgid="Please input 10 or 26 characters of " msgstr="Please input 10 or 26 characters of " />
+  <message msgid="Please input 5 or 13 characters of" msgstr="Please input 5 or 13 characters of " />
+  <message msgid="Invalid WEP key1 format!" msgstr="Invalid WEP key1 format!" />
+  <message msgid="Invalid WEP key2 format!" msgstr="Invalid WEP key2 format!" />
+  <message msgid="Invalid WEP key3 format!" msgstr="Invalid WEP key3 format!" />
+  <message msgid="Invalid WEP key4 format!" msgstr="Invalid WEP key4 format!" />
+  <message msgid="you can not input " msgstr="You can not input " />
+  <message msgid="Are you sure to ignore changed?" msgstr="Are you sure you want to ignore the changes?" />
+
+  <message msgid="wifi_macListPrompt" msgstr="You can get WIFI clients list here." />
+  <message msgid="wifi_macListHead" msgstr="WIFI Clients List" />
+  
+  <message msgid="wifi_getRstPrompt" msgstr="Sorry, acquire data failed! Please check connections and try again." />
+
+  <message msgid="wifi_conNumTitle" msgstr="Number of WIFI Connections" />
+  
+  <message msgid="ssid_enable" msgstr="Enable" />
+  <message msgid="ssid_disable" msgstr="Disable" />
+
+  <message msgid="wifipower_prompt" msgstr="You can set WIFI power and the number of WIFI access here." />
+  <message msgid="wifinum_prompt" msgstr="You can set the maximum number of WIFI clients here." />
+  <message msgid="wifi_power_title" msgstr="WIFI Power Control" />
+  <message msgid="RecommendTips" msgstr="(Recommend 100%)" />
+  <message msgid="Recommend_120Tips" msgstr="(Recommend 120%)" />
+  <message msgid="pf_connetnumberIllegalAlert" msgstr="Please input 0-32!" />
+  <message msgid="Please enter conection number!" msgstr="Please enter number of connections!" />
+
+  <message msgid="td_isolation_title" msgstr="Isolation Enable" />
+  <message msgid="isolation_enable" msgstr="Enable" />
+  <message msgid="isolation_disable" msgstr="Disable" />
+  <message msgid="td_isolation_enable" msgstr="Enable" />
+  
+  <message msgid="wifiPower_apply" msgstr="Apply" />
+  <message msgid="wifiPower_cancel" msgstr="Cancel" />
+
+</po>

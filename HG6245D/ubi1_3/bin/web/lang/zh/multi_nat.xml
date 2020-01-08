@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="muti_natPrompt" msgstr="您可以在本页面进行NAT功能设置。" />
+  <message msgid="Muti_natListHead" msgstr="NAT规则列表" />
+  <message msgid="mn_descrip_title" msgstr="描述" />
+  <message msgid="mn_Type_title" msgstr="规则类型" />
+  <message msgid="mn_locips_title" msgstr="本地起始地址" />
+  <message msgid="mn_locipe_title" msgstr="本地结束地址" />
+  <message msgid="mn_pubips_title" msgstr="公共起始地址" />
+  <message msgid="mn_pubipe_title" msgstr="公共结束地址" />
+
+  <message msgid="pf_add" msgstr="新增" />
+  <message msgid="pf_delete" msgstr="删除" />
+  <message msgid="pf_deleteAll" msgstr="删除所有" />
+
+  <message msgid="pf_apply" msgstr="应用" />
+  <message msgid="pf_cancel2" msgstr="取消" />
+
+  <message msgid="pf_mostRulesAlert" msgstr="你最多可以配置8条规则。" />
+  <message msgid="pf_noRuleAlert" msgstr="当前没有规则，不能删除。" />
+  <message msgid="pf_noChooseAlert" msgstr="请先选定一个规则再执行删除。" />
+  <message msgid="pf_deleteRuleConfirm" msgstr="您确定要删除选中的规则吗?" />
+
+  <message msgid="pf_ipIllegalAlert" msgstr="请输入有效的IP。" />
+  <message msgid="pf_endPortTooSmallAlert" msgstr="起始地址不能大于结束地址。" />
+  <message msgid="IP_longAlert" msgstr="请确认起始地址到结束地址的范围在256个以内。" />
+  <message msgid="Please creat INTERNET WAN first !" msgstr="请先建立INTERNET相关的WAN!" />
+  
+  <message msgid="description_tips" msgstr="( 0-31个字符, 包括数字、字母、'-' 和 '_')" />
+  <message msgid="descripIllegalAlert" msgstr="请输入有效的描述字符!" />
+
+</po>  

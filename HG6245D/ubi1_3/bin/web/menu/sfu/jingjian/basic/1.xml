@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+	<menu1 name="state" url="../state/opt_power.asp" >
+			<menu2 name="Device Information" url="../state/opt_power.asp" >
+					<menu3 name="Optical Power" url="../state/opt_power.asp" />
+			</menu2>
+	</menu1>
+	<menu1 name="management" url="../management/restore.asp" >
+			<menu2 name="device_admin" url="../management/restore.asp" >
+					<menu3 name="restore" url="../management/restore.asp" />
+			</menu2>
+	</menu1>
+</po>  

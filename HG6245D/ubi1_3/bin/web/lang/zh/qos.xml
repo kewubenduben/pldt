@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+<message msgid="qos_prompt" msgstr="在本页面，您可以配置Qos信息。" />
+
+<message msgid="qos_classDSCPTips" msgstr="(有效范围：0-63)" />
+<message msgid="qos_class802Title2" msgstr="802.1p标记为" /> 
+<message msgid="qos_class802Tips" msgstr="(有效范围：0-7)" />
+<message msgid="qos_classType1Title" msgstr="分类1" />
+<message msgid="qos_classMin1Title2" msgstr="最小值" /> 
+<message msgid="qos_classMax1Title2" msgstr="最大值" /> 
+<message msgid="qos_classProtocol1Title2" msgstr="协议类型" /> 
+<message msgid="qos_classType2Title" msgstr="分类2" />
+<message msgid="qos_classType3Title" msgstr="分类3" />
+
+<message msgid="qos_cfgApplyTitle" msgstr="QoS配置应用" />
+<message msgid="qos_dixableTitle" msgstr="禁用" />
+<message msgid="qos_classRuleListHead" msgstr="数据流分类配置" />
+<message msgid="qos_classNoTitle" msgstr="数据流序号" />
+<message msgid="qos_classQueueTitle" msgstr="进入队列" />
+<message msgid="qos_classDSCPTitle2" msgstr="DSCP/TC标记为" /> 
+<message msgid="qos_classTypeNoTitle" msgstr="分类" />
+<message msgid="qos_classTypeTitle" msgstr="类型" />
+
+<message msgid="qos_priServiceTitle2" msgstr="业务名称" /> 
+<message msgid="qos_priRuleListHead" msgstr="业务优先级配置" /> 
+
+<message msgid="qos_weiQueueHead" msgstr="队列" /> 
+<message msgid="qos_weiWeightHead" msgstr="权重(%)" /> 
+<message msgid="qos_weiEnableHead" msgstr="使能" /> 
+<message msgid="qos_priPriorityHead" msgstr="优先级" /> 
+<message msgid="qos_planTitle" msgstr="调度方式" /> 
+<message msgid="qos_planPriorityTip" msgstr="按优先级" /> 
+<message msgid="qos_planWeightTip" msgstr="按权重" /> 
+<message msgid="qos_802FlagTitle" msgstr="启用802-1_P标记" /> 
+<message msgid="qos_dsctFlagTitle" msgstr="启用DSCT/TC标记" /> 
+<message msgid="qos_bandwidthTitle" msgstr="总带宽" /> 
+<message msgid="qos_modeTitle" msgstr="QoS模板" /> 
+<message msgid="qos_cfgHead" msgstr="队列设置" /> 
+
+<message msgid="qos_class_add" msgstr="新增" /> 
+<message msgid="qos_class_delete" msgstr="删除" /> 
+<message msgid="qos_class_deleteAll" msgstr="全删" />
+
+<message msgid="qos_classRuleApply" msgstr="应用" /> 
+<message msgid="qos_classRuleCancel" msgstr="取消" />
+
+<message msgid="option_chose" msgstr="请选择" />
+<message msgid="qos_802Flag_option" msgstr="标记为0" />
+<message msgid="qos_802Flag_option2" msgstr="透传当前值" />
+<message msgid="qos_802Flag_option3" msgstr="标记为新值" />
+<message msgid="qos_classType1_option1" msgstr="源MAC地址" />
+<message msgid="qos_classType1_option2" msgstr="802.1p" />
+<message msgid="qos_classType1_option3" msgstr="源IP地址" />
+<message msgid="qos_classType1_option4" msgstr="目的IP地址" />
+<message msgid="qos_classType1_option5" msgstr="源端口号" />
+<message msgid="qos_classType1_option6" msgstr="目的端口号" />
+<message msgid="qos_classType1_option7" msgstr="LAN侧接口" />
+
+<message msgid="rule_most4RulesAlert" msgstr="您最多可以配置4条规则。" />
+<message msgid="rule_noRuleAlert" msgstr="当前没有规则，不能删除。" />
+<message msgid="pf_deleteRuleConfirm" msgstr="您确定要删除选中的规则吗?" />
+<message msgid="rule_noChooseAlert" msgstr="请先选定一个规则再执行删除。" />
+</po>

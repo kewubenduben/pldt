@@ -1,0 +1,17 @@
+<po>
+  <message msgid="ftpServer_Prompt" msgstr="You could configure FTP server here. " />
+  <message msgid="ftpServer_head" msgstr="FTP Server" />
+  <message msgid="ftpServer_enableTitle" msgstr="Enable" />
+  <message msgid="ftpServer_disableTitle" msgstr="Disable" />
+  <message msgid="ftpServer_userTitle" msgstr="Username" />
+  <message msgid="ftpServer_userTips" msgstr="(You can input 1-32 characters, including alphanumeric and '_')" />
+  <message msgid="ftpServer_pwdTitle" msgstr="Password" />
+  <message msgid="ftpServer_pwdTips" msgstr="(You can input 1-8 characters, including alphanumeric and '_')" />
+  <message msgid="ftpServer_apply" msgstr="Apply" />
+  <message msgid="ftpServer_cancel" msgstr="Cancel" />
+  <message msgid="ftpServer_userNullAlert" msgstr="Please enter username!" />
+  <message msgid="ftpServer_userIllegalAlert" msgstr="Please enter 1-32 characters, including alphanumeric and '_'!" />
+  <message msgid="ftpServer_passNullAlert" msgstr="Please enter password!" />
+  <message msgid="ftpServer_passIllegalAlert" msgstr="Please enter 1-8 characters, including alphanumeric and '_'!" />
+
+</po>

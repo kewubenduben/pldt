@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="inet apply" msgstr="提交" />
+  <message msgid="inet cancel" msgstr="取消" />
+  <message msgid="inet enable" msgstr="开启" />
+  <message msgid="inet disable" msgstr="关闭" />
+
+  <message msgid="inet mac" msgstr="MAC地址" />
+  <message msgid="inet ip" msgstr="IP地址" />
+  <message msgid="gateway_ip" msgstr="网关IP地址" />
+  <message msgid="inet server" msgstr="服务器IP" />
+  <message msgid="inet netmask" msgstr="子网掩码" />
+  <message msgid="inet lan2" msgstr="LAN2" />
+  <message msgid="inet lan2 ip" msgstr="LAN2 IP地址" />
+  <message msgid="inet lan2 netmask" msgstr="LAN2子网掩码" />
+  <message msgid="inet gateway" msgstr="默认网关" />
+  <message msgid="inet pri dns" msgstr="主DNS服务器" />
+  <message msgid="inet sec dns" msgstr="备用DNS服务器" />
+  <message msgid="inet user" msgstr="用户名" />
+  <message msgid="inet password" msgstr="密码" />
+  <message msgid="inet pass2" msgstr="确认密码" />
+  <message msgid="inet hostname" msgstr="主机名" />
+  
+  <message msgid="mtu_IllegalAlert" msgstr="MTU值输入有误，请确认MTU值在合法范围内。" />
+  <message msgid="mtudhcpstatic_IllegalAlert" msgstr="MTU值输入有误，请确认MTU值在1280 - 1500之间。" />
+  <message msgid="mtupppoe_IllegalAlert" msgstr="MTU值输入有误，请确认MTU值在1280 - 1492之间。" />
+
+  <message msgid="ipv6_dhcp_prompt" msgstr="您可以开启/关闭IPv6 网络功能并根据需求配置IPv6地址相关参数,重启后生效。"/>
+  <message msgid="ipv6_dns_prompt" msgstr="您可以配置IPv6 DNS 代理服务器"/>
+  <message msgid="ipv6_prefix_prompt" msgstr="您可以配置IPv6前缀模式"/>
+  <message msgid="ipv6_lan_title" msgstr="IPv6 LAN 地址设置"/>
+  <message msgid="Enable_dhcpv6_title" msgstr="启用DHCPv6服务器"/>
+  <message msgid="ipv6_dns_title" msgstr="IPv6 DNS 代理设置"/>
+  <message msgid="dns_source_agent_title" msgstr="代理"/>
+  <message msgid="ipv6_prefix_title" msgstr=" 前缀来源设置"/>
+    <message msgid="v6_static_addr" msgstr="请输入静态IPv6 地址, 例如 fe80::1/64"/>
+   <message msgid="v6_dhcp_start" msgstr="请输入IPv6 起始地址 "/>
+   <message msgid="v6_dhcp_end" msgstr="请输入IPv6结束地址 "/>
+      <message msgid="ipv6_addr_title" msgstr="IPv6 地址"/>
+  
+  <message msgid="ipv6_title" msgstr="IPv6 配置" />
+  <message msgid="Managed_Flag_title" msgstr="地址是否通过DHCP获取" />
+  <message msgid="other_Flag_title" msgstr="其他信息是否通过DHCP获取" />
+  <message msgid="max_Interval_title" msgstr="RA报文最大自动发送时间" />
+  <message msgid="min_Interval_title" msgstr="RA报文最小自动发送时间" />
+  <message msgid="enable_dhcp6s_title_title" msgstr="启用DHCPv6服务器" />
+  <message msgid="Prefix_Mode_title" msgstr="前缀来源" />
+  <message msgid="dns_source_title" msgstr="DNS来源" />
+  <message msgid="Prefix_Set_title" msgstr="前缀设置" />
+  <message msgid="max_Interval_tips" msgstr="秒 (4-1800)" />
+  <message msgid="min_Interval_tips" msgstr="秒 (3-1350)" />
+  <message msgid="v6_RAIntervalNullAlert" msgstr="请输入RA间隔。" />
+  <message msgid="v6_prefixSetNullAlert" msgstr="请输入前缀，例如 2001::/64" />
+  <message msgid="v6_RAIntervalIllegalAlert" msgstr="RA间隔非法!" />
+  <message msgid="v6_minRAIntervalIllegalAlert" msgstr="最小RA间隔需不大于最大值的75%!" />
+
+  <message msgid="v6_net_title" msgstr="网络连接" />
+  <message msgid="v6_static_title" msgstr="静态配置" />
+  <message msgid="v6_dns_relay_title" msgstr="代理" />
+  <message msgid="first_dns_title" msgstr="主用DNS" />
+  <message msgid="sec_dns_title" msgstr="备用DNS" />
+  <message msgid="v6dhcpstart_title" msgstr="起始地址" />
+  <message msgid="v6dhcpend_title" msgstr="结束地址" />
+  <message msgid="v6dhcpPreferTime_title" msgstr="DHCPv6首选生存时间" />
+  <message msgid="v6dhcpValidTime_title" msgstr="DHCPv6有效生存时间" />
+  <message msgid="ipv6_static_addr_title" msgstr="IPv6静态地址(需指定前缀)" />
+  <message msgid="ipv6_static_addr_tips" msgstr="(例如: fe80::1/64)" />
+  <message msgid="v6_primaryDnsNullAlert" msgstr="请输入IPv6首选DNS，例如fe80::1" />
+  
+  <message msgid="v6_validTimeIlligalAlert" msgstr="DHCPv6首选生存时间不得大于有效生存时间!" />
+  
+  <message msgid="Prefix Length illagal!" msgstr="后缀长度不合法!" />
+  <message msgid="Please enter ip adress of ipv6!" msgstr="请输入IPv6的IP地址!" />
+  <message msgid="Please enter Prefix Length of ipv6!" msgstr="请输入IPv6的后缀长度" />
+  <message msgid="Please enter Gateway of ipv6!" msgstr="请输入IPv6的网关!" />
+  <message msgid="Please enter Primary DNS Server of ipv6!" msgstr="请输入IPv6的首选DNS!" />
+  <message msgid="wStaticIpv6" msgstr="IPv6地址" />
+  <message msgid="Prefix_Length_title" msgstr="IPv6前缀长度" />
+  <message msgid="wStaticGateway_ipv6" msgstr="默认网关" />
+  <message msgid="wStaticPriDns_ipv6" msgstr="首选DNS" />
+  <message msgid="wStaticSecDns_ipv6" msgstr="备用DNS" />
+  <message msgid="Address/Prefix_title" msgstr="IPv6地址获取方式" />
+  <message msgid="Address/Prefix_title_pppoe" msgstr="IPv6地址获取方式" />
+  <message msgid="Prefix_title" msgstr="IPv6前缀获取方式" />
+  <message msgid="wV6_Address/Prefix_static" msgstr="静态" />
+  <message msgid="wV6_prefixMode_static" msgstr="静态" />
+  <message msgid="ipv6_enable_title" msgstr="IP模式" />
+  <message msgid="ipv6_enable_tip" msgstr="打开" />
+  <message msgid="ipv6_disable_tip" msgstr="关闭" />
+
+  <message msgid="wan title" msgstr="WAN设置" />
+  <message msgid="wan_prompt" msgstr="您可以根据网络环境选择不同的连接类型，也可以为选定的连接类型设置相应参数。" />
+  <message msgid="wan_add" msgstr="新增" />
+  <message msgid="wan_delete" msgstr="删除" />
+  <message msgid="wan connection type" msgstr="WAN获取IP方式：" />
+  <message msgid="wan connection type static" msgstr="静态" />
+  <message msgid="wan connection type dhcp" msgstr="DHCP" />
+  <message msgid="wan connection type pppoe" msgstr="PPPoE" />
+  <message msgid="wan connection type l2tp" msgstr="L2TP" />
+  <message msgid="wan connection type pptp" msgstr="PPTP" />
+  <message msgid="wan protocol opmode" msgstr="操作类型" />
+  <message msgid="wan protocol opmode keepalive" msgstr="保持开启状态" />
+  <message msgid="wan protocol opmode ondemand" msgstr="需要时开启" />
+  <message msgid="wan protocol opmode manual" msgstr="手动" />
+  <message msgid="WAN Enable" msgstr="WAN使能" />
+  <message msgid="VLAN Enable" msgstr="VLAN使能" />
+  <message msgid="noInternetWan_alert" msgstr="请创建 INTERNET 路由类型的WAN连接!" />
+
+  <message msgid="pf_mostRulesAlert" msgstr="您最多可以配置8条WAN连接!" />
+  <message msgid="pf_most4RulesAlert" msgstr="您最多可以配置4条WAN连接!" />
+  <message msgid="pf_most4RouteWanAlert" msgstr="您最多可以配置4条路由型WAN连接!" />
+  <message msgid="pf_most4BridgeWanAlert" msgstr="您最多可以配置4条桥接型WAN连接!" />
+  <message msgid="pf_noRuleAlert" msgstr="当前没有规则，不能删除!" />
+  <message msgid="pf_noChooseAlert" msgstr="请选择要删除的WAN连接!" />
+  <message msgid="pf_deleteRuleConfirm" msgstr="您确定要删除选中的WAN连接吗?" />
+  
+  <message msgid="Refresh" msgstr="刷新" />
+  <message msgid="wDhcpCon_ip_title" msgstr="IP地址" />
+  <message msgid="wDhcpCon_mask_title" msgstr="子网掩码" />
+  <message msgid="wDhcpCon_gateway_title" msgstr="默认网关" />
+  <message msgid="wDhcpCon_priDNS_title" msgstr="主DNS服务器" />
+  <message msgid="wDhcpCon_secDNS_title" msgstr="备用DNS服务器" />
+  <message msgid="wPppoe_connect" msgstr="已连接" />
+  <message msgid="wPppoe_disconnect" msgstr="断开" />
+  <message msgid="wPppoeCon_status_title" msgstr="状态" />
+  <message msgid="wPppoeCon_ip_title" msgstr="IP地址" />
+  <message msgid="wPppoeCon_mask_title" msgstr="子网掩码" />
+  <message msgid="wPppoeCon_gateway_title" msgstr="默认网关" />
+  <message msgid="wPppoeCon_priDNS_title" msgstr="主DNS服务器" />
+  <message msgid="wPppoeCon_secDNS_title" msgstr="备用DNS服务器" />
+  
+  <message msgid="wPppoeCon_userTips" msgstr="（您可以输入1-31个字符）" />
+  <message msgid="wPppoeCon_pwdTips" msgstr="（您可以输入1-31个字符）" />
+  <message msgid="wPppoeCon_userTips_63" msgstr="（您可以输入1-63个字符）" />
+  <message msgid="wPppoeCon_pwdTips_63" msgstr="（您可以输入1-63个字符）" />
+  <message msgid="wPppoeCon_retryPeriod_title" msgstr="心跳周期" />
+  <message msgid="wPppoeCon_retryPeriod_tips" msgstr="秒 (30-60000)" />
+  
+  <message msgid="wPppoeAuthTypeTitle" msgstr="认证类型" />
+  <message msgid="wPppoeConnTriggerTitle" msgstr="连接触发" />
+
+  <message msgid="wPppoeCon_userNullAlert" msgstr="请输入用户名！" />
+  <message msgid="wPppoeCon_pwdNullAlert" msgstr="请输入密码！" />
+  <message msgid="wPppoeCon_retryPeriodIllegalAlert" msgstr="重拨周期/闲时断开时间！请输入10-99999！" />
+  <message msgid="wPppoeCon_pwdmismatch" msgstr="密码不匹配!" />  
+  <message msgid="wPppoeCon_noretryperiod" msgstr="请填写重拨周期/闲时断开时间。" /> 
+  <message msgid="pppoe_accout" msgstr="PPPoE账号" /> 
+  <message msgid="pppoe_prompt" msgstr="你可以在本页面配置PPPoE拨号的用户名和密码。" />  
+  
+  <message msgid="wan static mode" msgstr="静态模式" />
+  <message msgid="wan dhcp mode" msgstr="DHCP模式" />
+  <message msgid="wan pppoe mode" msgstr="PPPoE模式" />
+  <message msgid="wan l2tp mode" msgstr="L2TP模式" />
+  <message msgid="wan pptp mode" msgstr="PPTP模式" />
+  <message msgid="wan 3G mode" msgstr="3G模式" />
+  <message msgid="wan 3G modem" msgstr="USB 3G模式" />
+  <message msgid="wan address mode" msgstr="地址模式" />
+  <message msgid="wan address mode static" msgstr="静态" />
+  <message msgid="wan address mode dynamic" msgstr="动态" />
+
+  <message msgid="wan mac clone" msgstr="MAC地址克隆" />
+  
+  <message msgid="wan_noXMLHTTP" msgstr="无法创建XMLHTTP实例。" />
+  <message msgid="wan_nomac" msgstr="无法获取MAC地址。" />
+  <message msgid="wan_IPempty" msgstr="IP不能为空!" />
+  <message msgid="wan_mask_illegal" msgstr="子网掩码非法!" />  
+  <message msgid="wan_ip_illegal" msgstr="IP地址非法!" />  
+
+  <message msgid="lan_prompt" msgstr="您可以开启/关闭DHCP功能并根据需求设置网络参数,重启后生效。" />
+  <message msgid="lan setup" msgstr="LAN设置" />
+  <message msgid="lan stp" msgstr="NAT" />
+  <message msgid="lan lltd" msgstr="LLTD" />
+  <message msgid="lan igmpp" msgstr="IGMP代理" />
+  <message msgid="lan upnp" msgstr="UPnP" />
+  <message msgid="lan radvd" msgstr="路由通告" />
+  <message msgid="lan pppoer" msgstr="PPPoE中继" />
+  <message msgid="lan dnsp" msgstr="DNS代理" />
+  
+  <message msgid="lan_dns_relay" msgstr="DNS中继" />
+  
+  <message msgid="lan_IP_empty" msgstr="IP不能为空!" />
+  <message msgid="lan_mask_illegal" msgstr="子网掩码非法!" />
+  <message msgid="lan_ip_illegal" msgstr="IP地址非法!" />
+  <message msgid="lan_no_space" msgstr="请不要在此区域内输入空格" />
+  
+  <message msgid="paramIllegalAlert" msgstr="您输入的参数非法，请重新输入!" />
+  
+  <message msgid="lan_modIPConfirm" msgstr="请同时修改DHCP服务相关配置，以确保LAN IP等于DHCP服务的网关, 并且IP与DHCP地址池为同一子网，否则可能导致网络不通。" />
+
+  <message msgid="lan_modDhcpIPConfirm" msgstr="请同时修改LAN IP相关配置，以确保LAN IP等于DHCP服务的网关, 并且IP与DHCP地址池为同一子网，否则可能导致网络不通。" />
+
+  <message msgid="dhcp_prompt" msgstr="您可以开启/关闭DHCP功能并根据需求设置参数，重启后生效。" />
+  <message msgid="dhcp_serviceHead" msgstr="DHCP服务" />
+  <message msgid="dhcp_typeTitle" msgstr="类型" />
+  <message msgid="dhcp_typeS" msgstr="服务器" />
+  <message msgid="dhcp_relayTitle" msgstr="服务器地址" />
+  <message msgid="dhcp_startTitle" msgstr="DHCP起始地址" />
+  <message msgid="dhcp_endTitle" msgstr="DHCP结束地址" />
+  <message msgid="dhcp_netmaskTitle" msgstr="DHCP子网掩码" />
+  <message msgid="dhcp_priDnsTitle" msgstr="DHCP主DNS服务器" />
+  <message msgid="dhcp_secDnsTitle" msgstr="DHCP备用DNS服务器" />
+  <message msgid="dhcp_gatewayTitle" msgstr="DHCP默认网关" />
+  <message msgid="dhcp_timeTitle" msgstr="DHCP租约时间" />
+  <message msgid="dhcp_hourTitle" msgstr=" 小时" />
+  <message msgid="dhcp_minTitle" msgstr=" 分" />
+  <message msgid="dhcp_timeTips" msgstr="( 1分~99小时 )" />
+  <message msgid="dhcp_IP_empty" msgstr="IP不能为空!" />
+  <message msgid="dhcp_mask_illegal" msgstr="子网掩码非法!" />  
+  <message msgid="dhcp_ip_illegal" msgstr="IP地址非法!" />
+  <message msgid="pf_endIPTooSmallAlert" msgstr="起始地址不能大于结束地址!" />
+  
+  <message msgid="dhcp_userListPrompt" msgstr="显示DHCP客户端信息，包括IP地址、MAC地址、租约时间。" />
+  <message msgid="dhcp_userListHead" msgstr="DHCP客户端列表" />
+  <message msgid="dhcp_hostnameTitle" msgstr="主机名" />
+  <message msgid="dhcp_macTitle" msgstr="MAC" />
+  <message msgid="dhcp_ipTitle" msgstr="IP" />
+  <message msgid="dhcp_hiredTimeTitle" msgstr="租约时间" />
+  <message msgid="dhcp_StatusTitle" msgstr="状态" />
+  <message msgid="dhcp_getRstPrompt" msgstr="抱歉，获取数据失败，请检查连接并重试。" />
+
+  <message msgid="dhcp title" msgstr="DHCP客户端列表" />
+  <message msgid="dhcp introduction" msgstr="您可以在这里监控DHCP客户端。" />
+  <message msgid="dhcp clients" msgstr="DHCP客户端" />
+  <message msgid="dhcp expire" msgstr="有效期至" />
+  <message msgid="DHCP Lease Time is illegal." msgstr="DHCP租约时间输入非法。" />
+
+  <message msgid="dhcpv6_portband_prompt" msgstr="你可以在这里配置DHCPv6端口绑定。" />
+  <message msgid="dhcp_portband_prompt" msgstr="你可以在这里配置DHCP端口绑定。" />
+  <message msgid="DHCP_FE_title" msgstr="LAN绑定" />
+  <message msgid="DHCP_SSID_title" msgstr="SSID绑定" />
+
+  <message msgid="WANListHead" msgstr="WAN列表" />
+  <message msgid="WAN_nameTitle" msgstr="名称" />
+  <message msgid="WAN_ipmode" msgstr="IP获取方式" />
+  <message msgid="wan_servicetypeTitle" msgstr="服务类型" />
+  <message msgid="wan_connectionTypeTitle" msgstr="连接类型" />
+  <message msgid="wan_priorityTitle" msgstr="优先级" />
+  <message msgid="nat_typetitle" msgstr="NAT类型" />
+  <message msgid="wan_FE_title" msgstr="LAN 绑定" />
+  <message msgid="wan_SSID_title" msgstr="SSID 绑定" />
+  <message msgid="wan_SSID_24g_title" msgstr="2.4G SSID 绑定" />
+  <message msgid="wan_SSID_5g_title" msgstr="5G SSID 绑定" />
+  <message msgid="WAN_VIDtitle" msgstr="VID/优先级" />
+  <message msgid="wConnType_bridge" msgstr="桥接" />
+  <message msgid="wConnType_route" msgstr="路由" />  
+
+  <message msgid="vlan_modeTitle" msgstr="VLAN 模式" />
+  <message msgid="vlan_vlan_trans_tip" msgstr="VLAN 透传" />
+  <message msgid="vlan_all_trans_tip" msgstr="全透传" />
+  
+  <message msgid="wan_enabletitle" msgstr="打开" />
+  <message msgid="wan_disabletitle" msgstr="关闭" />
+
+  <message msgid="mtu_1492" msgstr=" (1280-1492)" />
+  <message msgid="mtu_1500" msgstr=" (1280-1500)" />
+  
+  <message msgid="option125_textTitle" msgstr="Option125值" />
+  <message msgid="Option60value_title" msgstr="Option60值" />
+  <message msgid="option60_startTitle" msgstr="Option 60 起始 IP" />
+  <message msgid="option60_endTitle" msgstr="Option 60 结束 IP" />
+  <message msgid="Option125 value is illegal!" msgstr="Option125值非法!" />
+    
+  <message msgid="VID_IllegalAlert" msgstr="VID 输入不合法!" />
+  <message msgid="priority_IllegalAlert" msgstr="VLAN 优先级输入不合法!" />
+  <message msgid="this wan mode have exist!" msgstr="您所选择者WAN模式已经存在，请选择其他WAN模式!" />
+
+  <message msgid="pppoeMode_title" msgstr="PPPoE模式" />
+  <message msgid="wPppoe_static" msgstr="静态" />
+  <message msgid="wPppoe_dynamic" msgstr="动态" />
+  <message msgid="wppp_outtimeTitle" msgstr="超时间隔" />
+  <message msgid="manual_connect" msgstr="连接" />
+  <message msgid="manual_disconnect" msgstr="断开" />
+  
+
+  <message msgid="diagnosis_prompt" msgstr="在本页面，您可以进行ping/traceroute诊断。" />
+  <message msgid="diagnosis_ping_prompt" msgstr="在本页面，您可以进行ping诊断。" />
+  <message msgid="ping_ip_title" msgstr="目的地址" />
+  <message msgid="diagnosis_ipIllegalAlert" msgstr="请输入IP或者域名!" />
+  
+  <message msgid="tracert_prompt" msgstr="在本页面，您可以进行traceroute诊断。" />
+  <message msgid="diagnosis_interface_title" msgstr="接口" />
+  <message msgid="diagnosis_times_title" msgstr="重复次数" />
+  <message msgid="diagnosis_apply" msgstr="诊断" />
+  <message msgid="diagnosisTimesNullAlert" msgstr="请输入诊断次数!" />
+  <message msgid="diagnosisTimesIllegalAlert" msgstr="请输入有效的诊断次数!" />
+
+  <message msgid="ipv6Alert" msgstr="请输入IPv6地址!" />
+  <message msgid="ipv6prefixAlert" msgstr="请输入IPv6前缀!" />
+  <message msgid="ipv6dnsAlert" msgstr="请输入IPv6主用DNS!" />
+  <message msgid="ipv6GWAlert" msgstr="请输入IPv6网关!" />
+  <message msgid="ipv6AFTRAlert" msgstr="请输入AFTR" />
+  <message msgid="wIP_mode_title" msgstr="IP模式" />
+  <message msgid="AFTRType1" msgstr="AFTR手动输入" />
+  <message msgid="Prefix_mode" msgstr="前缀代理" />
+  <message msgid="Prefix_value_title" msgstr="IPv6前缀" />
+  <message msgid="v6len_IllegalAlert" msgstr="IPv6前缀长度输入范围 1-64!" />
+  <message msgid="v6len_128_IllegalAlert" msgstr="IPv6前缀长度输入范围 1-128!" />
+  <message msgid="tr069Wan_exist_alert" msgstr="已经存在TR069相关的WAN链接!" />
+  <message msgid="port_band_alert" msgstr="请绑定端口" />
+  <message msgid="voip_wan_alert" msgstr="该设备没有VoIP配置，不允许配置VoIP相关类型WAN链接。" />
+  <message msgid="wPppoepasv" msgstr="有流量时连接" />
+  <message msgid="this VID have exist!" msgstr="您输入的VID已经被使用，请确认后再试。" />
+  <message msgid="ipv6_IllegalAlert" msgstr="Ipv6 IP 错误，请重新输入!" />
+  <message msgid="ipv6prefix_IllegalAlert" msgstr="Ipv6前缀错误，请重新输入!" />
+  <message msgid="ipv6prefix_same_IllegalAlert" msgstr="IPv6前缀在'/'之前的内容，不能与IPv6的ip/gateway/dns相同!" />
+  <message msgid="ipv6GW_IllegalAlert" msgstr="Ipv6网关错误，请重新输入!" />
+  <message msgid="ipv6dns_IllegalAlert" msgstr="Ipv6 DNS 错误，请重新输入!" />
+  <message msgid="ipv6dns_same_IllegalAlert" msgstr="Ipv6 主备DNS 不能相同，请重新输入!" />
+  <message msgid="prefix_length_prompt" msgstr=" （例如2001:a::/64等。前缀长度：(48-64)）" />
+  <message msgid="v6len_64_Alert" msgstr="请输入IPv6 前缀长度：64!" />
+   <message msgid="ipv6_mask_Alert" msgstr="IPv6 地址不能是网段。" />
+  
+  <message msgid="wan_internetRepeatAlert" msgstr="已经存在INTERNET相关的WAN链接!" />
+  <message msgid="wan_RepeatAlert" msgstr="已经存在相关的WAN链接!" />
+  <message msgid="wan_portBindedAlert" msgstr="该端口已经被绑定。" />
+  <message msgid="TR069_wan_RepeatAlert" msgstr="已经存在TR069模式WAN链接!" />
+  <message msgid="INTERNET_TR069_wan_RepeatAlert" msgstr="已经存在INTERNET_TR069模式WAN链接!" />
+  <message msgid="INTERNET_VOIP_wan_RepeatAlert" msgstr="已经存在INTERNET_VOIP模式WAN链接!" />
+  <message msgid="VOIP_wan_RepeatAlert" msgstr="已经存在VOIP模式WAN链接!" />
+  <message msgid="INTERNET_R_wan_RepeatAlert" msgstr="已经存在INTERNET路由模式WAN链接!" />
+  <message msgid="TR069_VOIP_wan_RepeatAlert" msgstr="已经存在TR069_VOIP模式WAN链接!" />
+  <message msgid="TR069_VOIP_INTERNET_wan_RepeatAlert" msgstr="已经存在TR069_VOIP_INTERNET模式WAN链接!" />
+  <message msgid="IPTV_wan_RepeatAlert" msgstr="已经存在IPTV模式WAN链接!" />
+  
+  <message msgid="natsession_prompt" msgstr="在本页面，您可以查询NAT内外网IP和端口映射关系。" />
+  <message msgid="nat_listHead" msgstr="NAT会话" />
+
+  <message msgid="validationError" msgstr="验证码错误，请重新输入!" />
+
+  <message msgid="cpu_port_mirror_prompt" msgstr="在本页面上，您可以设置CPU端口镜像功能。" />
+  <message msgid="mirror_title" msgstr="源端口" />
+  <message msgid="mirror_d_title" msgstr="目的端口" />
+    <message msgid="direction_title" msgstr="方向" />
+  <message msgid="up_title" msgstr="上行" />
+  <message msgid="down_title" msgstr="下行" />
+  <message msgid="both_title" msgstr="双向" />
+  <message msgid="lan_port_mirror_prompt" msgstr="在本页面上，您可以设置上下行数据端口镜像到LAN口。 " />
+  
+  <message msgid="lan_mirror_up_title" msgstr="上行" />
+  <message msgid="lan_mirror_down_title" msgstr="下行" />
+  
+  <message msgid="alg_prompt" msgstr="在本页面上，您可以进行ALG配置。" />
+  <message msgid="alg_head" msgstr="ALG设置" />
+  <message msgid="IPTV_Multicast_RepeatAlert" msgstr="当前已存在IPTV WAN连接，您不能再配置组播WAN连接。" />
+ <message msgid="Multicast_IPTV_RepeatAlert" msgstr="当前已存在组播WAN连接，您不能再配置IPTV WAN连接。" />
+  
+  <message msgid="rebootAlert" msgstr="该配置需要重启ONU生效!" />
+  <message msgid="tr069_wan_alert" msgstr="请确保有且仅有一条TR069 WAN 连接。" />
+  
+  <message msgid="lan_mac_prompt" msgstr="在本页面，您可以配置设备各LAN端口的最大MAC连接数." />
+  <message msgid="lanMacLimitIllegalAlert" msgstr="请输入合法的最大连接数." />
+  <message msgid="lanMacLimitSumIllegalAlert" msgstr="所有LAN口最大MAC连接数的和需要小于等于ONU的最大MAC连接数." />
+
+  <message msgid="portLayerConfig_confirm" msgstr="修改端口配置后ONU会重启，请重新登录WEB网管。确定要修改吗？" />
+  <message msgid="rebooting" msgstr="设备正在重启，此过程需要若干分钟，在此期间请勿将设备断电或进行其他操作。稍候请在登录页面重新登录。" />
+ 
+</po>

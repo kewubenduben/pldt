@@ -1,0 +1,28 @@
+<po>
+  <message msgid="pt_PortTriggerPrompt" msgstr="On this page, you could configure IPv6 static route." />
+
+  <message msgid="fw_filterListHead" msgstr="IPv6 Static Route List" />
+  <message msgid="DstPrefix_title" msgstr="DstPrefix" />
+  <message msgid="Nexthop_title" msgstr="Nexthop" />
+  <message msgid="pf_wannameTitle" msgstr="WAN Name" />
+
+  <message msgid="pf_add" msgstr="Add" />
+  <message msgid="pf_delete" msgstr="Delete" />
+  <message msgid="pf_deleteAll" msgstr="Delete All" />
+
+  <message msgid="ipv6_apply" msgstr="Apply" />
+  <message msgid="ipv6_cancel" msgstr="Cancel" />
+
+  <message msgid="pf_mostRulesAlert" msgstr="You can configure 8 rules at most!" />
+  <message msgid="pf_most16RulesAlert" msgstr="You can configure 16 rules at most!" />
+  <message msgid="pf_noRuleAlert" msgstr="At present there is no rule, can not be deleted!" />
+  <message msgid="pf_noChooseAlert" msgstr="Please select a rule and then delete!" />
+  <message msgid="pf_deleteRuleConfirm" msgstr="Are you sure to delete the selected rule?" />
+
+  <message msgid="Please enter DstPrefix!" msgstr="Please enter dstPrefix!" />
+  <message msgid="Please enter Nexthop!" msgstr="Please enter nexthop!" />
+  <message msgid="Nexthop_IllegalAlert" msgstr="Next hop Ipv6 IP address is illegal!" />
+  <message msgid="DstPrefix_IllegalAlert" msgstr="Destination Ipv6 prefix is illegal!" />
+ 
+</po>
+

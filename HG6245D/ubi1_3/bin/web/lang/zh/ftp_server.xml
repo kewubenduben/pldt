@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="ftpServer_Prompt" msgstr="您可以在本页面打开FTP服务器功能，并配置用户名密码等。" />
+  <message msgid="ftpServer_head" msgstr="FTP服务器" />
+  <message msgid="ftpServer_enableTitle" msgstr="开启" />
+  <message msgid="ftpServer_disableTitle" msgstr="关闭" />
+  <message msgid="ftpServer_userTitle" msgstr="用户名" />
+  <message msgid="ftpServer_userTips" msgstr="(您可以最多输入32个字符，包括: 数字 字母 _)" />
+  <message msgid="ftpServer_pwdTitle" msgstr="密码" />
+  <message msgid="ftpServer_pwdTips" msgstr="(您可以最多输入8个字符，包括: 数字 字母 _)" />
+  <message msgid="ftpServer_apply" msgstr="提交" />
+  <message msgid="ftpServer_cancel" msgstr="取消" />
+  <message msgid="ftpServer_userNullAlert" msgstr="请输入用户名!" />
+  <message msgid="ftpServer_userIllegalAlert" msgstr="请输入最多输入32个字符，包括: 数字 字母 _" />
+  <message msgid="ftpServer_passNullAlert" msgstr="请输入密码!" />
+  <message msgid="ftpServer_passIllegalAlert" msgstr="请输入最多输入8个字符，包括: 数字 字母 _" />
+  
+</po>

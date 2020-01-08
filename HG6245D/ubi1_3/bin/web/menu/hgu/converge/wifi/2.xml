@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+	<menu1 name="state" url="../state/deviceInfor.asp" >
+			<menu2 name="Device Information" url="../state/deviceInfor.asp" >
+					<menu3 name="Device Information" url="../state/deviceInfor.asp" />
+			</menu2>
+			<menu2 name="wireless state" url="../state/wireless_state.asp" >
+					<menu3 name="wireless state" url="../state/wireless_state.asp" />
+					<menu3 name="wifi_mac_list" url="../wireless/wifimaclist.asp" />
+			</menu2>
+			<menu2 name="wan state" url="../state/wan_state.asp" >
+					<menu3 name="wan state" url="../state/wan_state.asp" />
+			</menu2>
+			<menu2 name="lan state" url="../state/lan_state.asp" >
+					<menu3 name="lan state" url="../state/lan_state.asp" />
+					<menu3 name="dhcp_userlist" url="../internet/dhcp_userlist.asp" />
+			</menu2>
+			<menu2 name="Optical Power" url="../state/opt_power.asp" >
+					<menu3 name="Optical Power" url="../state/opt_power.asp" />
+			</menu2>
+	</menu1>
+	<menu1 name="network" url="../wireless/basic.asp" >
+			<menu2 name="wlan_settings" url="../wireless/basic.asp" >
+					<menu3 name="basic" url="../wireless/basic.asp" />
+					<menu3 name="security" url="../wireless/security.asp" />
+					<menu3 name="wifiPowercontrol" url="../wireless/wifipowerctrl.asp" />
+			</menu2>
+			<menu2 name="lan_settings" url="../internet/lan.asp" >
+					<menu3 name="lan_settings" url="../internet/lan.asp" />
+			</menu2>
+			<menu2 name="broadband" url="../internet/wan_new.asp" >
+					<menu3 name="internet" url="../internet/wan_new.asp" />
+					<menu3 name="IPTV" url="../internet/iptv_cfg.asp" />
+			</menu2>
+			<menu2 name="remote_management" url="../tr069/tr069.asp" >
+					<menu3 name="ITMS Server" url="../tr069/tr069.asp" />
+			</menu2>
+			<menu2 name="auth_settings" url="../ont_auth/sncfg.asp" >
+					<menu3 name="olt_auth" url="../ont_auth/sncfg.asp" />
+			</menu2>
+	</menu1>
+	<menu1 name="Security" url="../security/firewall_enable.asp" >
+			<menu2 name="firewall" url="../security/firewall_enable.asp" >
+					<menu3 name="fw_enable" url="../security/firewall_enable.asp" />
+					<menu3 name="ip_filter" url="../security/ip_filter.asp" />
+					<menu3 name="ipv6_filter" url="../security/ipv6_filter.asp" />
+					<menu3 name="urlfilter" url="../security/url_filter.asp" />
+					<menu3 name="Port Scan" url="../security/port_scan.asp" />
+					<menu3 name="macaddr_filter" url="../security/macaddr_filter.asp" />
+					<menu3 name="IPv6 Mac Filtering" url="../security/macaddr_v6_filter.asp" />
+			</menu2>
+			<menu2 name="Remote Control" url="../security/remote_control.asp" >
+					<menu3 name="Remote Control" url="../security/remote_control.asp" />
+			</menu2>
+			<menu2 name="DDOS" url="../security/ddos.asp" >
+					<menu3 name="DDOS" url="../security/ddos.asp" />
+			</menu2>
+			<menu2 name="HTTPS" url="../security/https_enable.asp" >
+					<menu3 name="HTTPS" url="../security/https_enable.asp" />
+			</menu2>
+	</menu1>     
+	<menu1 name="Application" url="../application/ddns.asp" >
+			<menu2 name="DDNS" url="../application/ddns.asp" >
+					<menu3 name="DDNS Settings" url="../application/ddns.asp" />
+			</menu2>
+			<menu2 name="Port Forwarding" url="../application/port_forwarding.asp" >
+					<menu3 name="Port Forwarding" url="../application/port_forwarding.asp" />
+			</menu2>
+			<menu2 name="NAT" url="../application/multi_nat.asp" >
+					<menu3 name="NAT" url="../application/multi_nat.asp" />
+			</menu2>
+			<menu2 name="DMZ" url="../application/dmz.asp" >
+					<menu3 name="DMZ" url="../application/dmz.asp" />
+			</menu2>
+			<menu2 name="Diagnosis" url="../application/ping_diagnosis_new.asp" >
+					<menu3 name="ping" url="../application/ping_diagnosis_new.asp" />
+					<menu3 name="tracert" url="../application/tracert_diagnosis.asp" />
+			</menu2>
+	</menu1>
+	<menu1 name="management" url="../management/account_admin.asp" >
+			<menu2 name="user_admin" url="../management/account_admin.asp" >
+					<menu3 name="user_account_admin" url="../management/account_admin.asp" />
+			</menu2>
+			<menu2 name="device_admin" url="../management/restore.asp" >
+					<menu3 name="restore" url="../management/restore.asp" />
+					<menu3 name="adminRestore" url="../management/adminRestore.asp" />
+					<menu3 name="update" url="../management/update.asp" />
+					<menu3 name="down_cfgfile" url="../management/down_cfgfile.asp" />
+					<menu3 name="reboot" url="../management/reboot.asp" />
+					<menu3 name="checktime" url="../management/ntpchecktime.asp" />
+			</menu2>
+			<menu2 name="log_admin" url="../log/log.asp" >
+					<menu3 name="log" url="../log/log.asp" />
+			</menu2>
+	</menu1>
+</po>  

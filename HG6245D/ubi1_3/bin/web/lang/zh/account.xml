@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="account_prompt" msgstr="在本页面上，您可以增加、删除普通用户账号或修改普通用户密码。" />
+
+  <message msgid="ac_add" msgstr="增加" />
+  <message msgid="ac_del" msgstr="删除" />
+  <message msgid="name_title" msgstr="用户名" />
+  <message msgid="old_name_title" msgstr="原用户名" />
+  <message msgid="accountSelf_newnameTitle" msgstr="新用户名" />
+  <message msgid="ac_pwd" msgstr="新密码" />
+  <message msgid="ac_lanPwd" msgstr="新LAN密码" />
+  <message msgid="ac_pwd2" msgstr="密码确认" />
+  <message msgid="ac_lanPwd2" msgstr="LAN密码确认" />
+  
+  <message msgid="accountSelf_oldWanPwdTitle" msgstr="原WAN密码" />
+  <message msgid="accountSelf_newWanPwdTitle" msgstr="新WAN密码" />
+  <message msgid="accountSelf_newWanPwd2Title" msgstr="WAN密码确认" />
+  
+  <message msgid="user_most8RulesAlert" msgstr="您最多可以配置8个用户。" />
+  <message msgid="no_count_alert" msgstr="当前没有普通用户，不能删除!" />
+  <message msgid="selcet_alert" msgstr="请先选择一个用户!" />
+  <message msgid="confirm_dele" msgstr="确认删除所选用户?" />
+  <message msgid="unequal_alert" msgstr="您两次输入的密码不一致,请重新输入!" />
+  
+  <message msgid="account_manage_title" msgstr="账号管理" />
+  <message msgid="cancelValue" msgstr="取消" />
+  <message msgid="btnApply1" msgstr="应用" />
+
+  <message msgid="accountSelf_oldPwdTitle" msgstr="原密码" />
+  <message msgid="accountSelf_oldLanPwdTitle" msgstr="原LAN密码" />
+  <message msgid="accountSelf_pwdTips" msgstr="(8 - 32位字符)" />
+  <message msgid="accountSelf_pwdTips_MALAY_TM" msgstr="(18 - 32位字符)" />
+  <message msgid="accountSelf_pwdTips_6" msgstr="(6 - 32位字符)" />
+  <message msgid="accountSelf_pwdTips_TL_TRUE" msgstr="(不同于LAN密码)" />
+  
+  <message msgid="accountSelf_userNullAlert" msgstr="请输入用户名!" />  
+  <message msgid="accountSelf_oldPwdNullAlert" msgstr="请输入原密码!" />  
+  <message msgid="accountSelf_newPwdNullAlert" msgstr="请输入新密码!" />  
+  <message msgid="accountSelf_userIllegalAlert" msgstr="用户名非法!" />
+  <message msgid="accountSelf_newPwdIllegalAlert" msgstr="新密码非法!" /> 
+  <message msgid="accountSelf_newPwdLenIllegalAlert" msgstr="新密码长度非法!" />
+  <message msgid="accountSelf_newPwdSpaceAlert" msgstr="请勿在密码中设置空格!" />  
+  <message msgid="accountSelf_pwdMismatchedAlert" msgstr="两次输入的密码不一致!" />
+  <message msgid="accountSelf_pwdMatchedOldPwdAlert" msgstr="新输入密码不能和旧密码相同!" />
+  <message msgid="accountSelf_wanlanPwdSameAlert" msgstr="WAN密码不得与LAN密码相同!" />
+
+  <message msgid="accountSelf_prompt" msgstr="您可以在本页面配置当前账号信息。" />  
+  <message msgid="accountSelf_prompt_true" msgstr="请输入密码使能WAN访问功能。" />
+  
+  <message msgid="same_pwd" msgstr=" 您设置的密码和原始密码相同，请设置一个新的密码!" />
+  <message msgid="no_pwd" msgstr="密码不能为空，请设置一个新的密码!" />
+  <message msgid="Please input 5 or 13 characters of" msgstr="请输入5或者13个字符的" />
+  <message msgid="contains invalid characters." msgstr="包含非法字符。" />
+  <message msgid="wep_pwd_tips" msgstr="(您可以输入5或13个字符)" />
+  <message msgid="wpa_pwd_tips" msgstr="(您可以输入8到64个字符)" />
+  <message msgid="secure wpapsk key length" msgstr="请输入至少8个字符!" />
+  <message msgid="ssid1_name_title" msgstr="SSID 名字" />
+  <message msgid="ssid1_pwd_title" msgstr="密码" />
+   <message msgid="ssid1_pwd2_title" msgstr="密码确认" />
+  <message msgid="Please enter SSID Name!" msgstr="请输入网络名称!" />
+  <message msgid="ssidNameTips" msgstr="(1-32位字符)" />
+  <message msgid="accountNameTips" msgstr="(1-32位字符)" />
+
+</po>
+

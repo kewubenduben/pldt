@@ -1,0 +1,52 @@
+<po>
+  <message msgid="accessHead" msgstr="Access Device Notice" />
+  <message msgid="errorCode" msgstr="ErrorCode " />
+  <message msgid="backPage" msgstr="Back" />
+  <message msgid="Next" msgstr="Next" />
+  
+  <message msgid="timeout" msgstr="Your session is timeout, please refresh the page and try again!" />
+
+  <message msgid="0000" msgstr="Access successful!" />
+  <message msgid="9999" msgstr="Access Failed! Please try again!" />
+  
+  <message msgid="0001" msgstr="Access Failed! Internal system error. Please contact the operator." />
+  <message msgid="0002" msgstr="Unknown error!" />
+  <message msgid="0003" msgstr="The input parameter is illegal!" />
+  
+  <message msgid="1001" msgstr="Failed to establish connection. Please check the connection and connection parameters are correct." />
+  <message msgid="1002" msgstr="Failed to create file!" />
+  <message msgid="1003" msgstr="File does not exist!" />
+  <message msgid="1004" msgstr="Failed to turn on/off server!" />
+  <message msgid="1005" msgstr="Failed to configure parameters!" />
+  <message msgid="1006" msgstr="Failed to read parameters!" />
+
+  <message msgid="2001" msgstr="Failed to get username from cookie! " />
+  <message msgid="2002" msgstr="The old password error! Please enter the correct password of the current account, and then try again!" />
+  <message msgid="2003" msgstr="Password error!" />
+  <message msgid="2004" msgstr=" Username error!" />
+  <message msgid="2005" msgstr=" Username exists! " />
+  <message msgid="2006" msgstr=" SSID name modify error!" />
+  <message msgid="2007" msgstr=" SSID password modify error!" />
+  <message msgid="2008" msgstr="WAN password shouldn't be the same as the LAN password!" />
+  <message msgid="2009" msgstr="This is the first time you have created the WAN password, just enter a new password!" />
+ 
+  <message msgid="3001" msgstr="Failed to register OLT!" />
+  <message msgid="3002" msgstr="Register information has been submitted!" />
+
+  <message msgid="4001" msgstr="WAN information changed, please refresh!" />
+  <message msgid="4002" msgstr="Inner error, please check cpe.log" />
+  <message msgid="4003" msgstr="Please add internet route PPPoE mode WAN." />
+  <message msgid="4004" msgstr="Please input PPPoE password again." />
+
+  <message msgid="5001" msgstr="The port is being used! " />
+  
+  <message msgid="6001" msgstr="Please check VoIP protocol! " />
+  
+  <message msgid="9001" msgstr=" MAC has been bound. " />
+  <message msgid="9002" msgstr=" IP has been bound. " />
+  <message msgid="9003" msgstr=" IP has been distributed. " />
+  <message msgid="9005" msgstr=" LAN IP and DHCP binding IP have different segements." />
+  
+  <message msgid="9004" msgstr=" Please enter a valid IPv6 address, such as 2001::1, etc. " />
+  
+</po>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="restore_prompt" msgstr="在本页面上，您可以通过点击'恢复默认配置'使终端设备的配置恢复为默认配置。" />
+  <message msgid="restore_apply" msgstr="恢复默认配置" />  
+  <message msgid="restore_confirm" msgstr="如果选择恢复默认配置，您的配置将会丢失，请确认是否恢复默认配置。" />
+  <message msgid="adminRestore_prompt" msgstr="在本页面上，您可以通过点击'完全恢复'使终端设备的所有配置恢复为默认配置。" />
+  <message msgid="adminRestore_apply" msgstr="完全恢复" />  
+
+  <message msgid="restoreSuccessInfo" msgstr="配置恢复成功！" />
+  <message msgid="restoreFailedInfo" msgstr="配置恢复失败！" />
+  <message msgid="restorerequestproblem" msgstr="请求出错。" />
+  
+  <message msgid="reboot_Prompt" msgstr="在本页面上，您可以通过点击下面的按钮重启设备。" />
+  <message msgid="reboot_apply" msgstr="设备重启" />
+  <message msgid="reboot_confirm" msgstr="重启设备需要若干时间，WEB网管会自动断开，请稍候重新登录! 确定要重启设备吗?" />
+
+ <message msgid="restore_aount_confirm" msgstr="确认重置web网管的账号吗? 如果确认web网管的登陆账号将会恢复成出厂配置。" />
+ <message msgid="reset_acount_prompt" msgstr="在本页面上，您可以将web网管的登陆账号将会恢复成出厂配置。" />
+ <message msgid="reset_acount_apply" msgstr="重置账号" />
+ 
+ <message msgid="div_rebootingHead" msgstr="正在重启..." />
+ <message msgid="rebooting" msgstr="设备正在重启，此过程需要若干分钟，在此期间请勿将设备断电或进行其他操作。稍候请在登录页面重新登录。" />
+ 
+ <message msgid="reset_prompt" msgstr="在本页面上，您可以通过点击'恢复默认配置'使终端设备的配置恢复为默认配置。" />  
+ <message msgid="reset_apply" msgstr="恢复默认配置" />  
+ <message msgid="reset_confirm" msgstr="如果选择恢复默认配置，您的配置将会丢失，请确认是否恢复默认配置。" />
+ <message msgid="resetSuccessInfo" msgstr="配置恢复成功！ " />
+ <message msgid="resetFailedInfo" msgstr="配置恢复失败！" />
+</po>
+

@@ -1,0 +1,58 @@
+<po>
+	  <message msgid="checktime_prompt" msgstr="On this page, you can configure time." />
+	  <message msgid="ntpchecktime_title" msgstr="NTP Check Time" />
+
+	  <message msgid="checkboxTips" msgstr="Enable NTP Check Time" />
+	  <message msgid="firstNTPServer_Title" msgstr="First NTP Server" />
+	  <message msgid="secondNTPServer_Title" msgstr="Second NTP Server" />
+	  <message msgid="thirdNTPServer_Title" msgstr="Third NTP Server" />
+	  <message msgid="fourthNTPServer_Title" msgstr="Fourth NTP Server" />
+	  <message msgid="fifthNTPServer_Title" msgstr="Fifth NTP Server" />
+	  
+	  <message msgid="timeZoneTitle" msgstr="Time Zone" />
+	  <message msgid="secondsTips" msgstr="Seconds (1-99999)" />
+
+	  <message msgid="GMTm12title" msgstr="(GMT-12:00)Dateline West" />
+	  <message msgid="GMTm11title" msgstr="(GMT-11:00)Midway Island, Samoa" />
+	  <message msgid="GMTm10title" msgstr="(GMT-10:00)Hawaii" />
+	  <message msgid="GMTm9title" msgstr="(GMT-09:00)Alaska" />
+	  <message msgid="GMTm8title" msgstr="(GMT-08:00)Pacific Time" />
+	  <message msgid="GMTm7title" msgstr="(GMT-07:00)Mountain Time" />
+	  <message msgid="GMTm6title" msgstr="(GMT-06:00)Middle America" />
+	  <message msgid="GMTm5title" msgstr="(GMT-05:00)Indiana East, Colombia" />
+	  <message msgid="GMTm4title" msgstr="(GMT-04:00)Atlantic Time, Brazil West" />
+	  <message msgid="GMTm3title" msgstr="(GMT-03:00)Brazil East, Greenland" />
+	  <message msgid="GMTm2title" msgstr="(GMT-02:00)Mid-Atlantic" />
+	  <message msgid="GMTm1title" msgstr="(GMT-01:00)Azores Islands" />
+	  <message msgid="GMT0title" msgstr="(GMT)Gambia, Liberia, Morocco" />
+
+	  <message msgid="GMT1title" msgstr="(GMT+01:00)Germany" />
+	  <message msgid="GMT2title" msgstr="(GMT+02:00)Greece, Ukraine, Turkey" />
+	  <message msgid="GMT3title" msgstr="(GMT+03:00)Moscow Winter Time" />
+	  <message msgid="GMT4title" msgstr="(GMT+04:00)Armenia" />
+	  <message msgid="GMT5title" msgstr="(GMT+05:00)Pakistan, Russia" />
+
+	  <message msgid="GMT6title" msgstr="(GMT+06:00)Bangladesh, Russia" />
+	  <message msgid="GMT7title" msgstr="(GMT+07:00)Bangkok, Hanoi, Jakarta" />
+	  <message msgid="GMT8title" msgstr="(GMT+08:00)Beijing,Chongqing,HongKong,Urumqi" />
+	  <message msgid="GMT9title" msgstr="(GMT+09:00)Japan, Korea" />
+	  <message msgid="GMT10title" msgstr="(GMT+10:00)Guam, Russia" />
+	  <message msgid="GMT11title" msgstr="(GMT+11:00)Solomon Islands" />
+	  <message msgid="GMT12title" msgstr="(GMT+12:00)New Zealand" />
+	  
+	  <message msgid="GMT13title" msgstr="(GMT+13:00)Nukualofa" />
+
+	  <message msgid="ntpCurTime_Title" msgstr="Current Time" />
+	  <message msgid="ntpWanChannelTitle" msgstr="Binding WAN Connections" />
+	  
+	  <message msgid="ntp_nofirstserveralert" msgstr="Please input the first NTP server." />
+	  <message msgid="ntp_nosecondserveralert" msgstr="Please input the second NTP server." />
+	  <message msgid="ntp_noperiodalert" msgstr="please input the auto check time period." />
+	  <message msgid="ntp_illegalperiodalert" msgstr="Please input a valid auto check time period." />
+	  <message msgid="daylightsavingstimeIllegalAlert" msgstr="Please input a valid daylight savings time." />
+	  
+  	  <message msgid="ntpsave_apply" msgstr="Check Time" /> 
+  	  <message msgid="ntp_cancel" msgstr="System Check Time" /> 
+
+</po>
+

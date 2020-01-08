@@ -1,0 +1,211 @@
+<po>
+	  <message msgid="lanstate_prompt" msgstr="On this page, you can query the state of LAN interface." />
+	  <message msgid="lState" msgstr="LAN State" />
+
+	  <message msgid="lanIp" msgstr="IP Address" />
+	  <message msgid="lanNetmask" msgstr="LAN Mask" />
+
+	  <message msgid="Lan_PortTitle" msgstr="Lan Port" />
+	  <message msgid="Servicetitle" msgstr="Service" />
+	  <message msgid="Statustitle" msgstr="Status" />
+	  <message msgid="lanIpv6" msgstr="IPv6 Address" />
+
+	  <message msgid="wanstate_prompt" msgstr="On this page, you can query the state of WAN interface." />
+	  
+	  <message msgid="wConnectionType" msgstr="Connection Type" />
+
+	  <message msgid="wStaticMode" msgstr="StaticMode" />
+	  <message msgid="wStaticIp" msgstr="IP Address" />
+	  <message msgid="wStaticNetmask" msgstr="Subnet Mask" />
+	  <message msgid="wStaticGateway" msgstr="Default Gateway" />
+	  <message msgid="wStaticPriDns" msgstr="Primary DNS Server" />
+	  <message msgid="wStaticSecDns" msgstr="Secondary DNS Server" />
+
+	  <message msgid="wDhcpCon_ip_title" msgstr="IP Address" />
+	  <message msgid="wDhcpMode" msgstr="DHCP Mode" />
+	  <message msgid="wDhcpCon_mask_title" msgstr="Subnet Mask" />
+	  <message msgid="wDhcpCon_gateway_title" msgstr="Default Gateway" />
+	  <message msgid="wDhcpCon_priDNS_title" msgstr="Primary DNS Server" />
+	  <message msgid="wDhcpCon_secDNS_title" msgstr="Secondary DNS Server" />
+
+	  <message msgid="lan_inforPrompt" msgstr="On this page, you can query information of LAN interface." />
+	  <message msgid="lan_infor_title" msgstr="LAN Information" />
+	  <message msgid="lanport" msgstr="Port" />
+	  <message msgid="lanport_mode" msgstr="Mode" />
+	  <message msgid="lanport_speed" msgstr="Speed" />
+	  <message msgid="lanport_link" msgstr="State" />
+	  <message msgid="lanport_tb" msgstr="Transmit Bytes" />
+	  <message msgid="lanport_tp" msgstr="Transmit Packets" />
+	  <message msgid="lanport_rb" msgstr="Receive Bytes" />
+	  <message msgid="lanport_rp" msgstr="Receive Packets" />
+	  <message msgid="lanport_errorFrames" msgstr="Error Frames" />
+
+	  <message msgid="pon_countPrompt" msgstr="On this page, you can query information of PON interface." />
+	  <message msgid="pon_infoHead" msgstr="PON Information" />
+	  
+	  <message msgid="wanListHead" msgstr="WAN State" />
+	  <message msgid="wan_name" msgstr="Index" />
+	  <message msgid="wan_state" msgstr="State" />
+	  <message msgid="wan_mode" msgstr="Mode" />
+	  <message msgid="ip_mode" msgstr="IP Type" />
+	  <message msgid="wan_mask" msgstr="Mask" />
+	  <message msgid="wan_vlan" msgstr="VLAN/Priority" />
+	  <message msgid="wan_type" msgstr="Connection Type" />
+
+	  <message msgid="wPppoeMode" msgstr="PPPoE Mode" />
+	  <message msgid="wPppoeUser" msgstr="Username" />
+	  <message msgid="wPppoeOPMode" msgstr="Operation Mode" />
+	  <message msgid="wPppoe_connect" msgstr="Connected" />
+	  <message msgid="wPppoe_disconnect" msgstr="Disconnect" />
+	  <message msgid="wPppoeUserTimeTip" msgstr="seconds" />
+	  <message msgid="wPppoeRetryTimeTip" msgstr="Keep Alive Mode: Retry Period" />
+	  <message msgid="wPppoeCon_status_title" msgstr="State" />
+	  <message msgid="wPppoeCon_mask_title" msgstr="Subnet Mask" />
+	  <message msgid="wPppoeCon_gateway_title" msgstr="Default Gateway" />
+	  <message msgid="wPppoeCon_priDNS_title" msgstr="Primary DNS Server" />
+	  <message msgid="wPppoeCon_secDNS_title" msgstr="Secondary DNS Server" />
+	  <message msgid="wPPPOEModeKeepAlive" msgstr="KeepAlive" />
+	  <message msgid="wPPPOEModeManual" msgstr="Manual" />
+
+	  <message msgid="optpower_prompt" msgstr="On this page, you can query state of optical power." />
+	  <message msgid="out_power_title" msgstr="Transmitted Power" />
+	  <message msgid="in_power_title" msgstr="Received Power" />
+	  <message msgid="temp_title" msgstr="Operating Temperature" />
+	  <message msgid="voltage_title" msgstr="Supply Voltage" />
+	  <message msgid="bais_title" msgstr="Bias Current" />
+ 	  <message msgid="powe_Inf" msgstr="Optical Info" />
+
+ 	  <message msgid="voipstateprompt" msgstr="On this page, you can query state of VoIP." />
+	  <message msgid="NOtitle" msgstr="Index" />
+	  <message msgid="statetitle" msgstr="Port State" />
+	  <message msgid="phoneNOtitle" msgstr="Telephone Number" />
+	  
+	  <message msgid="Initializingtitle" msgstr="Initializing" />
+	  <message msgid="uptitle" msgstr="Up" />
+	  <message msgid="Registeringtitle" msgstr="Registering" />
+ 	  <message msgid="Disabledtitle" msgstr="Disabled" />
+ 	  <message msgid="Errortitle" msgstr="Error" />
+	  <message msgid="Unregisteringtitle" msgstr="Unregistering" />
+	  
+	  <message msgid="INACTIVE" msgstr="INACTIVE" />
+	  <message msgid="REGING" msgstr="REGISTERING" />
+	  <message msgid="IDLE" msgstr="IDLE" />
+	  <message msgid="OFF_HOOK" msgstr="OFF HOOK" />
+	  <message msgid="DIALING" msgstr="DIALING" />
+	  <message msgid="RING" msgstr="RING" />
+	  <message msgid="RINGBACK" msgstr="RINGBACK" />
+	  <message msgid="CONNECTING" msgstr="CONNECTING" />
+	  <message msgid="CONNECTED" msgstr="CONNECTED" />
+	  <message msgid="ON_HOOK" msgstr="ON HOOK" />
+	  <message msgid="DISCONNECTING" msgstr="DISCONNECTING" />
+	  <message msgid="BUSY" msgstr="BUSY" />
+	  <message msgid="REG_FAIL" msgstr="REGISTER FAIL" />
+	  <message msgid="LINE_FAIL" msgstr="LINE FAIL" />
+	  
+	  <message msgid="wifistate_prompt" msgstr="On this page, you can query state of wireless." />
+	  <message msgid="WirelessState" msgstr="Wireless State" />
+	  <message msgid="basicRadioButton" msgstr="Radio On/Off" />
+	  <message msgid="basicNetMode" msgstr="Network Mode" />
+	  <message msgid="basicFreqA" msgstr="Frequency (Channel)" />
+	  <message msgid="basicSSID1_title" msgstr="SSID1 Name" />
+	  <message msgid="basicSSID2_title" msgstr="SSID2 Name" />
+	  <message msgid="basicSSID3_title" msgstr="SSID3 Name" />
+	  <message msgid="basicSSID4_title" msgstr="SSID4 Name" />
+          <message msgid="AutoSelect" msgstr="AutoSelect" />
+	  <message msgid="channel" msgstr="channel" />
+	  <message msgid="Enable" msgstr="Enable" />
+	  <message msgid="Disable" msgstr="Disable" />
+	  <message msgid="ssid_index_title" msgstr="SSID Index" />
+	  <message msgid="ssid_name_title" msgstr="SSID Name" />
+	   <message msgid="ssid_enable_title" msgstr="SSID Enable" />
+	  <message msgid="euthentication_mode_title" msgstr="Euthentication Mode" />
+	  <message msgid="encryption_mode_title" msgstr="Encryption Mode" />
+
+	  <message msgid="deviceinf_prompt" msgstr="On this page, you can query device information." />
+	  <message msgid="DeInf" msgstr="Device Information" />
+	  <message msgid="softver" msgstr="Software Version" />
+	  <message msgid="hardver" msgstr="Hardware Version" />
+	  <message msgid="device_model" msgstr="Device Model" />
+	  <message msgid="device_descrip" msgstr="Device Description" />
+	  <message msgid="ONU_state" msgstr="ONU State" />
+	  <message msgid="CPU_rate" msgstr="CPU Usage" />
+	  <message msgid="mem_rate" msgstr="Memory Usage" />
+	  <message msgid="flash_rate" msgstr="Flash Usage" />
+	  <message msgid="server_port" msgstr="Web Server port" />
+	  <message msgid="rf_power_title" msgstr="CATV RF Power" />
+	  <message msgid="catv_revpower_title" msgstr="CATV Received Power" />
+	  <message msgid="catv_enable_title" msgstr="CATV State" />
+	  <message msgid="pon_reg_title" msgstr="PON Authentication State" />
+
+	  <message msgid="callhistoryprompt" msgstr="On this page, you can query VoIP call history." />
+	  <message msgid="voip_callhistoryHead" msgstr="VoIP Call History" />	  
+	  <message msgid="voip_dateTitle" msgstr="Date" />
+	  <message msgid="voip_timeTitle" msgstr="Time" />
+	  <message msgid="voip_outnumberTitle" msgstr="Out Number" />
+	  <message msgid="voip_directionTitle" msgstr="Direction" />
+	  <message msgid="voip_localnumberTitle" msgstr="Local Number" />
+	  <message msgid="voip_durationTitle" msgstr="Duration" />
+
+	  <message msgid="radio off" msgstr="radio off" />
+          <message msgid="radio on" msgstr="radio on" />
+	  <message msgid="wireStateStatic" msgstr="Wireless Packets Count" />
+	  <message msgid="rpc_title" msgstr="Received Packets Count" />
+	  <message msgid="rbc_title" msgstr="Received Bytes Count" />
+	  <message msgid="rmc_title" msgstr="Error Received Packets Count" />
+	  <message msgid="rdc_title" msgstr="Loss Received Packets Count" />
+	  <message msgid="spc_title" msgstr="Sent Packets Count" />
+	  <message msgid="sbc_title" msgstr="Sent Bytes Count" />
+	  <message msgid="smc_title" msgstr="Error Sent Packets Count" />
+	  <message msgid="sdc_title" msgstr="Loss Sent Packets Count" />
+
+	  <message msgid="v6State" msgstr="IPv6 State" />
+	  <message msgid="wanIpv6" msgstr="IPv6 Address" />
+	  <message msgid="wanprefix" msgstr="Prefix" />
+	  <message msgid="wan_dns" msgstr="Primary DNS Server" />
+	  <message msgid="wan_dns2" msgstr="Secondary DNS Server" />
+	  <message msgid="v6gateway" msgstr="Default Gateway" />
+	  <message msgid="ONU_reg_title" msgstr="ONU Regist State" />
+	  <message msgid="v6wan_dns" msgstr="Primary DNS" />
+
+	  <message msgid="INIT" msgstr="INIT" />
+	  <message msgid="OK" msgstr="OK" />
+	  <message msgid="LOID_ERR" msgstr="LOID ERROR" />
+	  <message msgid="LPWD_ERR" msgstr="LOGIC PASSWORD ERROR" />
+	  <message msgid="LOID_COLLISION" msgstr="LOID COLLISION" />
+	  <message msgid="SN_COLLISION" msgstr="PHYSICAL SN COLLISION" />
+	  <message msgid="NO_RESOURCE" msgstr="NO RESOURCE" />
+	  <message msgid="TYPE_ERRONU" msgstr="TYPE ERROR" />
+	  <message msgid="SN_ERR" msgstr="PHYSICAL SN ERROR" />
+	  <message msgid="PWD_ERR" msgstr="PHYSICAL PASSWORD ERROR" />
+	  <message msgid="PWD_COLLISION" msgstr="PHYSICAL PASSWORD COLLISION" />
+
+	  <message msgid="usbstate_prompt" msgstr="On this page, you can check the state of the USB interface." />
+	  <message msgid="usb_state_head" msgstr="USB State" />
+	  <message msgid="usb_interface_title" msgstr="USB Interface" />
+	  <message msgid="usb_using" msgstr="In use" />
+	  <message msgid="usb_idle" msgstr="Idle" />
+	  
+	<message msgid="dhcp_userListHead" msgstr="DHCP Clients List" />
+	<message msgid="dhcp_hostnameTitle" msgstr="Hostname" />
+	<message msgid="dhcp_macTitle" msgstr="MAC" />
+	<message msgid="dhcp_ipTitle" msgstr="IP" />
+	<message msgid="dhcp_hiredTimeTitle" msgstr="Hired Time" />
+	<message msgid="dhcp_typeTitle" msgstr="Type" />
+
+
+	<message msgid="device_info_head" msgstr="Device Info" />	  
+	<message msgid="lan_info_head" msgstr="LAN Info" />
+	<message msgid="connected_clients_head" msgstr="Connected Clients" />
+	<message msgid="ont_info_head" msgstr="ONT Info" />
+	<message msgid="voip_info_head" msgstr="VoIP Info" />
+	<message msgid="wan_info_head" msgstr="WAN" />
+	<message msgid="setup" msgstr="Setup" />
+
+	<message msgid="lan_inforPrompt" msgstr="On this page, you can query the state of LAN port." />
+	<message msgid="lan_port_status_title" msgstr="LAN Port Status" />
+	<message msgid="lanport_admin" msgstr="Admin" />
+	<message msgid="lanport_status" msgstr="Status" />
+
+</po>
+
+		

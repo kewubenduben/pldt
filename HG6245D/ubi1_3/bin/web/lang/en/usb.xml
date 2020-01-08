@@ -1,0 +1,58 @@
+<po>
+  <message msgid="usb disable" msgstr="Disable" />
+  <message msgid="usb enable" msgstr="Enable" />
+  <message msgid="usb add" msgstr="Add" />
+  <message msgid="usb edit" msgstr="Edit" />
+  <message msgid="usb del" msgstr="Delete" />
+  <message msgid="usb apply" msgstr="Apply" />
+  <message msgid="usb cancel" msgstr="Cancel" />
+  <message msgid="usb reset" msgstr="Reset" />
+  
+  <message msgid="usb_loadPrompt" msgstr="On this page, you may upload/download files to/from ftp server as your wish." />
+  <message msgid="usb_storgeHead" msgstr="USB Storge" />
+  <message msgid="usb_typeTitle" msgstr="Type" />
+  <message msgid="usb_ftpUserTitle" msgstr="Username" />
+  <message msgid="usb_ftpPwdTitle" msgstr="Password" />
+  <message msgid="usb_ftpIPTitle" msgstr="FTP Server IP" />
+  <message msgid="usb_ftpPortTitle" msgstr="FTP Server Port" />
+  <message msgid="usb_localFileTitle" msgstr="Local File Name" />
+  <message msgid="usb_remoteFileTitle" msgstr="Remote File Name" />
+  <message msgid="usb_diskNoTitle" msgstr="Disk NO." />
+  
+  <message msgid="usb_ftpUserTips" msgstr=" (You can input 1-32 characters, including alphanumeric and '_')" />
+  <message msgid="usb_ftpPwdTips" msgstr=" (You can input 0-32 characters, including alphanumeric and '_')" />
+  <message msgid="usb_ftpPortTips" msgstr=" (0 ~ 65535)" />
+  <message msgid="usb_ftpIPTips" msgstr=" (Decimal format, such as 192.168.1.2)" />
+  <message msgid="usb_localFileTips" msgstr=" (You can input 1-128 characters, including alphanumeric, '_', '/' and '-')" />
+  <message msgid="usb_remoteFileTips" msgstr=" (You can input 1-128 characters, including alphanumeric, '_', '/' and '-')" />
+  <message msgid="usb_fileTips" msgstr=" (You can input 1-128 characters, including alphanumeric, '_' and '/')" />    
+
+  <message msgid="usb_userIllegalAlert" msgstr="Please enter a valid Username!" />
+  <message msgid="usb_pwdIllegalAlert" msgstr="Please enter a valid Password!" />
+  <message msgid="usb_ipIllegalAlert" msgstr="Please enter a valid IP!" />
+  <message msgid="usb_portIllegalAlert" msgstr="Valid port range is 0 to 65535." />
+  <message msgid="usb_fileIllegalAlert" msgstr="Please enter a valid file name!" />
+  
+  <message msgid="usb_cfgBakPrompt" msgstr="On this page, you can download the current configuration file to the USB device." />
+  <message msgid="usb_cfgBakTitle" msgstr="USB Backup Directory" />
+  <message msgid="usb_cfgBak" msgstr="Download Backup" />
+  <message msgid="usb_idle" msgstr="No USB" />
+  <message msgid="usb_cfgBakSuccess" msgstr="Download configuration file successfully!" />
+  
+  <message msgid="usb_serverError" msgstr="Server Error!" />
+  <message msgid="usb_serverError1" msgstr="Server Error 1!" />
+  <message msgid="usb_serverError2" msgstr="Server Error 2!" />
+  <message msgid="usb_serverError3" msgstr="Server Error 3!" />
+  
+  <message msgid="usb_cfgRestorePrompt" msgstr="On this page, you can udpate your device with the configuration file saved on the USB." />
+  <message msgid="usb_cfgRestoreTitle" msgstr="USB Restore Directory" />
+  <message msgid="usb_filenameTitle" msgstr="Configuration File" />
+  <message msgid="usb_cfgRestore" msgstr="Restore" />
+  <message msgid="usb_cfgRestoreSuccess" msgstr="Restore configuration file successfully!" />
+  <message msgid="usb_openFileFail" msgstr="Failed to open the specified file!" />
+  <message msgid="usb_readFileFail" msgstr="Failed to read the specified file!" />
+  <message msgid="usb_restoreFail" msgstr="Configuration file recovery failed!" />
+  
+ <message msgid="rebooting" msgstr="System is resetting... Please wait for a moment. Please relogin after reset." />
+ 
+</po>

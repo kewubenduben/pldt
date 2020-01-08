@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="firewall_apply" msgstr="应用" />
+  <message msgid="firewall_cancel" msgstr="取消" />
+  
+  <message msgid="firewall_prompt" msgstr="您可以在本页面开启/关闭防火墙。" />
+  <message msgid="firewallEnable_title" msgstr="防火墙开启" />  
+  <message msgid="firewall_enable" msgstr="开启" />
+  <message msgid="firewall_disable" msgstr="关闭" />
+  <message msgid="fw_srcIPv6Title" msgstr="源IPv6" />
+  <message msgid="fw_dstIPv6Title" msgstr="目的IPv6" />
+  <message msgid="fw_ipv6_sourceIllegalAlert" msgstr="请输入正确IPv6地址!" />
+  <message msgid="fw_ipv6_dstIllegalAlert" msgstr="请输入正确IPv6地址!" />
+  <message msgid="fw_ipv6_ipNullAlert" msgstr="请输入源IPv6或目的IPv6地址!" />
+  <message msgid="pf_portIllegalAlert" msgstr="有效端口值为1 - 65535!" />
+  <message msgid="mtu_IllegalAlert" msgstr="您输入的MTU值非法，请输入1280-1528之间的数值。" />
+  
+  <message msgid="firewall_ipv4filterup_title" msgstr="过滤模式" />
+  <message msgid="firewall_ipfilterup_title" msgstr="上行" />
+  <message msgid="firewall_ipfilterdown_title" msgstr="下行" />
+  <message msgid="firewall_white" msgstr="白名单" />
+  <message msgid="firewall_black" msgstr="黑名单" />
+
+  <message msgid="pro_PortScan_prompt" msgstr="防止端口扫描功能。" />
+  <message msgid="pro_PortScan_title" msgstr="防止端口扫描" />
+  <message msgid="pps_enable" msgstr="启用" />
+  <message msgid="pps_disable" msgstr="禁用" />
+  
+  <message msgid="fw_ipfilterPrompt" msgstr=" 防火墙开启后，设置的规则将生效，符合过滤条件的IP报文将被设备过滤。" />
+  <message msgid="fw_add" msgstr="添加" />
+  <message msgid="fw_delete" msgstr="删除" />
+  <message msgid="fw_deleteAll" msgstr="删除所有" />
+  <message msgid="fw_filterListHead" msgstr="过滤规则列表" />
+  <message msgid="fw_directionTitle" msgstr="方向" />
+  <message msgid="fw_srcIPTitle" msgstr="源IP" />
+  <message msgid="fw_srcPortTitle" msgstr="源端口" />
+  <message msgid="fw_dstIPTitle" msgstr="目的IP" />
+  <message msgid="fw_dstPortTitle" msgstr="目的端口" />
+  <message msgid="fw_protocolTitle" msgstr="协议" />
+  
+  <message msgid="fw_mostRulesAlert" msgstr="最多可创建50个规则！" />
+  <message msgid="fw_noRuleAlert" msgstr="没有已创建的规则，无法删除！" />
+  <message msgid="fw_noChooseAlert" msgstr="请先选定一个规则再执行删除!" />
+  <message msgid="fw_ipIllegalAlert" msgstr="请输入有效IP!" />
+  <message msgid="fw_maskIllegalAlert" msgstr="请输入有效子网掩码!" />
+  <message msgid="fw_startPortNullAlert" msgstr="已指定结束端口号，请指定开始端口号！" />
+  <message msgid="fw_portIllegalAlert" msgstr="有效的端口范围是1-65535" />
+  <message msgid="fw_endPortTooSmallAlert" msgstr="结束端口号不能小于开始端口号!" />
+  <message msgid="fw_endIPTooSmallAlert" msgstr="结束IP不能小于开始IP!" />
+  
+  <message msgid="fw_most4rulealert" msgstr="您最多可创建4条规则！" />
+  <message msgid="fw_most8RulesAlert" msgstr="您最多可以创建8条规则！" />
+  <message msgid="fw_most50RulesAlert" msgstr="您最多可以创建50条规则！" />
+  <message msgid="fw_most16RulesAlert" msgstr="您最多可以创建16条规则！" />
+  <message msgid="fw_most32RulesAlert" msgstr="您最多可以创建32条规则！" />
+  
+  <message msgid="fw_deleteRuleConfirm" msgstr="确定删除选定规则？" />
+  
+  <message msgid="ipFilter_syncAlert" msgstr="获取IP过滤数据失败，请重试!" />  
+
+  <message msgid="url_filterPrompt" msgstr="防火墙开启后，设置的规则将生效，符合过滤条件的域名将被设备过滤。" />
+  <message msgid="URLenable_title" msgstr="使能" />
+  <message msgid="urldown_title" msgstr="URL黑名单/白名单" />
+  <message msgid="url_filterListHead" msgstr="URL过滤表" />
+  <message msgid="urlip" msgstr="域名地址" />
+   
+  <message msgid="urltime" msgstr="时间" />
+  <message msgid="url_enableTitle" msgstr="状态" />
+  <message msgid="url_start_time" msgstr="开始时间" />
+  <message msgid="url_end_time" msgstr="结束时间" />
+  <message msgid="url_TimeIllegalAlert" msgstr="请输入正确格式的时间! " />
+  <message msgid="url_time_infor" msgstr="(小时:分钟, 24小时)" />
+
+  <message msgid="macaddr_filterPrompt" msgstr="防火墙开启后，设置的规则将生效，符合过滤条件的MAC地址将被设备过滤。" />
+  <message msgid="v6_macaddr_filterPrompt" msgstr="防火墙开启后，设置的规则将生效，符合过滤条件的IPv6 MAC地址将被设备过滤。" />
+  <message msgid="macaddrenable_title" msgstr="MAC地址过滤使能开关" />
+  <message msgid="v6_macaddrenable_title" msgstr="IPv6 MAC地址过滤使能开关" />
+  <message msgid="macaddrdown_title" msgstr="MAC地址过滤黑名单/白名单" />
+  <message msgid="v6_macaddrdown_title" msgstr="IPv6 MAC地址过滤黑名单/白名单" />
+  <message msgid="macaddr_filterListHead" msgstr="MAC地址过滤表" />
+  <message msgid="v6_macaddr_filterListHead" msgstr="IPv6 MAC地址过滤表" />
+  <message msgid="macaddr" msgstr="MAC地址" />
+  <message msgid="macaddr_macTips" msgstr=" (您可以输入数字、字母及':'，如：00:24:21:19:BD:E4)" />
+  <message msgid="macaddr_most10rulealert" msgstr="最多可创建10条规则!" />
+
+  <message msgid="fw_NoHostURL" msgstr="请输入需要过滤的URL!" />
+  <message msgid="fw_URLIllegalAlert" msgstr="请输入有效URL!" />
+  <message msgid="(1-31)" msgstr="(1 - 31 位字符)" />
+
+  <message msgid="fw_nomacalert" msgstr="请输入MAC地址!" />
+  <message msgid="fw_macillegalalert" msgstr="请输入合法MAC地址!" />
+
+  <message msgid="dhcp_filterPrompt" msgstr="防火墙开启后，设置的规则将生效，阻止该mac的设备通过DHCP获取IP。" />
+  <message msgid="dhcpaddrenable_title" msgstr="DHCP 过滤使能" />
+  <message msgid="dhcpaddrdown_title" msgstr="DHCP过滤黑/白名单" />
+  <message msgid="dhcpaddr_filterListHead" msgstr="DHCP过滤规则列表" />
+
+  <message msgid="pro_ddos_prompt" msgstr="您可以在本页面开启或者关闭防DOS攻击。" />
+  <message msgid="pro_ddos_title" msgstr="防DOS攻击" />
+
+  <message msgid="wifiacl_filterPrompt" msgstr="您可以在本页面上配置WIFI ACL功能。" />
+  <message msgid="wifiacl_mostRulesAlert" msgstr="您最多可以设置10条规则!" />
+  
+  <message msgid="fw_rulesRepeatAlert" msgstr="规则重复，请重新输入!" />
+
+  <message msgid="wanAclPrompt" msgstr="在本页面上，您可以基于WAN端口配置网络访问控制。允许从配置的源地址访问WAN端口。如果没有配置源地址，则允许任意地址访问WAN端口。" />
+  <message msgid="ACLenable_title" msgstr="WAN ACL开关"/>
+  <message msgid="acl_head" msgstr="访问控制列表"/>
+  <message msgid="acl_ip_title" msgstr="安全IP地址"/>
+  <message msgid="acl_apptype_title" msgstr="协议"/>
+  <message msgid="acl_enable_title" msgstr="状态"/>
+  <message msgid="modifyWANPassword" msgstr="您将打开WAN侧HTTP访问，请在登录前配置WAN侧的WEB登陆密码（默认为空）!"/>
+  
+  <message msgid="lanAclPrompt" msgstr="在本页面上，您可以基于LAN端口配置网络访问控制。" />
+  <message msgid="lan_acl_ftp_enable_title" msgstr="Enable the LAN-Side PC to access the ONT through FTP"/>
+  <message msgid="lan_acl_http_enable_title" msgstr="Enable the LAN-Side PC to access the ONT through HTTP"/>
+  <message msgid="lan_acl_telnet_enable_title" msgstr="Enable the LAN-Side PC to access the ONT through Telnet"/>
+
+  <message msgid="aclChange_confirm" msgstr="ACL规则改变将会导致HTTP/Telnet/ICMP的操作异常。您确认需要继续吗？"/>
+  
+  <message msgid="sambaenable_title" msgstr="Samba开关" />
+  <message msgid="samabListHead" msgstr="Samba规则列表" />
+  <message msgid="samba_username" msgstr="用户名" />
+  <message msgid="samba_directory" msgstr="目录" />
+  <message msgid="samba_state" msgstr="状态" />
+  <message msgid="usb_pathTitle" msgstr="USB分区" />
+  <message msgid="samba_passwordTitle" msgstr="密码" />
+  <message msgid="The directory you select had been used!" msgstr="你选择的目录已经被使用!" />
+  <message msgid="sambaPrompt" msgstr="您可以在本页面配置samba服务, 请确认你已经连接了USB存储设备。" />
+  <message msgid="samba_mostRulesAlert" msgstr="您最多可以配置6条规则" />
+  
+  <message msgid="dhcp_macbandPrompt" msgstr="如果DHCP服务器已经开启，您可以在本页面绑定MAC和IP。" />
+  <message msgid="dhcp_bandListHead" msgstr="DHCP MAC地址绑定列表" />
+
+  <message msgid="super_admin_access_list_prompt" msgstr="在本页面上，您可以查看管理员用户白名单列表。" />	
+  <message msgid="access_list_title" msgstr="白名单" />
+  <message msgid="ip_RepeatAlert" msgstr="MAC地址与已有规则的MAC地址重复，请重新输入!" />
+  <message msgid="macAddr_RepeatAlert" msgstr="IP地址与已有规则的IP地址重复，请重新输入!" />
+
+  <message msgid="fw_StartIPNullAlert" msgstr="起始地址不能为空!" />
+</po>

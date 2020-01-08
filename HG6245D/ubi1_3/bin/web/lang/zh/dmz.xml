@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="dmz_prompt" msgstr="在本页面上，您可以将一台主机的IP设置到DMZ。" />
+  <message msgid="dmzEnable_title" msgstr="DMZ使能" />
+  <message msgid="dmz_enable" msgstr="启用" />
+  <message msgid="dmz_disable" msgstr="禁用" />
+  <message msgid="dmz_auto" msgstr="自动" />
+  <message msgid="dmz_hostTips" msgstr="DMZ主机IP" />
+  <message msgid="dmz_add" msgstr="新增" />
+  <message msgid="dmz_delete" msgstr="删除" />
+  <message msgid="dmz_deleteAll" msgstr="删除所有" />
+  <message msgid="dmzRuleListHead" msgstr="DMZ规则列表" />
+  <message msgid="dmz_wannameTips" msgstr="WAN名称" />
+  <message msgid="dmz_most4rulealert" msgstr="您最多可创建4条规则！" />
+  <message msgid="fw_noRuleAlert" msgstr="没有已创建的规则，无法删除！" />
+  <message msgid="fw_noChooseAlert" msgstr="请先选定一个规则再执行删除" />
+  <message msgid="fw_ipIllegalAlert" msgstr="请输入有效IP" />
+  <message msgid="fw_deleteRuleConfirm" msgstr="确定删除选定规则？" />
+  <message msgid="dmz_iprepeat" msgstr="您输入的主机IP与已有规则重复，请重新输入。" />
+  <message msgid="dmz_wannamerepeat" msgstr="您绑定的WAN Name与已有规则重复，请重新选择。" />
+  
+  
+  <message msgid="dmz_apply" msgstr=" 提交" />
+  <message msgid="dmz_cancel" msgstr="取消" />
+  <message msgid="reset_rf" msgstr="恢复默认值" />
+  <message msgid="dmz_noipalert" msgstr="请输入IP地址!" />
+  <message msgid="dmz_ipillegalalert" msgstr="请输入合法IP地址!" />
+   <message msgid="rf_prompt" msgstr="您可以在本页面上调节RF输出电平。" />
+  <message msgid="rf_hostTips" msgstr="RF输出电平调节幅度" />
+  <message msgid="rf_IllegalAlert" msgstr="请输入正确的RF输出电平调节幅度 [-127,127]" />
+  
+</po>
+

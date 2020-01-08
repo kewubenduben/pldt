@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="accessHead" msgstr=" 访问设备提示" />
+  <message msgid="errorCode" msgstr=" 信息码" />
+  <message msgid="backPage" msgstr=" 返回" />
+  <message msgid="Next" msgstr=" 下一步" />
+  
+  <message msgid="timeout" msgstr="您的会话已过期，请刷新页面后重试!" />
+
+  <message msgid="0000" msgstr=" 操作成功" />
+  <message msgid="9999" msgstr=" 操作失败，请再次尝试!" />
+  
+  <message msgid="0001" msgstr=" 操作失败! 系统内部错误，请联系管理员。" />
+  <message msgid="0002" msgstr=" 未知错误!" />
+  <message msgid="0003" msgstr=" 输入参数非法!" />
+  
+  <message msgid="1001" msgstr=" 建立连接失败，请检查连接及连接参数是否正确。" />
+  <message msgid="1002" msgstr=" 创建文件失败!" />
+  <message msgid="1003" msgstr=" 文件不存在!" />
+  <message msgid="1004" msgstr=" 服务器开启/关闭失败!" />
+  <message msgid="1005" msgstr=" 参数配置失败!" />
+  <message msgid="1006" msgstr=" 参数读取失败!" />
+
+  <message msgid="2001" msgstr=" 从Cookie中获取登录账号失败! " />
+  <message msgid="2002" msgstr=" 账号密码验证失败!请输入当前账号的正确密码后重试! " />
+  <message msgid="2003" msgstr=" 密码非法! " />
+  <message msgid="2004" msgstr=" 账号非法! " />
+  <message msgid="2005" msgstr=" 账号已存在! " />
+  <message msgid="2006" msgstr=" SSID 名称修改失败!" />
+  <message msgid="2007" msgstr=" SSID 密码修改失败!" />
+  <message msgid="2008" msgstr="WAN密码不得与LAN密码相同!" />
+  <message msgid="2009" msgstr="这是首次创建WAN密码，您只需输入新密码!" />
+
+  <message msgid="3001" msgstr=" 注册OLT失败! " />
+  <message msgid="3002" msgstr=" 注册信息提交成功! " />
+
+  <message msgid="4001" msgstr=" WAN连接有参数发生变化，请先刷新界面后重试! " />
+  <message msgid="4002" msgstr=" 内部错误,详细情况请查询日志 cpe.log" />
+  <message msgid="4003" msgstr=" 请先建立Internet类型路由PPPoE模式WAN链接。 " />
+  <message msgid="4004" msgstr=" 请重新输入PPPoE密码。 " />
+  
+  <message msgid="5001" msgstr=" 该端口已被占用! " />
+
+  <message msgid="6001" msgstr=" 请检查语音协议类型是否正确! " />
+  
+  <message msgid="9001" msgstr=" MAC地址已经被绑定。 " />
+  <message msgid="9002" msgstr=" IP地址已经被绑定。 " />
+  <message msgid="9003" msgstr=" IP地址已经被分配。 " />
+  <message msgid="9005" msgstr=" IP和LAN IP的网段不同" />
+  
+  <message msgid="9004" msgstr=" 请输入合法的IPv6地址，例如2001::1。 " />
+  
+</po>

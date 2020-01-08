@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+
+  <message msgid="webport_Prompt" msgstr="On this page, you could configure web communication port(HTTP), and restart to be effective." />
+  <message msgid="web_portTitle" msgstr="WEB Valid Communication Port" />
+  <message msgid="web_portchangeTitle" msgstr="WEB Communication Port You Modified" />
+  <message msgid="web_portchangeTips" msgstr="(Please input 1024-65535 or 80)" />
+  <message msgid="Change_confirm" msgstr="The port you have modifyed to be effective after reboot." />
+  <message msgid="web_portIllegalAlert" msgstr="Please input 1024-65535 or 80!" />
+  <message msgid="web_PortNullAlert" msgstr="Please input a value of the port!" />
+  <message msgid="webport_apply" msgstr="Apply" />
+  <message msgid="webport_cancel" msgstr="Cancel" />
+</po> 
+

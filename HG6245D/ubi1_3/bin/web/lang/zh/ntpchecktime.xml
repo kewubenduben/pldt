@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+	  <message msgid="checktime_prompt" msgstr=" 您可以在本页面进行时间配置。" />
+	  <message msgid="ntpchecktime_title" msgstr="NTP校时" />
+
+	  <message msgid="checkboxTips" msgstr="使能NTP校时" />
+	  <message msgid="firstNTPServer_Title" msgstr="NTP第一时间服务器" />
+
+	  <message msgid="secondNTPServer_Title" msgstr="NTP第二时间服务器" />
+	  <message msgid="thirdNTPServer_Title" msgstr="NTP第三时间服务器" />
+	  <message msgid="fourthNTPServer_Title" msgstr="NTP第四时间服务器" />
+	  <message msgid="fifthNTPServer_Title" msgstr="NTP第五时间服务器" />
+	  
+	  <message msgid="timeZoneTitle" msgstr="时区" />
+	  <message msgid="secondsTips" msgstr="秒 (1-99999)" />
+
+	  <message msgid="GMTm12title" msgstr="GMT-12 日界线西" />
+	  <message msgid="GMTm11title" msgstr="GMT-11 中途岛" />
+	  <message msgid="GMTm10title" msgstr="GMT-10 夏威夷" />
+	  <message msgid="GMTm9title" msgstr="GMT-9 阿拉斯加" />
+	  <message msgid="GMTm8title" msgstr="GMT-8 太平洋时间" />
+	  <message msgid="GMTm7title" msgstr="GMT-7 山地时间" />
+	  <message msgid="GMTm6title" msgstr="GMT-6 中美洲" />
+	  <message msgid="GMTm5title" msgstr="GMT-5 东部时间（美国和加拿大）" />
+	  <message msgid="GMTm4title" msgstr="GMT-4 大西洋时间（加拿大）" />
+	  <message msgid="GMTm3title" msgstr="GMT-3 格陵兰" />
+	  <message msgid="GMTm2title" msgstr="GMT-2 中大西洋" />
+	  <message msgid="GMTm1title" msgstr="GMT-1 亚速尔群岛" />
+	  <message msgid="GMT0title" msgstr="GMT 格林威治标准时间: 都柏林，爱丁堡，伦敦，里斯本" />
+
+	  <message msgid="GMT1title" msgstr="GMT+1 阿姆斯特丹 柏林" />
+	  <message msgid="GMT2title" msgstr="GMT+2 开罗" />
+	  <message msgid="GMT3title" msgstr="GMT+3 莫斯科" />
+	  <message msgid="GMT4title" msgstr="GMT+4 巴库" />
+	  <message msgid="GMT5title" msgstr="GMT+5 伊斯兰堡" />
+
+	  <message msgid="GMT6title" msgstr="GMT+6 阿拉目图" />
+	  <message msgid="GMT7title" msgstr="GMT+7 曼谷 河内 雅加达" />
+	  <message msgid="GMT8title" msgstr="GMT+8 北京 重庆 香港 乌鲁木齐" />
+	  <message msgid="GMT9title" msgstr="GMT+9 大阪 东京" />
+	  <message msgid="GMT10title" msgstr="GMT+10 关岛" />
+	  <message msgid="GMT11title" msgstr="GMT+11 马加丹" />
+	  <message msgid="GMT12title" msgstr="GMT+12 斐济" />
+	  
+	  <message msgid="GMT13title" msgstr="GMT+13 努库阿洛法" />
+	  
+	  <message msgid="ntpCurTime_Title" msgstr="当前时间" />
+	  <message msgid="ntpWanChannelTitle" msgstr="WAN连接绑定" />
+	  
+	  <message msgid="ntp_nofirstserveralert" msgstr="请输入第一NTP校时服务器!" />
+	  <message msgid="ntp_nosecondserveralert" msgstr="请输入第二NTP校时服务器!" />
+	  <message msgid="ntp_noperiodalert" msgstr="请输入自动校准周期!" />
+	  <message msgid="ntp_illegalperiodalert" msgstr="请输入合法自动校准周期!" />
+	  <message msgid="daylightsavingstimeIllegalAlert" msgstr="请输入合法的夏令时时间!" />
+	  
+	  <message msgid="ntpsave_apply" msgstr="校时" />
+	  <message msgid="ntp_cancel" msgstr="系统校时" />
+
+</po>
+

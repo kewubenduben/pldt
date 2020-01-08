@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+	<menu1 name="state" url="../state/deviceInfor.asp" >
+			<menu2 name="Device Information" url="../state/deviceInfor.asp" >
+					<menu3 name="Device Information" url="../state/deviceInfor.asp" />
+			</menu2>
+			<menu2 name="wireless state" url="../state/wireless_state.asp" >
+					<menu3 name="wireless state" url="../state/wireless_state.asp" />
+					<menu3 name="5Gwifistate" url="../state/wireless_state_5g.asp" />
+					<menu3 name="wifi_mac_list" url="../wireless/wifimaclist.asp" />
+			</menu2>
+			<menu2 name="wan state" url="../state/wan_state.asp" >
+					<menu3 name="wan state" url="../state/wan_state.asp" />
+			</menu2>
+			<menu2 name="lan state" url="../state/lan_state.asp" >
+					<menu3 name="lan state" url="../state/lan_state.asp" />
+					<menu3 name="dhcp_userlist" url="../internet/dhcp_userlist.asp" />
+			</menu2>
+			<menu2 name="Optical Power" url="../state/opt_power.asp" >
+					<menu3 name="Optical Power" url="../state/opt_power.asp" />
+			</menu2>
+	</menu1>
+	<menu1 name="network" url="../wireless/basic.asp" >
+			<menu2 name="wlan_settings" url="../wireless/basic.asp" >
+					<menu3 name="basic" url="../wireless/basic.asp" />
+					<menu3 name="security" url="../wireless/security.asp" />
+					<menu3 name="5Gbasic" url="../wireless/basic_5g.asp" />
+					<menu3 name="5Gsecurity" url="../wireless/security_5g.asp" />
+			</menu2>
+			<menu2 name="PPPoE" url="../internet/pppoe_accout.asp" >
+					<menu3 name="PPPoE" url="../internet/pppoe_accout.asp" />
+			</menu2>
+	</menu1>  
+	<menu1 name="management" url="../management/account_self_admin_toacs.asp" >
+			<menu2 name="user_admin" url="../management/account_self_admin_toacs.asp" >
+					<menu3 name="user_account_admin" url="../management/account_self_admin_toacs.asp" />
+			</menu2>
+			<menu2 name="device_admin" url="../management/reboot.asp" >
+					<menu3 name="reboot" url="../management/reboot.asp" />
+			</menu2>
+	</menu1>
+</po>  

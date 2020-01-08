@@ -1,0 +1,26 @@
+<po>
+  <message msgid="recontrol_prompt" msgstr="On this page, you can enable/disable visit web through wan, you can not visit web through wan if you disable remote control, and you can visit web through wan if you enable remote control. " />
+  <message msgid="recontrol_prompt_romania" msgstr="On this page, you can enable/disable WEB access through wan only by https." />
+  <message msgid="rcEnable_title" msgstr="Remote Control" />
+  
+  <message msgid="rc_enable" msgstr="Enable" />
+
+  <message msgid="rc_disable" msgstr="Disable" />
+  
+  <message msgid="recontrolApply" msgstr="Apply" />
+  <message msgid="recontrolCancel" msgstr="Cancel" />
+
+  <message msgid="https_prompt" msgstr="On this page, you can enable/disable Https, and restart to be effective." />
+
+  <message msgid="webport_Prompt" msgstr="And you could configure web communication port(HTTP), and restart to be effective." />
+  <message msgid="web_portTitle" msgstr="WEB Valid Communication Port" />
+  <message msgid="web_portchangeTitle" msgstr="WEB Communication Port You Modified" />
+  <message msgid="web_portchangeTips" msgstr="(Please input 1024-65535 or 80)" />
+  <message msgid="Change_confirm" msgstr="The configuration you have modifyed will be effective after reboot." />
+  <message msgid="web_portIllegalAlert" msgstr="Please input 1024-65535 or 80!" />
+  <message msgid="web_PortNullAlert" msgstr="Please input a value of the port!" />
+  
+</po>
+
+
+

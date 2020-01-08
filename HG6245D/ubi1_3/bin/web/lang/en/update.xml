@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="content_trans_apply" msgstr="Apply" />
+  <message msgid="content_trans_cancel" msgstr="Cancel" />
+  
+  <message msgid="update_prompt" msgstr="On this page, you can browse the local file and click the button to upgrade the terminal equipment software. Do not power off during upgrade or do other operations, so as not to cause damage and can not be used." />
+  <message msgid="update_chooseFile" msgstr="Choose file and Upgrade" />
+  <message msgid="update_info" msgstr="Upgrades will take time, please be patient." />
+  <message msgid="update_back" msgstr="Back" />
+  
+  <message msgid="update_format_illegal" msgstr="File format illegal, please re-select!" />
+  <message msgid="update_success" msgstr="Upgrade is successful!" />
+  <message msgid="update_fail" msgstr="Upgrade failed!" />
+  <message msgid="update_restart" msgstr=" Please reboot the device!" />
+  <message msgid="update_api_error" msgstr=" Please check if the upgrade file is correct!" />
+  <message msgid="update_space_not_enough" msgstr=" The space of the device isn't enough! Please reboot and try again!" />
+  <message msgid="update_restartConfirm" msgstr=" Whether to restart ONU? Please login WEB network management after ONU restarting!" />
+  <message msgid="update_restartAlert" msgstr=" ONU will automatically restart. Please wait and re-login WEB network management!" />
+  
+  <message msgid="down_cfgFilePrompt" msgstr="On this page, you may backup several config files from device to PC as you wish after opening the ftp tool." />
+  <message msgid="down_cfgFileHead" msgstr="Config Backup" />
+  <message msgid="down_cfgFileUserTitle" msgstr="Username" />
+  <message msgid="down_cfgFilePwdTitle" msgstr="Password" />
+  <message msgid="down_cfgFileIPTitle" msgstr="Localhost IP" />
+  <message msgid="down_cfgFileNameTitle" msgstr="File Name" /> 
+  
+  <message msgid="down_cfgFileUserTips" msgstr=" (You can input 1-20 characters, including alphanumeric, '_' and '.')" />
+  <message msgid="down_cfgFilePwdTips" msgstr=" (You can input 0-20 characters, including alphanumeric, '_' and '.')" />
+  <message msgid="down_cfgFileIPTips" msgstr=" (Decimal format, such as 192.168.1.2)" />
+  <message msgid="down_cfgFileNameTips" msgstr=" (You can input 1-64 characters, including alphanumeric, '_' and '.')" />
+  
+  <message msgid="down_cfgFileUserIllegalAlert" msgstr="Please enter a valid Username!" />
+  <message msgid="down_cfgFilePwdIllegalAlert" msgstr="Please enter a valid Password!" />
+  <message msgid="down_cfgFileIPIllegalAlert" msgstr="Please enter a valid ip!" />
+  <message msgid="down_cfgFileFileIllegalAlert" msgstr="Please enter a valid file name!" />
+  
+  <message msgid="cfg_download_prompt" msgstr="You can download the current configuration file to the local computer." />
+  <message msgid="cfg_download" msgstr="Config Backup" />
+  
+  <message msgid="cfg_upload_prompt" msgstr="If you enter the path of the configuration file and choose it, your terminal will be updated with the saved configuration file." />
+  <message msgid="cfg_upload_title" msgstr="Update Config File" />
+  <message msgid="cfg_uploadTips" msgstr="The configuration file name can only contain '_' and alphanumeric." />
+  <message msgid="cfg_upload_import" msgstr="Import" />
+  <message msgid="cfg_upload_load" msgstr="Loading " />
+  <message msgid="cfg_upload_fileIllegalAlert" msgstr="Please select the correct configuration file!" />
+  <message msgid="cfg_upload_complete" msgstr="Configuration file update complete!" />
+  <message msgid="cfg_upload_failed" msgstr="Configuration file update failed!" />
+  
+ <message msgid="rebooting" msgstr="System is rebooting... Please wait for a moment and relogin after reboot." />
+
+</po>  
+

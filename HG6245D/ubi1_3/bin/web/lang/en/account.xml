@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="account_prompt" msgstr="You could configure name and password of user account on this page." />
+
+  <message msgid="ac_add" msgstr="Add" />
+  <message msgid="ac_del" msgstr="Delete" />
+  <message msgid="name_title" msgstr="Username" />
+  <message msgid="old_name_title" msgstr="Old Username" />
+  <message msgid="accountSelf_newnameTitle" msgstr="New Username" />
+  <message msgid="ac_pwd" msgstr="New Password" />
+  <message msgid="ac_lanPwd" msgstr="New LAN Password" />
+  <message msgid="ac_pwd2" msgstr="New Password Confirm" />
+  <message msgid="ac_lanPwd2" msgstr="LAN Password Confirm" />
+  
+  <message msgid="accountSelf_oldWanPwdTitle" msgstr="Old WAN Password" />
+  <message msgid="accountSelf_newWanPwdTitle" msgstr="New WAN Password" />
+  <message msgid="accountSelf_newWanPwd2Title" msgstr="WAN Password Confirm" />
+  
+  <message msgid="user_most8RulesAlert" msgstr="You can configure up to 8 users!" />
+  <message msgid="no_count_alert" msgstr="No account to delete!" />
+  <message msgid="selcet_alert" msgstr="Please select a account to delete!" />
+  <message msgid="confirm_dele" msgstr="Are you sure to delete the account that was selected?" />
+  <message msgid="unequal_alert" msgstr="Password confirm is different from new password!" />
+  
+  <message msgid="account_manage_title" msgstr="Account Management" />
+  <message msgid="cancelValue" msgstr="Cancel" />
+  <message msgid="btnApply1" msgstr="Apply" />
+
+  <message msgid="accountSelf_oldPwdTitle" msgstr="Old Password" />
+  <message msgid="accountSelf_oldLanPwdTitle" msgstr="Old LAN Password" />
+  <message msgid="accountSelf_pwdTips" msgstr="(8 - 32 Characters)" />
+  <message msgid="accountSelf_pwdTips_MALAY_TM" msgstr="(18 - 32 Characters)" />
+  <message msgid="accountSelf_pwdTips_6" msgstr="(6 - 32 Characters)" />
+  <message msgid="accountSelf_pwdTips_TL_TRUE" msgstr="(Different from the LAN password)" />
+  
+  <message msgid="accountSelf_userNullAlert" msgstr="Please input the username!" />  
+  <message msgid="accountSelf_oldPwdNullAlert" msgstr="Please input the old password!" />  
+  <message msgid="accountSelf_newPwdNullAlert" msgstr="Please input the new password!" /> 
+  <message msgid="accountSelf_userIllegalAlert" msgstr="The username is illegal!" />
+  <message msgid="accountSelf_newPwdIllegalAlert" msgstr="The password is illegal!" />   
+  <message msgid="accountSelf_newPwdLenIllegalAlert" msgstr="The length of password is illegal!" />
+  <message msgid="accountSelf_newPwdSpaceAlert" msgstr="Please don't set spaces in password!" />  
+  <message msgid="accountSelf_pwdMismatchedAlert" msgstr="Password confirm is different from new password!" />
+  <message msgid="accountSelf_pwdMatchedOldPwdAlert" msgstr=" New password should not be same as old password!" />
+  <message msgid="accountSelf_wanlanPwdSameAlert" msgstr="WAN password shouldn't be the same as the LAN password!" />
+
+  <message msgid="accountSelf_prompt" msgstr="You could configure current account on this page." />
+  <message msgid="accountSelf_prompt_true" msgstr=" Please input the wan password to enable wan access function." />
+
+  <message msgid="same_pwd" msgstr="The password you set is same as the original password,please set a new password!" />
+  <message msgid="no_pwd" msgstr="The password can not be empty,please enter a new password!" />
+  <message msgid="Please input 5 or 13 characters of" msgstr="Please input 5 or 13 characters of" />
+  <message msgid="contains invalid characters." msgstr="contains invalid characters." />
+  <message msgid="wep_pwd_tips" msgstr="(You can input 5 or 13 characters)" />
+  <message msgid="wpa_pwd_tips" msgstr="(You can input 8-64 characters)" />
+  <message msgid="secure wpapsk key length" msgstr="Please input at least 8 characters of wpapsk key!" />
+  
+  <message msgid="ssid1_name_title" msgstr="SSID Name" />
+  <message msgid="ssid1_pwd_title" msgstr="Password" />
+  <message msgid="ssid1_pwd2_title" msgstr="Password Confirm" />
+
+  <message msgid="Please enter SSID Name!" msgstr="Please enter SSID Name!" />
+  <message msgid="ssidNameTips" msgstr="(1-32 Characters)" />
+  <message msgid="accountNameTips" msgstr="(1-32 Characters)" />
+
+</po>
+

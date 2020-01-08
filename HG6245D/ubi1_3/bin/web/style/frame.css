@@ -1,0 +1,294 @@
+/*
+ *	Frame Style
+ *	主页框架样式表	
+ */
+body {
+    background-color: #FAFFFF;
+}
+div#main {
+	width: 955px;
+	margin: 0px auto;
+	background-color: #E7E7E7;
+}
+
+/* header */
+div#main div#header {
+	height: 120px;
+}
+div#main div#header div#headerLogoImg div#headerLogoImglogo{
+	float: left;
+	height: 65px;
+	width: 208px;
+}
+
+div#main div#header div#headerLogoImg div#headerLogoImgmenu{
+	float: left;
+	height: 55px;
+	width: 208px;
+	background-color: #EF8218;
+
+	color: #FFFFFF; 
+	
+	vertical-align:middle; 
+	text-align: center;
+	font-size: 35px;
+	font-weight: bold;
+	line-height: 55px
+	/*margin-bottom: 18px;*/
+	/*padding-left: 10px;*/
+}
+
+div#main div#header div#headerLogoImg {
+	float: left;
+	height: 120px;
+	width: 208px;
+}
+div#main div#header div#headerContent {
+	float: left;
+	height: 120px;
+	width: 747px;
+}
+div#main div#header div#headerContent div#headerInfo {
+	height: 85px;
+	background-image: url(../images/menutop_033.jpg);
+}
+/*div#main div#header div#headerContent div#headerInfo div {
+	float: left;
+	width: 405px;
+	height: 45px;
+	line-height: 45px;
+	font-family: Tahoma;
+}*/
+div#main div#header div#headerContent div#headerInfo div#headerTitle {
+	color: #505050;
+	text-align: left;
+	font-size: 25px;
+	font-weight: bold;
+	float: left;
+	width: 547px;
+	height: 65px;
+	background-image: url(../images/logo_bg.jpg);
+}
+div#main div#header div#headerContent div#headerInfo div#headerUndaner {
+	text-align: right;
+	font-size: 12px;
+	float: right;
+	width: 200px;
+	height: 65px;
+	background-image: url(../images/logo_bg.jpg);
+}
+div#main div#header div#headerContent div#headerInfo div#headerLogout {
+	float: right;
+	text-align: right;
+	font-size: 12px;
+	width: 747px;
+	height: 20px;
+	background-image: url(../images/menutop_033.jpg);
+}
+div#main div#header div#headerContent div#headerInfo div#headerLogout span {
+	margin-right: 20px;
+	cursor: pointer;
+	color: #000000;
+	font-weight: bold;
+}
+div#main div#header div#headerContent div#headerTab {
+	height: 35px;
+	clear: both;
+	line-height: 35px;
+	background-image: url(../images/menutop_01.jpg);
+	/*background-color: #EF8218;*/
+}
+div#main div#header div#headerContent div#headerTab ul {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+div#main div#header div#headerContent div#headerTab ul li {
+	height: 35px;
+	float: left;
+	cursor: pointer;
+	font-weight: bold;
+	
+}
+div#main div#header div#headerContent div#headerTab ul li div {
+	float: left;
+}
+div#main div#header div#headerContent div#headerTab ul li div.tabBtnLeft {
+	width: 10px;
+	height: 25px;
+	clear: both;
+}
+div#main div#header div#headerContent div#headerTab ul li div.tabBtnCenter {
+	height: 25px;
+    width: 40px;
+    text-align: center;
+	color: #000000;
+}
+div#main div#header div#headerContent div#headerTab ul li div.tabBtnRight {
+	width: 10px;
+	height: 25px;
+}
+div#main div#header div#headerContent div#headerTab ul li.hover div.tabBtnLeft {
+	width: 10px;
+	height: 25px;
+	clear: both;
+	background-image: url(../images/menuSide.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+div#main div#header div#headerContent div#headerTab ul li.hover div.tabBtnCenter {
+	height: 25px;
+	color: #FFFFFF;
+	background: #175CA0;
+	-moz-border-radius: 5px 5px 0 0;
+	background-image: url(../images/menuBg.gif);
+	background-repeat: repeat-x;
+}
+div#main div#header div#headerContent div#headerTab ul li.hover div.tabBtnRight {
+	width: 10px;
+	height: 25px;
+	background-image: url(../images/menuSide.gif);
+	background-repeat: no-repeat;
+	background-position: -10px 0px;
+}
+div#main div#header div#headerContent div#headerTab ul li{
+    float: left;
+    text-align: center;
+    width: 100px;
+	font-weight: bold;
+	height: 35px;
+	/*line-height: 30px;*/
+	cursor: pointer;
+	vertical-align: text-bottom;
+}
+div#main div#header div#headerContent div#headerTab ul li.selected{
+	color: #FFF;
+	/*background: #3399CC;*/
+	background-image: url(../images/menutop_02.jpg);
+	background-repeat: no-repeat;
+	-moz-border-radius: 5px 5px 0 0;	
+	vertical-align: text-bottom;
+}
+div#main div#header div#headerSpace {
+	height: 6px;
+	clear: both;
+	line-height: 6px;
+	background-color: #216F6F;
+}
+/* end header */
+
+/* center */
+div#main div#center {
+	height: 470px;
+}
+div#main div#center div#nav {
+	width: 208px;
+	height: 495px;
+	float: left;
+	background-color: #E7E7E7;
+}
+
+div#main div#center div#nav div#headerLogoImgmenu_bank{
+	float: left;
+	height: 25px;
+	width: 208px;
+	background-color: #EF8218;
+}
+
+div#main div#center div#nav div#headerLogoImgmenu_bank1{
+	float: left;
+	height: 10px;
+	width: 208px;
+	background-color: #E7E7E7;
+}
+
+div#main div#center div#nav div#navsub{
+	float: left;
+	width: 208px;
+}
+
+div#main div#center div#nav div#navsub ul {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	background-color: #E7E7E7;
+}
+div#main div#center div#nav div#navsub ul li.subMenu div {
+	height: 25px;
+	color: #FFFFFF;
+	cursor: pointer;
+	line-height: 25px;
+	font-weight: bold;
+	margin-bottom: 1px;
+	padding-left: 10px;
+	background-color: #EF8218;
+	/*background-image: url(../images/menutop_01.jpg);*/
+}
+div#main div#center div#nav div#navsub ul li.hover div {
+	font-weight: bold;
+	cursor: pointer;
+}
+div#main div#center div#nav div#navsub ul li.subMenu ul li.sub2Menu div {  
+	height: 25px;
+	color: #FFFFFF;
+	cursor: pointer;
+	line-height: 25px;
+	margin-bottom: 1px;
+	padding-left: 20px;
+    color: #274F85;
+    font-weight: normal;
+/*    background-color: #E3F5F5;	*/
+	background-color: #FCFCFC;
+}
+div#main div#center div#nav div#navsub ul li.subMenu ul li.hover div {
+    color: #274F85;
+    font-weight: bold;
+}
+
+div#main div#center div#content {
+	float: left;
+	width: 747px;
+	height: 470px;
+	background-color: #DBF7F7;;
+}
+div#main div#center div#content div#topNav {
+	height: 25px;
+	color: #000000;
+	line-height: 25px;
+	padding-left: 10px;
+	background-color: #CEE5E5;
+	background-image: url(../images/menutop_033.jpg);
+}
+div#main div#center div#content div#frameWarpContent {
+	height: 470px;
+}
+/* end center */
+
+/* footer */
+div#main div#footer {
+	clear: both;
+	height: 25px;
+	color: #434343;
+	text-align: center;
+	background-color: #BFD6D6;
+}
+div#main table {
+	height: 100%;
+	margin: 0px auto;
+}
+div#main div#footer #footerLogo {
+	height: 25px;
+	width: 40px;
+}
+div#main div#footer #footerText {
+	color: #434343;
+	font-size: 12px;
+}
+/* end footer */
+
+/* fresh */
+div#main div#fresh {
+	display: none;
+}
+/* end fresh */
+

@@ -1,0 +1,57 @@
+<po>
+  <message msgid="ddns_apply" msgstr="Apply" />
+  <message msgid="ddns_cancel" msgstr="Cancel" />
+  <message msgid="ddnscfg_remove" msgstr="Remove Configuration" />
+  
+  <message msgid="ddns_prompt" msgstr="You could configure DDNS here. " />
+
+  <message msgid="Enable" msgstr="Enable" />
+  <message msgid="Disable" msgstr="Disable" />
+  
+  <message msgid="ddns_hostTips" msgstr="(eg. abc.dyndns.co.za)" />
+  
+  <message msgid="ddns_passwordTips" msgstr="(1-32 Characters)" />
+  <message msgid="ddns_usernameTips" msgstr="(1-32 Characters)" />
+  <message msgid="ddns_domain" msgstr="Domain" />
+  <message msgid="ddns_hostTitle" msgstr="Host" />  
+
+  <message msgid="ddns_password" msgstr="Password" />
+  <message msgid="ddns_interface" msgstr="WAN Interface" />
+  <message msgid="ddns_username" msgstr="Username" />
+
+  <message msgid="ddns_server" msgstr="Server Address" />
+  <message msgid="ddns_protocolTitle" msgstr="Protocol" />
+  <message msgid="Server_url_title" msgstr="Server URL" />
+  
+  <message msgid="Please enter username!" msgstr="Please enter username!" />
+  <message msgid="Please enter password!" msgstr="Please enter password!" />
+  <message msgid="Please enter host domain!" msgstr="Please enter host!" />
+
+  <message msgid="Please enter domain!" msgstr="Please enter domain!" />
+  <message msgid="Please enter serveraddr!" msgstr="Please enter server address!" />
+  <message msgid="Please enter url!" msgstr="Please enter URL!" />
+  
+  <message msgid="username is illegal!" msgstr="Username is illegal!" />
+  <message msgid="Password is illegal!" msgstr="Password is illegal!" />
+  <message msgid="Host Domain Name is illegal!" msgstr="Host Domain Name is illegal!" />
+  <message msgid="ddns_providerTitle" msgstr="DDNS Provider" />
+  <message msgid="Please enter provider" msgstr="Please enter provider" />
+  
+  <message msgid="ddns_interfaceNUllAlert" msgstr="Please configure the WAN interface!" />
+  
+  <message msgid="ddns_state_prompt" msgstr="You could get DDNS infomation here." />
+  <message msgid="ddns_infoTitle" msgstr="DDNS Info" />
+  <message msgid="ddns_updateTitle" msgstr="Update Info" />
+  <message msgid="ddns_init" msgstr="Init" />
+  <message msgid="ddns_modify" msgstr="Updating" />
+  <message msgid="ddns_success" msgstr="Update successful" />
+  <message msgid="ddns_param_error" msgstr="Param error" />
+  <message msgid="ddns_cfgfile_error" msgstr="Configuration file error" />
+  <message msgid="ddns_ifname_error" msgstr="Ifname error" />
+  <message msgid="ddns_devIP_error" msgstr="Failed to get host ip" />
+  <message msgid="ddns_connect_error" msgstr="Connect to the server failed" />
+  <message msgid="ddns_response_error" msgstr="Update Failed" />
+  <message msgid="ddns_noResp_error" msgstr="Server is not responding" />
+  <message msgid="ddns_memory_error" msgstr="Out of memory error" />
+  
+</po>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="rule_add" msgstr="新增" />
+  <message msgid="rule_delete" msgstr="删除" />
+  <message msgid="rule_deleteAll" msgstr="删除所有" />
+
+  <message msgid="apply" msgstr="应用" />
+  <message msgid="cancel" msgstr="取消" />
+  
+  <message msgid="rule_most4RulesAlert" msgstr="您最多可以配置4条规则。" />
+  <message msgid="rule_most8RulesAlert" msgstr="您最多可以配置8条规则。" />
+  <message msgid="rule_most12RulesAlert" msgstr="您最多可以配置12条规则。" />
+  <message msgid="rule_most16RulesAlert" msgstr="您最多可以配置16条规则。" />
+  <message msgid="rule_most20RulesAlert" msgstr="您最多可以配置20条规则。" />
+  <message msgid="rule_most32RulesAlert" msgstr="您最多可以配置32条规则。" />
+  <message msgid="rule_noRuleAlert" msgstr="当前没有规则，不能删除。" />
+  <message msgid="rule_noChooseAlert" msgstr="请先选定一个规则再执行删除。" />
+  <message msgid="rule_deleteRuleConfirm" msgstr="您确定要删除选中的规则吗?" />
+  
+  <message msgid="pf_PortforwardingPrompt" msgstr="您可以在本页面进行端口转发功能设置。" />
+
+  <message msgid="fw_filterListHead" msgstr="端口转发规则表" />
+  <message msgid="PFdescrip" msgstr="描述" />
+  <message msgid="The_private_Port" msgstr="私有端口" />
+  <message msgid="The_public_Port" msgstr="公共端口" />
+  <message msgid="Protocol" msgstr="协议" />
+  <message msgid="Enable" msgstr="使能" />
+
+  <message msgid="pf_DescriptionTitle" msgstr="描述" />
+  <message msgid="pf_PriPortTitle" msgstr="私有端口" />
+  <message msgid="pf_PubPortTitle" msgstr="公共端口" />
+  <message msgid="pf_protocolTitle" msgstr="协议" />
+  <message msgid="pf_enabelTitle" msgstr="使能" />
+
+  <message msgid="pf_add" msgstr="新增" />
+  <message msgid="pf_delete" msgstr="删除" />
+  <message msgid="pf_deleteAll" msgstr="删除所有" />
+
+  <message msgid="pf_apply" msgstr="应用" />
+  <message msgid="pf_cancel2" msgstr="取消" />
+
+  <message msgid="pf_mostRulesAlert" msgstr="您最多可以配置12条规则。" />
+  <message msgid="pf_noRuleAlert" msgstr="当前没有规则，不能删除。" />
+  <message msgid="pf_noChooseAlert" msgstr="请先选定一个规则再执行删除。" />
+  <message msgid="pf_deleteRuleConfirm" msgstr="您确定要删除选中的规则吗?" />
+
+  <message msgid="pf_ipIllegalAlert" msgstr="请输入有效的IP。" />
+  <message msgid="pf_maskIllegalAlert" msgstr="请输入有效的子网掩码。" />
+  <message msgid="pf_PortNullAlert" msgstr="请输入有效的端口值。" />
+  <message msgid="pf_endPortTooSmallAlert" msgstr="起始端口不能大于结束端口。" />
+  <message msgid="pf_portIllegalAlert" msgstr="有效端口值为1 - 65535!" />
+  <message msgid="pf_portRepeadAlert" msgstr="若干端口重复! 请重新配置!" />
+  <message msgid="pf_wanIllegalAlert" msgstr="请选择有效的WAN连接!" />
+
+  <message msgid="portMappingPrompt" msgstr="您可以在本页面进行端口转发功能设置。" />
+  <message msgid="pm_ruleListHead" msgstr="端口转发规则表" />
+  <message msgid="pm_descripTitle" msgstr="描述" />
+  <message msgid="Protocol" msgstr="协议" />
+  <message msgid="pm_pubIPTitle" msgstr="公共IP" />
+  <message msgid="pm_pubPortTitle" msgstr="公共端口" />
+  <message msgid="pm_priIPTitle" msgstr="私有IP" />
+  <message msgid="pm_priPortTitle" msgstr="私有端口" />
+
+  <message msgid="description_tips" msgstr="( 0-31个字符, 包括数字、字母、'-' 和 '_')" />
+  <message msgid="descripIllegalAlert" msgstr="请输入有效的描述字符!" />
+  <message msgid="pm_portStartIllegalAlert" msgstr="有效的起始端口范围为 1 - 65535!" />
+  <message msgid="pm_portEndIllegalAlert" msgstr="有效的结束端口范围为 0 - 65535!" />
+  
+  <message msgid="v4StaticRoutePrompt" msgstr="在本页面，您可以配置IPv4静态路由。" />
+  <message msgid="v4_sr_ruleListHead" msgstr="IPV4静态路由" />
+  
+  <message msgid="wanDisableTitle" msgstr="当前WAN不生效" />
+  <message msgid="ruleEnable" msgstr="生效" />
+  <message msgid="ruleDisable" msgstr="不生效" />
+  
+  <message msgid="wannameTitle" msgstr="WAN名" />
+  <message msgid="ipTitle" msgstr="IP地址" />
+  <message msgid="gwTitle" msgstr="网关" />
+  <message msgid="maskTitle" msgstr="子网掩码" />
+  <message msgid="stateTitle" msgstr="状态" />
+  <message msgid="Please creat INTERNET WAN first !" msgstr="请先建立INTERNET相关的WAN!" />
+  
+  <message msgid="bandwidthIllegalAlert" msgstr="请输入有效的带宽速率!" />
+
+ <message msgid="wifi_acl_Prompt" msgstr="在本页面，您可以使能/去使能WIFI ACL功能，并配置WIFI ACL过滤规则。" />
+ <message msgid="wifi_acl_enable_title" msgstr="黑名单/白名单" />
+ <message msgid="Disable" msgstr="去使能" />
+ <message msgid="wifi_acl_ruleListHead" msgstr="WIFI ACL过滤表" />
+</po>

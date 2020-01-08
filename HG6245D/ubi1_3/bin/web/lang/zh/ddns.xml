@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="ddns_apply" msgstr="提交" />
+  <message msgid="ddns_cancel" msgstr="取消" />
+  <message msgid="ddnscfg_remove" msgstr="配置清除" />
+  
+  <message msgid="ddns_prompt" msgstr="您可以在本页面进行DDNS设置。" />
+
+  <message msgid="Enable" msgstr="开启" />
+  <message msgid="Disable" msgstr="关闭" />
+  
+  <message msgid="ddns_hostTips" msgstr="(eg. abc.dyndns.co.za)" />
+  
+  <message msgid="ddns_passwordTips" msgstr="（请输入1-32个字符）" />
+  <message msgid="ddns_usernameTips" msgstr="（请输入1-32个字符）" />
+  <message msgid="ddns_domain" msgstr="域名" />
+ <message msgid="ddns_hostTitle" msgstr="主机名" />
+
+  <message msgid="ddns_password" msgstr="密码" />
+  <message msgid="ddns_interface" msgstr="WAN连接名称" />
+  <message msgid="ddns_username" msgstr="用户名" />
+
+  <message msgid="ddns_server" msgstr="服务器地址" />
+  <message msgid="ddns_protocolTitle" msgstr="协议类型" />
+  <message msgid="Server_url_title" msgstr="服务器URL" />    
+  
+  <message msgid="Please enter username!" msgstr="请输入用户名！" />
+  <message msgid="Please enter password!" msgstr="请输入密码！" />
+  <message msgid="Please enter host domain!" msgstr="请输入主机名！" />
+
+  <message msgid="Please enter domain!" msgstr="请输入域名" />
+  <message msgid="Please enter serveraddr!" msgstr="请输入服务器地址!" />
+  <message msgid="Please enter url!" msgstr="请输入URL!" />
+  
+  <message msgid="username is illegal!" msgstr=" 用户名非法！" />
+  <message msgid="Password is illegal!" msgstr=" 密码值非法！" />
+  <message msgid="Host Domain Name is illegal!" msgstr=" 主机域名非法！" />
+  <message msgid="ddns_providerTitle" msgstr=" DDNS供应商" />
+  <message msgid="Please enter provider" msgstr=" 请输入供应商名称" />
+  
+  <message msgid="ddns_interfaceNUllAlert" msgstr="请配置WAN连接!" />
+  
+  <message msgid="ddns_state_prompt" msgstr="你在本页可以查看DDNS信息。" />
+  <message msgid="ddns_infoTitle" msgstr="DDNS信息" />
+  <message msgid="ddns_updateTitle" msgstr="更新信息" />
+  <message msgid="ddns_init" msgstr="初始化" />
+  <message msgid="ddns_modify" msgstr="更新中" />
+  <message msgid="ddns_success" msgstr="更新成功" />
+  <message msgid="ddns_param_error" msgstr="参数错误" />
+  <message msgid="ddns_cfgfile_error" msgstr="配置文件错误" />
+  <message msgid="ddns_ifname_error" msgstr="ifname错误" />
+  <message msgid="ddns_devIP_error" msgstr="主机的ip获取失败" />
+  <message msgid="ddns_connect_error" msgstr="连接服务器失败" />
+  <message msgid="ddns_response_error" msgstr="更新失败" />
+  <message msgid="ddns_noResp_error" msgstr="服务器没有响应" />
+  <message msgid="ddns_memory_error" msgstr="内存不足" />
+  
+</po>

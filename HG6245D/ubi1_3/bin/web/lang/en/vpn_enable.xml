@@ -1,0 +1,12 @@
+<po>
+  <message msgid="VPN basic apply" msgstr="Apply" />
+  <message msgid="VPN basic cancel" msgstr="Cancel" />
+  <message msgid="VPN_prompt" msgstr="On this page, you could configure VPN Pass-through Enable/Disable. " /> 
+  <message msgid="VPNEnable_title" msgstr="VPN Pass-through" />
+  <message msgid="VPN_enable" msgstr="Enable" />
+  <message msgid="VPN_disable" msgstr="Disable" />
+  
+  <message msgid="Tr069 qos prompt" msgstr="On this page, you could configure QoS Pass-through Enable/Disable. " />
+  <message msgid="Tr069 qoS enable title" msgstr="QoS Enable" />
+   
+</po>

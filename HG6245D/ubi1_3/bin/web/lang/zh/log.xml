@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="log_prompt" msgstr="在本页面上，您可以查看日志信息。" />
+  <message msgid="log_download" msgstr="下载" />
+  <message msgid="log_listHead" msgstr="日志信息" />
+  <message msgid="log_downloaderroralert" msgstr="下载URL错误!" />
+  
+  <message msgid="log_apply" msgstr="应用" />
+  <message msgid="log_cancel" msgstr="取消" />
+  
+  <message msgid="logcfg_prompt" msgstr="在本页面，您可以配置WEB日志启用/禁用以及日志的记录等级。" />
+  <message msgid="log_title" msgstr="日志" />
+  <message msgid="logEnableTitle" msgstr="启用" />
+  <message msgid="logDisableTitle" msgstr="禁用" />
+  <message msgid="logLevelTitle" msgstr="记录等级" />
+  
+  <message msgid="log_debugPrompt" msgstr="在本页面上，您可以查看调试日志信息。" />
+  <message msgid="log_debugListHead" msgstr="调试日志信息" />
+</po>

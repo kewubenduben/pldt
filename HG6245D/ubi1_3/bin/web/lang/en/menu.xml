@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+<message msgid="logout" msgstr="Logout" />
+	  
+  <message msgid="state" msgstr="Status" />
+  	<message msgid="Device Information" msgstr="Device Information" />
+    <message msgid="wan state" msgstr="Wan Status" />
+  		<message msgid="ddns state" msgstr="DDNS Status" />
+    <message msgid="lan state" msgstr="Lan Status" />
+  		<message msgid="lan count" msgstr="LAN Count" />
+  		<message msgid="dhcp_userlist" msgstr="DHCP Clients List" />
+    <message msgid="wireless state" msgstr="Wireless Status" />
+  		<message msgid="5Gwifistate" msgstr="5G Wireless Status" />
+  		<message msgid="wifi_mac_list" msgstr="WIFI Clients List" />
+    <message msgid="Optical Power" msgstr="Optical Info" />
+    <message msgid="PON State" msgstr="PON Status" />
+	<message msgid="VOIP State" msgstr="VoIP Status" />
+    
+  <message msgid="network" msgstr="Network" />
+  	<message msgid="wlan_settings" msgstr="Wlan Settings" />
+  		<message msgid="basic" msgstr="Basic" />
+  		<message msgid="security" msgstr="Advanced" />
+  		<message msgid="wifiPowercontrol" msgstr="WIFI Control" />
+  		<message msgid="5Gbasic" msgstr="5G Basic" />
+  		<message msgid="5Gsecurity" msgstr="5G Advanced" />
+  		<message msgid="5GwifiPowercontrol" msgstr="5G WIFI Control" />
+  	<message msgid="lan_settings" msgstr="LAN Settings" />
+  		<message msgid="lan_mac_limit" msgstr="LAN MAC Limit" />
+  	<message msgid="broadband" msgstr="BroadBand Settings" />
+  	<message msgid="broadband2" msgstr="WAN Settings" />
+  		<message msgid="internet" msgstr="Internet Settings" />
+  		<message msgid="lan_portband" msgstr="Lan Port Band" />
+  	<message msgid="dhcp_server" msgstr="DHCP Server" />
+  		<message msgid="dhcp_service" msgstr="DHCP Service" />
+  		<message msgid="dhcp_portband" msgstr="DHCP Port Binding" />
+  		<message msgid="dhcpv6_portband" msgstr="DHCPv6 Port Binding" />
+  		<message msgid="dhcp_macband" msgstr="DHCP MAC Binding" />
+	<message msgid="qos" msgstr="QoS Settings" />
+	<message msgid="route" msgstr="Route Settings" />
+		<message msgid="v4_def_route" msgstr="IPv4 Default Route" />
+  		<message msgid="IPv4 Static Route" msgstr="IPv4 Static Route" />
+  		<message msgid="IPV6 Static Route" msgstr="IPv6 Static Route" />
+	<message msgid="DHCPv6" msgstr="DHCPv6 Configration" />
+        <message msgid="IPv6 Configuration" msgstr="IPv6 Configuration" />
+        <message msgid="DNS Proxy Setting" msgstr="DNS Proxy Setting" />
+        <message msgid="Prefix Mode Setting" msgstr="Prefix Mode Setting" />
+  	<message msgid="auth_settings" msgstr="Authentication" />
+  		<message msgid="olt_auth" msgstr="OLT Authentication" />
+  	<message msgid="remote_management" msgstr="Remote Management" />
+  		<message msgid="ITMS Server" msgstr="ACS Server" />
+  		<message msgid="Certificate" msgstr="TR069 Certificate" />
+  	<message msgid="CATV RF Power" msgstr="CATV RF Power" />
+  	<message msgid="voip_settings" msgstr="VoIP Settings" />
+  		<message msgid="voip_enable" msgstr="Key Parameters" />
+	  	<message msgid="advance" msgstr="Advanced" />
+  		<message msgid="dial_timeout" msgstr="Dial and Timeout" />
+	  	<message msgid="code" msgstr="Coding" />
+	  	<message msgid="statistics" msgstr="Statistics" />
+  	
+  <message msgid="Security" msgstr="Security" />
+    <message msgid="firewall" msgstr="Firewall" />  
+	  	<message msgid="fw_enable" msgstr="Firewall Control" />
+	  	<message msgid="ip_filter" msgstr="IPv4 Filtering" />
+		<message msgid="ipv6_filter" msgstr="IPv6 Filtering" />
+	  	<message msgid="urlfilter" msgstr="URL Filtering" />
+	  	<message msgid="DHCP filter" msgstr="DHCP Filtering" />
+		<message msgid="Port Scan" msgstr="Anti Port Scan" />
+		<message msgid="macaddr_filter" msgstr="MAC Filtering" />
+		<message msgid="IPv6 Mac Filtering" msgstr="IPv6 MAC Filtering" />
+		<message msgid="ACL_L3" msgstr="ACL(L3) Settings" />
+		<message msgid="wan_acl" msgstr="WAN ACL Settings" />
+		<message msgid="lan_acl" msgstr="LAN ACL Settings" />
+  	<message msgid="remote control" msgstr="Remote Control" />
+	<message msgid="route_qos" msgstr="Route QOS" />
+		<message msgid="qos_enable" msgstr="QOS Enable" />
+		<message msgid="qos_config" msgstr="QOS Config" />
+  	<message msgid="acl" msgstr="ACL Settings" />
+  		<message msgid="wifi acl" msgstr="WIFI ACL Settings" />
+	<message msgid="DDOS" msgstr="DDOS" />
+  	<message msgid="WPS" msgstr="WPS" />
+  		
+  <message msgid="Application" msgstr="Application" />
+  	<message msgid="vpn" msgstr="VPN" />
+		<message msgid="VPN Enable" msgstr="VPN Pass-through" />
+  	<message msgid="DDNS" msgstr="DDNS" />
+		<message msgid="DDNS Setting" msgstr="DDNS Setting" />
+  	<message msgid="Port Forwarding" msgstr="Port Forwarding" />
+  	<message msgid="Port Mapping" msgstr="Port Mapping" />
+	<message msgid="Port Trigger" msgstr="Port Triggering" />
+  	<message msgid="URL_filter" msgstr="URL Filtering" />
+	<message msgid="Redirect" msgstr="Page Redirects" />
+	<message msgid="WEB_Port" msgstr="WEB Port" />
+  	<message msgid="Diagnosis" msgstr="Diagnosis" />
+		<message msgid="ping" msgstr="Ping Diagnosis" />
+		<message msgid="tracert" msgstr="Tracert Diagnosis" />
+	<message msgid="TR069 Manual Inform" msgstr="TR069 Manual Inform" />
+	<message msgid="MonitorCollector" msgstr="MonitorCollector" />
+	<message msgid="Nat Session" msgstr="Nat Session" />
+	<message msgid="Multicast Mode" msgstr="Multicast Mode" />
+  
+  <message msgid="management" msgstr="Management" />
+  	<message msgid="user_admin" msgstr="Account Management" />
+  		<message msgid="user_account_admin" msgstr="User Account" />
+  		<message msgid="maintenance_account_admin" msgstr="Maintenance Account" />
+  	<message msgid="device_admin" msgstr="Device Management" />
+  		<message msgid="restore" msgstr="Restore" />
+  		<message msgid="adminRestore" msgstr="Restore All" />
+  		<message msgid="update" msgstr="Local Upgrade" />
+  		<message msgid="down_cfgfile" msgstr="Config Backup" />
+  		<message msgid="cfg_file" msgstr="Configuration File" />
+  		<message msgid="usb_storge" msgstr="USB Storge" />
+  		<message msgid="ftp_server" msgstr="FTP Server" />
+  		<message msgid="reboot" msgstr="Device Reboot" />
+  		<message msgid="checktime" msgstr="NTP Check Time" />
+  		<message msgid="catv_settings" msgstr="CATV Setting" />
+  	<message msgid="log_admin" msgstr="Log" />
+  		<message msgid="log" msgstr="Log" />
+
+  	<message msgid="uernameNotNull" msgstr="Please input username!" />
+  	<message msgid="passwordNotNull" msgstr="Please input password!" />
+  	<message msgid="validationError" msgstr="Verification code error!" />
+  	
+  	<message msgid="namePwdError" msgstr="Username or Password Error!" />
+  	<message msgid="adminUnavailable" msgstr="Admin account Unavailable!" />
+  	<message msgid="serverError" msgstr="Server error!" />
+  	<message msgid="logoutError" msgstr="User has logged in, please logout!" />
+  	<message msgid="haveuserLogin" msgstr="Somebody has already logged in. Please try again later!" />
+  	<message msgid="3timeError" msgstr="Username or password is wrong 3 times, please retry 1 minute later!" />
+  	<message msgid="3timeError_30" msgstr="Username or password is wrong 3 times, please retry 30 minute later!" />
+  	<message msgid="ipNotAllowError" msgstr="The IP has no permission to login!" />
+  	<message msgid="userInUsing" msgstr="The user has logged in somewhere else. Please try again later!" />
+
+  	<message msgid="accounttitle" msgstr="Username" />
+	<message msgid="admintitle" msgstr="Administrator" />
+	<message msgid="pwdtitle" msgstr="Password" />
+  	<message msgid="login_submit" msgstr="Login" />
+  	<message msgid="login_reset" msgstr="Cancel" />
+  	<message msgid="login_user" msgstr="User Login" />
+  	<message msgid="login_devReg" msgstr="Regist" />
+  	<message msgid="jiaoyanmatitle" msgstr="Validate Code" />
+
+  	<message msgid="super_admin_access_list_prompt" msgstr="On this page, you can  query state of super admin access list." />	
+ 	<message msgid="access_list_title" msgstr="Super Admin Access List" />
+
+ 	<message msgid="Voip Call History" msgstr="VoIP Call History" />
+ 	<message msgid="lan port state" msgstr="Lan Port Status" />
+ 	<message msgid="Multicast Vlan Bind" msgstr="ONT Bridge" />
+ 	<message msgid="reset" msgstr="Reset" />
+ 	<message msgid="Hotline" msgstr="Hotline" />
+ 	<message msgid="CPU Port Mirror" msgstr="CPU Port Mirror" />
+
+</po>  

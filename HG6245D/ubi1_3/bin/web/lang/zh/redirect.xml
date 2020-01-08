@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="redirect_prompt" msgstr="在本页面上，您可以配置页面重定向使能，以及重定向页面。" />
+  <message msgid="redirect_title" msgstr="重定向" />
+  <message msgid="re_enable" msgstr="启用" />
+  <message msgid="re_disable" msgstr="禁用" />
+  <message msgid="redirectApply" msgstr="提交" />
+  <message msgid="redirectCancel" msgstr="取消" />
+  <message msgid="redirect_nourlalert" msgstr="请输入需要过滤的URL!" />
+
+</po>

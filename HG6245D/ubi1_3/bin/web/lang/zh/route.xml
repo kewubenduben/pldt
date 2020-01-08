@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="apply" msgstr="应用" />
+  <message msgid="cancel" msgstr="取消" />
+  
+  <message msgid="v4StaticRoutePrompt" msgstr="在本页面，您可以配置IPv4默认路由。" />
+
+  <message msgid="dr_enableTitle" msgstr="使能默认路由" />
+  <message msgid="dr_wanTitle" msgstr="WAN名" />
+  <message msgid="dr_wanDefaultTitle" msgstr="请选择" />
+  
+  <message msgid="dr_wannameNUllAlert" msgstr="请选择一条WAN连接!" />
+
+</po>

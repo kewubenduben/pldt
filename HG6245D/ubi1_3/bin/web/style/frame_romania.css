@@ -1,0 +1,247 @@
+/*
+ *	Frame Style
+ *	主页框架样式表	
+ */
+body {
+	margin: 0;
+}
+div#load {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: #EDEDED;
+	opacity: 0.5;
+	z-index: 999;
+}
+div#main {
+	width: 100%;
+    height: 775px;
+    min-width: 1000px;
+	background-image: url(../images/main_bg.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position:absolute;
+}
+
+/* header */
+div#main div#header {
+	height: 76px;
+	position: absolute;
+    left: 50%;
+    margin-left: -475px;
+    width: 955px;
+}
+div#main div#header div#headerLogoImg {
+	float: left;
+	height: 70px;
+	width: 220px;
+}
+div#main div#header div#headerContent {
+	float: left;
+	height: 70px;
+	width: 735px;
+}
+div#main div#header div#headerContent div#headerInfo {
+	height: 40px;
+}
+div#main div#header div#headerContent div#headerInfo div {
+	float: left;
+	width: 367px;
+	height: 40px;
+	line-height: 45px;
+	font-family: Tahoma;
+}
+div#main div#header div#headerContent div#headerInfo div#headerTitle {
+	color: #505050;
+	text-align: left;
+	font-size: 25px;
+	font-weight: bold;
+}
+div#main div#header div#headerContent div#headerInfo div#headerLogout {
+	text-align: right;
+	font-size: 12px;
+}
+div#main div#header div#headerContent div#headerInfo div#headerLogout span {
+	margin-right: 20px;
+	cursor: pointer;
+	color: #ffffff;
+	font-weight: bold;
+}
+div#main div#header div#headerContent div#headerTab {
+	height: 30px;
+	clear: both;
+}
+div#main div#header div#headerContent div#headerTab ul {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+div#main div#header div#headerContent div#headerTab ul li{
+    float: left;
+    text-align: center;
+    width: 110px;
+	height: 30px;
+	line-height: 30px;
+	cursor: pointer;
+	color: #000;
+	text-shadow: 0 1px 1px;
+	margin: 0px 3px;
+}
+div#main div#header div#headerContent div#headerTab ul li.selected{
+	color: #FFF;
+	background-image: url("../images/first_menu_primary_bg.png");
+	background-repeat: round;
+	-moz-border-radius: 5px 5px 0 0;
+}
+div#main div#header div#headerContent div#headerTab ul li div {
+	float: left;
+}
+div#main div#header div#headerContent div#headerTab ul li div.tabBtnLeft {
+	width: 10px;
+	height: 25px;
+	clear: both;
+}
+div#main div#header div#headerContent div#headerTab ul li div.tabBtnCenter {
+	height: 25px;
+    width: 40px;
+    text-align: center;
+	color: #000000;
+}
+div#main div#header div#headerContent div#headerTab ul li div.tabBtnRight {
+	width: 10px;
+	height: 25px;
+}
+div#main div#header div#headerContent div#headerTab ul li.hover div.tabBtnLeft {
+	width: 10px;
+	height: 25px;
+	clear: both;
+	background-image: url(../images/menuSide.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+div#main div#header div#headerContent div#headerTab ul li.hover div.tabBtnCenter {
+	height: 25px;
+	color: #FFFFFF;
+	background: #175CA0;
+	-moz-border-radius: 5px 5px 0 0;
+	background-image: url(../images/menuBg.gif);
+	background-repeat: repeat-x;
+}
+div#main div#header div#headerContent div#headerTab ul li.hover div.tabBtnRight {
+	width: 10px;
+	height: 25px;
+	background-image: url(../images/menuSide.gif);
+	background-repeat: no-repeat;
+	background-position: -10px 0px;
+}
+div#main div#header div#headerSpace {
+	height: 6px;
+	clear: both;
+	line-height: 6px;
+}
+/* end header */
+
+/* center */
+div#main div#center {
+	height: 470px;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -475px;
+    margin-top: -305px;
+    width: 955px;
+}
+div#main div#center div#nav {
+	width: 220px;
+	height: 495px;
+	float: left;
+	background-color: #F6F6F6;
+}
+div#main div#center div#nav ul {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+div#main div#center div#nav ul li.subMenu div {
+	width: 210px;
+	height: 40px;
+	font-size: 14px;
+	color: #535353;
+	cursor: pointer;
+	line-height: 25px;
+	margin-bottom: 1px;
+	padding-left: 10px;
+	background-color: #E6E6E6;
+}
+div#main div#center div#nav ul li.hover div {
+	font-weight: bold;
+	cursor: pointer;
+    color: #39BA93;
+	background-color: #E6E6E6;
+}
+div#main div#center div#nav ul li.subMenu ul li.sub2Menu div {
+    width: 200px;
+	height: 40px;
+	font-size: 14px;
+	cursor: pointer;
+	line-height: 25px;
+	margin-bottom: 1px;
+	padding-left: 20px;
+    color: #535353;
+    font-weight: normal;
+	background-color: #FAFAFA;
+}
+div#main div#center div#nav ul li.subMenu ul li.hover div {
+    color: #39BA93;
+    background-color: #FAFAFA;
+}
+
+div#main div#center div#content {
+	float: left;
+	width: 735px;
+	height: 470px;
+	background-color: #DBF7F7;
+}
+div#main div#center div#content div#topNav {
+	height: 25px;
+	color: #000000;
+	line-height: 25px;
+	padding-left: 10px;
+	background-color: #E6E6E6;
+}
+div#main div#center div#content div#frameWarpContent {
+	height: 470px;
+	background-color: #dedbff;
+}
+/* end center */
+
+/* footer */
+div#main div#footer {
+	clear: both;
+	height: 0px;
+	color: #434343;
+	text-align: center;
+	background-color: #66b32e;
+}
+div#main table {
+	height: 100%;
+	margin: 0px auto;
+}
+div#main div#footer #footerLogo {
+	height: 25px;
+	width: 40px;
+}
+div#main div#footer #footerText {
+	color: #434343;
+	font-size: 12px;
+}
+/* end footer */
+
+/* fresh */
+div#main div#fresh {
+	display: none;
+}
+/* end fresh */
+

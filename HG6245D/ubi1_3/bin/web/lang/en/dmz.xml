@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="dmz_prompt" msgstr="You could set a host IP to DMZ here." />
+  <message msgid="dmzEnable_title" msgstr="DMZ Enable" />
+  <message msgid="dmz_enable" msgstr="Enable" />
+  <message msgid="dmz_disable" msgstr="Disable" />
+  <message msgid="dmz_auto" msgstr="Auto" />
+  <message msgid="dmz_hostTips" msgstr="DMZ Host IP" />
+  <message msgid="dmz_add" msgstr="Add" />
+  <message msgid="dmz_delete" msgstr="Delete" />
+  <message msgid="dmz_deleteAll" msgstr="Delete All" />
+  <message msgid="dmz_most4rulealert" msgstr="You can configure up to 4 rules!" />
+  <message msgid="fw_noRuleAlert" msgstr="At present there is no rule, can not be deleted!" />
+  <message msgid="fw_noChooseAlert" msgstr="Please select a rule and then delete!" />
+  <message msgid="fw_ipIllegalAlert" msgstr="Please enter a valid ip!" />
+  <message msgid="fw_deleteRuleConfirm" msgstr="Are you sure to delete the selected rule?" />
+  <message msgid="dmzRuleListHead" msgstr="DMZ Rule List" />
+  <message msgid="dmz_wannameTips" msgstr="WAN Name" />
+  <message msgid="dmz_iprepeat" msgstr="The IP you input repeat,please try another one. " />
+  <message msgid="dmz_wannamerepeat" msgstr="The WAN Name you choose repeat, please try another one. " />
+  
+  <message msgid="dmz_apply" msgstr="Apply" />
+  <message msgid="dmz_cancel" msgstr="Cancel" />
+  <message msgid="reset_rf" msgstr="Reset" />
+  <message msgid="dmz_noipalert" msgstr="Please enter an IP address!" />
+  <message msgid="dmz_ipillegalalert" msgstr="Please enter a valid IP address!" />
+   <message msgid="rf_prompt" msgstr="You can modify RF power on this page." />
+  <message msgid="rf_hostTips" msgstr="RF Power Adjustment Range" />
+  <message msgid="rf_IllegalAlert" msgstr="Please input correct RF power adjustment range [-127,127]" />
+  
+  
+  
+</po>
+

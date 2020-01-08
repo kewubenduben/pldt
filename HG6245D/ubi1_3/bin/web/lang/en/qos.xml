@@ -1,0 +1,64 @@
+<po>
+<message msgid="qos_prompt" msgstr="On this page, you can config Qos parameters." />
+
+<message msgid="qos_classDSCPTips" msgstr="(0-63)" />
+<message msgid="qos_class802Title2" msgstr="802.1p Maked" /> 
+<message msgid="qos_class802Tips" msgstr="(0-7)" />
+<message msgid="qos_classType1Title" msgstr="Class 1" />
+<message msgid="qos_classMin1Title2" msgstr="Min Value" /> 
+<message msgid="qos_classMax1Title2" msgstr="Max Value" /> 
+<message msgid="qos_classProtocol1Title2" msgstr="Protocol" /> 
+<message msgid="qos_classType2Title" msgstr="Class 2" />
+<message msgid="qos_classType3Title" msgstr="Class 3" />
+
+<message msgid="qos_cfgApplyTitle" msgstr="QoS Settings Apply" />
+<message msgid="qos_dixableTitle" msgstr="Disable" />
+<message msgid="qos_classRuleListHead" msgstr="Data Stream Classification" />
+<message msgid="qos_classNoTitle" msgstr="Data Stream Index" />
+<message msgid="qos_classQueueTitle" msgstr="Enter Queue" />
+<message msgid="qos_classDSCPTitle2" msgstr="DSCP/TC Maked" /> 
+<message msgid="qos_classTypeNoTitle" msgstr="Class" />
+<message msgid="qos_classTypeTitle" msgstr="Type" />
+
+<message msgid="qos_priServiceTitle2" msgstr="Service Name" /> 
+<message msgid="qos_priRuleListHead" msgstr="Service Priority" /> 
+
+<message msgid="qos_weiQueueHead" msgstr="Queue" /> 
+<message msgid="qos_weiWeightHead" msgstr="Weight (%)" /> 
+<message msgid="qos_weiEnableHead" msgstr="Enable" /> 
+<message msgid="qos_priPriorityHead" msgstr="Priority" /> 
+<message msgid="qos_planTitle" msgstr="Dispatch Mode" /> 
+<message msgid="qos_planPriorityTip" msgstr="Priority" /> 
+<message msgid="qos_planWeightTip" msgstr="Weight" /> 
+<message msgid="qos_802FlagTitle" msgstr="Enable 802-1_P Maked" /> 
+<message msgid="qos_dsctFlagTitle" msgstr="Enable DSCT/TC Maked" /> 
+<message msgid="qos_bandwidthTitle" msgstr="Total Bandwidth" /> 
+<message msgid="qos_modeTitle" msgstr="QoS Mode" /> 
+<message msgid="qos_cfgHead" msgstr="Queue Settings" /> 
+
+<message msgid="qos_class_add" msgstr="Add" /> 
+<message msgid="qos_class_delete" msgstr="Delete" /> 
+<message msgid="qos_class_deleteAll" msgstr="DeleteAll" />
+
+<message msgid="qos_classRuleApply" msgstr="Apply" /> 
+<message msgid="qos_classRuleCancel" msgstr="Cancel" />
+
+<message msgid="option_chose" msgstr="please select" />    
+<message msgid="qos_802Flag_option" msgstr="Maked as 0" />
+<message msgid="qos_802Flag_option2" msgstr="Transparent Trans Curren Value" />
+<message msgid="qos_802Flag_option3" msgstr="Maked as New Value" />
+<message msgid="qos_classType1_option1" msgstr="Source MAC Addr" />
+<message msgid="qos_classType1_option2" msgstr="802.1p" />
+<message msgid="qos_classType1_option3" msgstr="Source IP Addr" />
+<message msgid="qos_classType1_option4" msgstr="Destination IP Addr" />
+<message msgid="qos_classType1_option5" msgstr="Source Port" />
+<message msgid="qos_classType1_option6" msgstr="Destination Port" />
+<message msgid="qos_classType1_option7" msgstr="LANInterface" />
+
+ <message msgid="rule_most4RulesAlert" msgstr="You can configure up to 4 rules!" />
+ <message msgid="rule_noRuleAlert" msgstr="At present there is no rule, so you can not delete!" />
+ <message msgid="pf_deleteRuleConfirm" msgstr="Are you sure you want to delete the selected rule?" />
+ <message msgid="rule_noChooseAlert" msgstr="Please select a rule before deleting!" />
+
+</po>
+

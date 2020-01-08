@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="content_trans_apply" msgstr="提交" />
+  <message msgid="content_trans_cancel" msgstr="取消" />
+  
+  <message msgid="update_prompt" msgstr="在本页面，您可以浏览并选择本地文件为终端设备升级软件，升级过程中请勿将设备断电或进行其他操作，以防设备损坏。" />
+  <message msgid="update_chooseFile" msgstr="选择文件并升级" />
+  <message msgid="update_info" msgstr="升级需要时间，请耐心等待!" />
+  <message msgid="update_back" msgstr="返回" />
+  
+  <message msgid="update_format_illegal" msgstr="文件格式非法，请重新选择!" />
+  <message msgid="update_success" msgstr="升级成功!" />
+  <message msgid="update_fail" msgstr="升级失败!" />
+  <message msgid="update_restart" msgstr=" 请重启设备。" />
+  <message msgid="update_api_error" msgstr=" 请确认升级文件是否正确!" />
+  <message msgid="update_space_not_enough" msgstr=" 空间不足!请重启ONU后再试!" />
+  <message msgid="update_restartConfirm" msgstr=" 是否重启ONU? 重启ONU后，请重新登录WEB网管!" />
+  <message msgid="update_restartAlert" msgstr=" ONU即将自动重启，稍候请重新登录WEB网管!" />
+  
+  <message msgid="down_cfgFilePrompt" msgstr="在您备份设备配置文件到电脑之前，请先开启ftp工具!" />
+  <message msgid="down_cfgFileHead" msgstr="配置文件备份" />
+  <message msgid="down_cfgFileUserTitle" msgstr="用户名" />
+  <message msgid="down_cfgFilePwdTitle" msgstr="密码" />
+  <message msgid="down_cfgFileIPTitle" msgstr="本地IP" />
+  <message msgid="down_cfgFileNameTitle" msgstr="文件名" /> 
+  
+  <message msgid="down_cfgFileUserTips" msgstr="（请输入1-20个字符, 包括数字、字母、'_' 和 '.'）" />
+  <message msgid="down_cfgFilePwdTips" msgstr="（请输入0-20个字符, 包括数字、字母、'_' 和 '.'）" />
+  <message msgid="down_cfgFileIPTips" msgstr="（十进制格式，例如：192.168.1.2）" />
+  <message msgid="down_cfgFileNameTips" msgstr="（请输入1-64个字符, 包括数字、字母、'_' 和 '.'）" />
+  
+  <message msgid="down_cfgFileUserIllegalAlert" msgstr="请输入合法的用户名！" />
+  <message msgid="down_cfgFilePwdIllegalAlert" msgstr="请输入合法的密码！" />
+  <message msgid="down_cfgFileIPIllegalAlert" msgstr="请输入合法的IP地址!" />
+  <message msgid="down_cfgFileFileIllegalAlert" msgstr="请输入合法的文件名!" />
+  
+  <message msgid="cfg_download_prompt" msgstr="在本页面，您可以将设备当前配置文件备份到本地电脑。" />
+  <message msgid="cfg_download" msgstr="配置备份" />
+  
+  <message msgid="cfg_upload_prompt" msgstr="如果您进入配置文件路径点击相关文件, 可以用保存的配置文件更新您的设备。" />
+  <message msgid="cfg_upload_title" msgstr="更新配置文件" />
+  <message msgid="cfg_uploadTips" msgstr="配置文件名只能包含数字、字母和'_'。" />
+  <message msgid="cfg_upload_import" msgstr="导入" />
+  <message msgid="cfg_upload_load" msgstr="上传" />
+  <message msgid="cfg_upload_fileIllegalAlert" msgstr="请选择正确的配置文件!" />  
+  <message msgid="cfg_upload_complete" msgstr="配置文件更新完成!" />
+  <message msgid="cfg_upload_failed" msgstr="配置文件更新失败!" />
+  
+  <message msgid="rebooting" msgstr="设备正在重启，此过程需要若干分钟，在此期间请勿将设备断电或进行其他操作。稍候请在登录页面重新登录。" />
+
+</po>  
+

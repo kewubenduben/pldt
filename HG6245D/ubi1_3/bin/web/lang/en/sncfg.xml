@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="sncfg_prompt" msgstr="On this page, you may modify the ONU authentication-related parameters to authenticate the OLT. It will take effect after restarting." />
+  <message msgid="sncfg_prompt_user" msgstr="You may modify the ONU authentication-related parameters to authenticate the OLT. It will take effect after restarting. Please do not change the password, it will effect the service if the password has been changed, thanks!" />
+  
+  <message msgid="sncfg_apply" msgstr="Apply" />
+  <message msgid="sncfg_cancel" msgstr="Cancel" />
+  
+  <message msgid="sncfg_authMethod" msgstr="Auth Method" />
+  <message msgid="sncfg_loid" msgstr="LOID" />
+  <message msgid="sncfg_loidTips" msgstr=" (You can input 1-24 basic Latin characters)" />
+  <message msgid="sncfg_lopwd" msgstr="Logic Password" />
+  <message msgid="sncfg_lopwdTips" msgstr=" (You can input 0-12 basic Latin characters)" />
+  <message msgid="sncfg_pwd" msgstr="Pass Key" />
+  <message msgid="sncfg_pwdTips" msgstr=" (You can input 0-10 characters, including alphanumeric, '-' and '_')" />
+  <message msgid="oltcfg_phySN" msgstr="Physical SN" />
+  <message msgid="oltcfg_phySNTips" msgstr="  (You can input 12 or 16 characters, including '0'-'9' 'a'-'f' 'A'-'F' 'h' 't' 'H' 'T')" />
+  
+  <message msgid="sncfg_restore" msgstr="Restore" />
+  <message msgid="sncfg_restoreTips" msgstr=" (You can restore configuration of this page to default by clicking this button)" />
+
+  <message msgid="sncfg_snTitle" msgstr="LOID Auth" />
+  <message msgid="sncfg_pwdTitle" msgstr="Password Auth" />
+  <message msgid="oltcfg_phySNTitle" msgstr="Physical SN Auth" />
+  <message msgid="sncfg_restoreTitle" msgstr="Restore Configuration" />
+
+  <message msgid="sncfg_restartConfirm" msgstr="You modify the authentication parameters successfully! Whether to restart ONU? Please login WEB network management after ONU restarting!" />
+
+  <message msgid="sncfg_loidNullAlert" msgstr="Please input LOID!" />
+  <message msgid="sncfg_loidIllegalAlert" msgstr="LOID is illegal!" />
+  <message msgid="sncfg_lopwdIllegalAlert" msgstr="Logic Password is illegal!" />
+  <message msgid="sncfg_pwdCfgNullAlert" msgstr="Please input pass key!" />
+  <message msgid="sncfg_pwdCfgIllegalAlert" msgstr="Pass key is illegal!" />
+  <message msgid="sncfg_loidchnAlert" msgstr="LOID is illegal! Please input basic Latin characters!" />
+  <message msgid="sncfg_speCharAlert" msgstr="Please input basic Latin characters except " />
+  <message msgid="sncfg_phySNNullAlert" msgstr="Please input physical SN!" />
+  <message msgid="sncfg_phySNCfgIllegalAlert" msgstr="Physical SN is illegal!" />
+
+  <message msgid="physncfg_checkeror" msgstr="Error: The value you input is illegal, please try again!" />
+  <message msgid="sncfg_setFailedInfo" msgstr="Error: Set auth params failed! Please reboot device and try again!" />
+</po>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="pt_PortTriggerPrompt" msgstr="您可以在本页面配置端口触发功能。" />
+
+  <message msgid="fw_filterListHead" msgstr="端口触发规则列表" />
+  <message msgid="PFdescrip" msgstr="描述" />
+  <message msgid="The_trigger_Port" msgstr="触发端口" />
+  <message msgid="The_open_Port" msgstr="开放端口" />
+  <message msgid="The_TriggerProtocol" msgstr="触发协议" />
+  <message msgid="The_openProtocol" msgstr="开放协议" />
+  <message msgid="Enable" msgstr="使能" />
+
+  <message msgid="pf_DescriptionTitle" msgstr="描述" />
+  <message msgid="pf_triPortTitle" msgstr="触发端口" />
+  <message msgid="pf_openPortTitle" msgstr="开放端口" />
+  <message msgid="pf_triprotocolTitle" msgstr="触发协议" />
+  <message msgid="pf_openprotocolTitle" msgstr="开放协议" />
+  <message msgid="pf_enabelTitle" msgstr="使能" />
+
+  <message msgid="pf_add" msgstr="新增" />
+  <message msgid="pf_delete" msgstr="删除" />
+  <message msgid="pf_deleteAll" msgstr="删除所有" />
+
+  <message msgid="pf_apply" msgstr="应用" />
+  <message msgid="pf_cancel2" msgstr="取消" />
+
+  <message msgid="pf_mostRulesAlert" msgstr="你最多可以配置8条规则。" />
+  <message msgid="pf_noRuleAlert" msgstr="当前没有规则，不能删除。" />
+  <message msgid="pf_noChooseAlert" msgstr="请先选定一个规则再执行删除。" />
+  <message msgid="pf_deleteRuleConfirm" msgstr="您确定要删除选中的规则吗?" />
+
+  <message msgid="pf_ipIllegalAlert" msgstr="请输入有效的IP。" />
+  <message msgid="pf_PortNullAlert" msgstr="请输入有效的端口值。" />
+  <message msgid="pf_endPortTooSmallAlert" msgstr="起始端口不能大于结束端口。" />
+  <message msgid="pf_portIllegalAlert" msgstr="有效端口值为1 - 65535!" />
+  <message msgid="Please creat INTERNET WAN first !" msgstr="请先建立INTERNET相关的WAN!" />
+ 
+  <message msgid="description_tips" msgstr="( 0-31个字符, 包括数字、字母、'-' 和 '_')" />
+  <message msgid="descripIllegalAlert" msgstr="请输入有效的描述字符!" />
+</po>
+

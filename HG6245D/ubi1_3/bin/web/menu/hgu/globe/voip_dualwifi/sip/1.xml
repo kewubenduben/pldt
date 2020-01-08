@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+	<menu1 name="state" url="../state/deviceInfor.asp" >
+			<menu2 name="Device Information" url="../state/deviceInfor.asp" >
+					<menu3 name="Device Information" url="../state/deviceInfor.asp" />
+			</menu2>
+			<menu2 name="wireless state" url="../state/wireless_state.asp" >
+					<menu3 name="wireless state" url="../state/wireless_state.asp" />
+					<menu3 name="5Gwifistate" url="../state/wireless_state_5g.asp" />
+					<menu3 name="wifi_mac_list" url="../wireless/wifimaclist.asp" />
+			</menu2>
+			<menu2 name="wan state" url="../state/wan_state.asp" >
+					<menu3 name="wan state" url="../state/wan_state.asp" />
+			</menu2>
+			<menu2 name="lan state" url="../state/lan_state.asp" >
+					<menu3 name="lan state" url="../state/lan_state.asp" />
+					<menu3 name="dhcp_userlist" url="../internet/dhcp_userlist.asp" />
+			</menu2>
+			<menu2 name="Optical Power" url="../state/opt_power.asp" >
+					<menu3 name="Optical Power" url="../state/opt_power.asp" />
+			</menu2>
+			<menu2 name="VOIP State" url="../state/voip_auth_status.asp" >
+					<menu3 name="VOIP State" url="../state/voip_auth_status.asp" />
+			</menu2>
+	</menu1>
+	<menu1 name="network" url="../wireless/basic.asp" >
+			<menu2 name="wlan_settings" url="../wireless/basic.asp" >
+					<menu3 name="basic" url="../wireless/basic.asp" />
+					<menu3 name="security" url="../wireless/security.asp" />
+					<menu3 name="5Gbasic" url="../wireless/basic_5g.asp" />
+					<menu3 name="5Gsecurity" url="../wireless/security_5g.asp" />
+			</menu2>
+			<menu2 name="WAN Configuration" url="../internet/pppoe_wan.asp" >
+					<menu3 name="Internet Configuration" url="../internet/pppoe_wan.asp" />
+					<menu3 name="VoIP Configuration" url="../internet/wan_voip.asp" />
+			</menu2>
+			<menu2 name="route" url="../internet/ipv4_static_route.asp" >
+					<menu3 name="IPv4 Static Route" url="../internet/ipv4_static_route.asp" />
+			</menu2>
+			<menu2 name="Bandwidth Control" url="../internet/ip_bandwidth_ctl.asp" >
+					<menu3 name="IP Bandwidth Control" url="../internet/ip_bandwidth_ctl.asp" />
+					<menu3 name="Port Bandwidth Control" url="../internet/port_bandwidth_ctl.asp" />
+			</menu2>
+	</menu1>
+	<menu1 name="Security" url="../security/wps.asp" >
+			<menu2 name="WPS" url="../security/wps.asp" >
+					<menu3 name="WPS" url="../security/wps.asp" />
+					<menu3 name="5G WPS" url="../security/wps_5g.asp" />
+			</menu2>
+			<menu2 name="Parental Control" url="../security/parental_control.asp" >
+					<menu3 name="Parental Control" url="../security/parental_control.asp" />
+			</menu2>
+	</menu1>
+	<menu1 name="Application" url="../application/ddns.asp" >
+			<menu2 name="DDNS" url="../application/ddns.asp" >
+					<menu3 name="DDNS Settings" url="../application/ddns.asp" />
+			</menu2>
+			<menu2 name="Port Forwarding" url="../application/port_mapping.asp" >
+					<menu3 name="Port Forwarding" url="../application/port_mapping.asp" />
+			</menu2>
+			<menu2 name="DMZ" url="../application/dmz.asp" >
+					<menu3 name="DMZ" url="../application/dmz.asp" />
+			</menu2>
+	</menu1>
+	<menu1 name="VoIP" url="../voip/voip_basic.asp" >
+			<menu2 name="voip_settings" url="../voip/voip_basic.asp" >
+					<menu3 name="Basic" url="../voip/voip_basic.asp" />
+			</menu2>
+	</menu1>
+	<menu1 name="management" url="../management/account_self_admin.asp" >
+			<menu2 name="user_admin" url="../management/account_self_admin.asp" >
+					<menu3 name="user_account_admin" url="../management/account_self_admin.asp" />
+			</menu2>
+			<menu2 name="device_admin" url="../management/reboot.asp" >
+					<menu3 name="reboot" url="../management/reboot.asp" />
+			</menu2>
+			<menu2 name="Diagnosis" url="../application/ping_diagnosis_new.asp" >
+					<menu3 name="ping" url="../application/ping_diagnosis_new.asp" />
+					<menu3 name="tracert" url="../application/tracert_diagnosis.asp" />
+			</menu2>
+	</menu1>
+</po>  

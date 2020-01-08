@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="iptv_prompt" msgstr="在本页面上，您可以配置IPTV组播VLAN。" />
+
+  <message msgid="iptv_infoHead" msgstr="IPTV基本参数" />
+  <message msgid="iptv_vlanTitle" msgstr="组播VLAN" />
+  <message msgid="iptv_vlanTips" msgstr="(请输入数字-1、1～4094)" />
+  
+  <message msgid="iptv_apply" msgstr="应用" />
+  <message msgid="iptv_cancel" msgstr="取消" />
+
+  <message msgid="iptv_vlanIllegalAlert" msgstr="组播VLAN范围为-1 及 1～4094。" />
+ 
+</po>

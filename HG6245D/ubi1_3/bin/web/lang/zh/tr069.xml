@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="tr069 basic apply" msgstr="提交" />
+  <message msgid="tr069 basic cancel" msgstr="取消" />
+
+  <message msgid="tr069 title" msgstr="TR069基本设置" />
+  <message msgid="tr069_prompt" msgstr="在本页面，您可以设置URL、用户名、密码、反向连接用户名、反向连接密码等TR069基本配置。" />
+  <message msgid="tr069_prompt_readonly" msgstr="在本页面，您可以浏览URL、用户名、密码、反向连接用户名、反向连接密码等TR069基本配置。" />
+  <message msgid="tr069_prompt_cfgfile" msgstr="在本页面，您可以配置TR069生效的配置。" />
+
+  <message msgid="tr069 basic" msgstr="TR069基本配置" />
+  
+  <message msgid="tr069url_title" msgstr="URL" />
+  <message msgid="tr069userName_title" msgstr="用户名" />
+  <message msgid="tr069password_title" msgstr="密码" />
+  <message msgid="tr069conReqUsr_title" msgstr="反向连接用户名" />
+  <message msgid="tr069conReqPwd_title" msgstr="反向连接密码" />
+
+  <message msgid="tr069_noURL" msgstr="请输入URL!" />
+  <message msgid="tr069_urlillegal" msgstr="URL非法!" />
+  <message msgid="tr069_nousername" msgstr="请输入用户名!" />
+  <message msgid="tr069_noRequestUsername" msgstr="请输入反向连接用户名!" />
+  <message msgid="tr069_noinforminterval" msgstr="请输入通知间隔!" />
+
+  <message msgid="tr069InformEnable_title" msgstr="通知使能" />
+  <message msgid="tr069InformInterval_title" msgstr="通知间隔" />
+  <message msgid="tr069Enable_title" msgstr="TR069使能" />
+  <message msgid="tr069CertificateEnable_title" msgstr="证书使能" />
+  
+  <message msgid="tr069_enable" msgstr="开启" />
+  <message msgid="tr069_disable" msgstr="关闭" />
+  
+  <message msgid="tr069auth_Title" msgstr="连接请求认证" />
+  <message msgid="tr069_getRPCMethods" msgstr="获取RPC方法" />
+  <message msgid="ConnectionRequestPath_title" msgstr="连接请求路径" />
+  <message msgid="ConnectionRequestPort_title" msgstr="连接请求端口" />
+  <message msgid="InformInterval_alert" msgstr="请输入合法的TR069上报间隔(1 - 2147483647)!" />
+  <message msgid="Please enter valid port value: 1-65535." msgstr="请输入正确的端口值:1 - 65535 !" />
+  <message msgid="Please enter connectionRequestPassword!" msgstr="请输入连接请求密码!" />
+  <message msgid="Please input path!" msgstr="请输入路径!" />
+  <message msgid="Please input password!" msgstr="请输入密码!" />
+  
+  <message msgid="certi_prompt" msgstr="您可以在本页面导入TR069证书。" />
+  <message msgid="certi_title" msgstr="TR069证书导入" />
+  <message msgid="certi_import" msgstr="导入" />
+  <message msgid="certi_load" msgstr="上传" />
+  <message msgid="certi_fileIllegalAlert" msgstr="请选择正确的证书文件!" />
+  <message msgid="certi_complete" msgstr="证书导入成功!" />
+
+  <message msgid="tr069_inform_prompt" msgstr="您可以在本页面进行TR069手工Inform。" />
+  <message msgid="NoWan_alert" msgstr="TR069模式的WAN链接没有建立!" />
+  <message msgid="NoIP_alert" msgstr="TR069模式的WAN链接没有获取到IP!" />
+  <message msgid="Timeout_alert" msgstr="上报超时!" />
+  <message msgid="InformSuccess_infor" msgstr="上报成功!上报时间:" />
+  <message msgid="tr069ManualTriggerInform_title" msgstr="TR069手工Inform" />
+  <message msgid="ManualTriggerInform" msgstr="立即上报Inform" />
+
+  <message msgid="remote_manage_prompt" msgstr="您可以在页面上查询远程连接状态和服务配置状态。" />
+  <message msgid="ur_status_title" msgstr="本地更新上报" />
+  <message msgid="asc_status_title" msgstr="ONU和ACS服务器连接状态" />
+  <message msgid="sp_status_title" msgstr="服务器配置状态" />
+</po>
+

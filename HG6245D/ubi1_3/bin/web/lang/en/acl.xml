@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="acl_funcPrompt" msgstr="On this page, you could configure ACL enable/disable, and enabled rules." />
+  <message msgid="acl_usePrompt" msgstr="ACL-enabled before configureing rules. You can click on the button to add rules, delete rules after the selected row or full delete, or modify the rule after you selected a row. Finally, please click the submit button to submit all your configuration." />
+  
+  <message msgid="acl_refresh" msgstr="Refresh" />
+  <message msgid="acl_submit" msgstr="Submit" />
+  <message msgid="acl_apply" msgstr="Apply" />
+  <message msgid="acl_cancel" msgstr="Cancel" />
+  <message msgid="acl_add" msgstr="Add" />
+  <message msgid="acl_delete" msgstr="Delete" />
+  <message msgid="acl_deleteAll" msgstr="Delete All" />
+  
+  <message msgid="acl_switchTitle" msgstr="ACL Enable" />
+  <message msgid="acl_disableTitle" msgstr="Disable" />  
+  <message msgid="acl_enableTitle" msgstr="Enable" />
+  <message msgid="acl_modeTitle" msgstr="ACL Mode" />
+  <message msgid="acl_modeBlackTitle" msgstr="Blacklist" />
+  <message msgid="aacl_modeWhiteTitle" msgstr="Whitelist" />
+  <message msgid="acl_typeTitle" msgstr="ACL Type" />
+  <message msgid="acl_listHead" msgstr="ACL Rules List" />
+  <message msgid="acl_portTitle" msgstr="Port" />
+  
+  <message msgid="acl_portTips" msgstr=" (Each port can create up to eight rules)" />
+  <message msgid="acl_ipTips" msgstr=" (Decimal format, such as 10.10.10.2)" />
+  <message msgid="acl_macTips" msgstr=" (You can input alphanumeric and ':', such as 00:24:21:19:BD:E4)" />
+  <message msgid="acl_vidTips" msgstr=" (1 - 4095)" />
+  
+  <message msgid="acl_mostRulesAlert" msgstr="You can configure 32 rules at most!" />
+  <message msgid="acl_portMostRulesAlert" msgstr=" has created 8 rules! No more rule can be created!" />
+  <message msgid="acl_ruleRepeatAlert" msgstr="Repeat with the existing rules. Please reconfigure it!" />
+  <message msgid="acl_noRuleAlert" msgstr="At present there is no rule, so you can not delete!" />
+  <message msgid="acl_noChooseAlert" msgstr="Please choose a rule at least!" />
+  <message msgid="acl_ipNullAlert" msgstr="Please input IP!" />
+  <message msgid="acl_ipIllegalAlert" msgstr="Please input a valid IP!" />
+  <message msgid="acl_macNullAlert" msgstr="Please input MAC!" />
+  <message msgid="acl_macIllegalAlert" msgstr="MAC address format is incorrect! MAC format 00:24:21:19:BD:E4" />
+  <message msgid="acl_vidIllegalAlert1" msgstr="Valid vlan ID range is 1 to 4095." />
+  <message msgid="acl_vidIllegalAlert2" msgstr="Please input positive integer." />  
+  
+  <message msgid="acl_deleteRuleConfirm" msgstr="Are you sure to delete the selected rules?" />
+  <message msgid="acl_changeTypeConfirm" msgstr="It will remove the original rules to change ACL type, are you sure to continue?" />
+  
+</po>

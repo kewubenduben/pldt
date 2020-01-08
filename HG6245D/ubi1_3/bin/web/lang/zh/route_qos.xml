@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="pps_apply" msgstr="应用" />
+  <message msgid="pps_cancel" msgstr="取消" />
+  <message msgid="route_qos_prompt" msgstr="您可以在本页面配置路由QOS功能开关。" />
+  <message msgid="route_qos_title" msgstr="路由QOS" />  
+  <message msgid="qos_c_enable" msgstr="开启" />
+  <message msgid="qos_c_disable" msgstr="关闭" />
+
+  <message msgid="route_qosPrompt" msgstr="您可以在此页面配置路由QOS!" />
+  <message msgid="pf_add" msgstr="新增" />
+  <message msgid="pf_delete" msgstr="删除" />
+  <message msgid="pf_deleteAll" msgstr="删除所有" />
+  <message msgid="route_qosListHead" msgstr="Route QOS列表" />
+  <message msgid="qostypetitle" msgstr="类型" />
+  <message msgid="qosPrioritytitle" msgstr="优先级" />
+  <message msgid="qosprotocoltitle" msgstr="协议" />
+  <message msgid="qossrciptitle" msgstr="源IP" />
+  <message msgid="qossrcporttitle" msgstr="源端口" />
+  <message msgid="qosdisiptitle" msgstr="目的IP" />
+  <message msgid="qosdisporttitle" msgstr="目的端口" />
+  <message msgid="qoscontroltitle" msgstr="使能" />
+   <message msgid="qos_apply" msgstr="提交" />
+  <message msgid="qos_cancel" msgstr="取消" />
+  
+  <message msgid="pf_mostRulesAlert" msgstr="最多可创建6个规则！" />
+  <message msgid="pf_noRuleAlert" msgstr="没有已创建的规则，无法删除！" />
+  <message msgid="pf_noChooseAlert" msgstr="请先选定一个规则再执行删除!" />
+  <message msgid="priority_alert" msgstr="请输入优先级." />
+
+  <message msgid="pf_ipIllegalAlert" msgstr="请输入有效IP!" />
+  <message msgid="pf_PortNullAlert" msgstr="请输入端口号!" />
+  <message msgid="pf_endPortTooSmallAlert" msgstr="结束端口号不能小于开始端口号!" />
+  <message msgid="pf_portIllegalAlert" msgstr="有效的端口范围是1-65535." />
+  <message msgid="pf_PortNullAlert" msgstr="请输入有效的端口号!" />
+  <message msgid="pf_8021PriorityIllegalAlert" msgstr="有效优先级的范围是0 - 7!" />
+  <message msgid="pf_hscpPriorityIllegalAlert" msgstr="有效优先级的范围是0 - 63!" />
+  <message msgid="pf_deleteRuleConfirm" msgstr="您确定要删除选中的规则吗?" />
+   
+</po>
+

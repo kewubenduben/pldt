@@ -1,0 +1,357 @@
+<po>
+  <message msgid="inet apply" msgstr="Apply" />
+  <message msgid="inet cancel" msgstr="Cancel" />
+  <message msgid="inet enable" msgstr="Enable" />
+  <message msgid="inet disable" msgstr="Disable" />
+
+  <message msgid="inet mac" msgstr="MAC Address" />
+  <message msgid="inet ip" msgstr="IP Address" />
+  <message msgid="gateway_ip" msgstr="Lan Interface" />
+  <message msgid="inet server" msgstr="Server IP" />
+  <message msgid="inet netmask" msgstr="Subnet Mask" />
+  <message msgid="inet lan2" msgstr="LAN2" />
+  <message msgid="inet lan2 ip" msgstr="LAN2 IP Address" />
+  <message msgid="inet lan2 netmask" msgstr="LAN2 Subnet Mask" />
+  <message msgid="inet gateway" msgstr="Default Gateway" />
+  <message msgid="inet pri dns" msgstr="Primary DNS Server" />
+  <message msgid="inet sec dns" msgstr="Secondary DNS Server" />
+  <message msgid="inet user" msgstr="User Name" />
+  <message msgid="inet password" msgstr="Password" />
+  <message msgid="inet pass2" msgstr="Verify Password" />
+  <message msgid="inet hostname" msgstr="Hostname" />
+  
+  <message msgid="mtu_IllegalAlert" msgstr="MTU value error! Please check MTU value again." />
+  <message msgid="mtudhcpstatic_IllegalAlert" msgstr="MTU value error, please confirm MTU value between 1280 - 1500." />
+  <message msgid="mtupppoe_IllegalAlert" msgstr="MTU value error, please confirm MTU value between 1280 - 1492." />
+
+  <message msgid="ipv6_dhcp_prompt" msgstr="You may enable/disable IPv6 networking functions and configure IPv6 Addr as your wish, and it will take effect after restarting."/>
+  <message msgid="ipv6_dns_prompt" msgstr="You may configure IPv6 DNS Proxy as your wish,and it will take effect after restarting."/>
+  <message msgid="ipv6_prefix_prompt" msgstr="You may configure IPv6 Prefix Mode as your wish,and it will take effect after restarting."/>
+  <message msgid="ipv6_lan_title" msgstr="IPv6 LAN Address Set"/>
+  <message msgid="Enable_dhcpv6_title" msgstr="Enable DHCPv6 Service"/>
+  <message msgid="ipv6_dns_title" msgstr="IPv6 DNS Proxy Setting"/>
+  <message msgid="dns_source_agent_title" msgstr="Agent"/>
+  <message msgid="ipv6_prefix_title" msgstr=" Prefix Mode Setting"/>
+  <message msgid="v6_static_addr" msgstr="Please input IPv6 static IP, for example, fe80::1/64) "/>
+   <message msgid="v6_dhcp_start" msgstr="Please input IPv6 start IP "/>
+   <message msgid="v6_dhcp_end" msgstr="Please input IPv6 end IP "/>
+   <message msgid="ipv6_addr_title" msgstr="IPv6 Address"/>
+
+  <message msgid="ipv6_title" msgstr="IPv6 Config" />
+  <message msgid="Managed_Flag_title" msgstr="Managed Flag" />
+  <message msgid="other_Flag_title" msgstr="Other Config Flag" />
+  <message msgid="max_Interval_title" msgstr="Max RA Interval" />
+  <message msgid="min_Interval_title" msgstr="Min RA Interval" />
+  <message msgid="enable_dhcp6s_title_title" msgstr="Enable DHCP6S" />
+  <message msgid="Prefix_Mode_title" msgstr="Prefix Mode" />
+  <message msgid="dns_source_title" msgstr="DNS Source" />
+  <message msgid="Prefix_Set_title" msgstr="Prefix Set" />
+  <message msgid="max_Interval_tips" msgstr="Seconds (4-1800)" />
+  <message msgid="min_Interval_tips" msgstr="Seconds (3-1350)" />
+  <message msgid="v6_RAIntervalNullAlert" msgstr="Please input RA interval!" />
+  <message msgid="v6_prefixSetNullAlert" msgstr="Please input prefix set, for example, 2001::/64." />
+  <message msgid="v6_RAIntervalIllegalAlert" msgstr="RA interval illagal!" />
+  <message msgid="v6_minRAIntervalIllegalAlert" msgstr="Min RA interval required not more than 75% of Max." />
+
+  <message msgid="v6_net_title" msgstr="Network Connection" />
+  <message msgid="v6_static_title" msgstr="Static" />
+  <message msgid="v6_dns_relay_title" msgstr="Relay" />
+  <message msgid="first_dns_title" msgstr="Primary DNS Server" />
+  <message msgid="sec_dns_title" msgstr="Secondary DNS Server" />
+  <message msgid="v6dhcpstart_title" msgstr="Start IPv6 Address" />
+  <message msgid="v6dhcpend_title" msgstr="End IPv6 Address" />
+  <message msgid="v6dhcpPreferTime_title" msgstr="DHCPv6 Preferred Lifetime" />
+  <message msgid="v6dhcpValidTime_title" msgstr="DHCPv6 Valid Lifetime" />
+   <message msgid="ipv6_static_addr_title" msgstr="IPv6/Prefix" />
+  <message msgid="ipv6_static_addr_tips" msgstr="(For example, fe80::1/64)" />
+  <message msgid="v6_primaryDnsNullAlert" msgstr="Please input IPv6 primary DNS server, for example ,fe80::1" />
+
+  <message msgid="v6_validTimeIlligalAlert" msgstr="DHCPv6 preferred lifetime couldn't be greater than valid lifetime!" />
+  
+  <message msgid="Prefix Length illagal!" msgstr="Prefix Length illagal!" />
+  <message msgid="Please enter ip adress of ipv6!" msgstr="Please input IP address of IPv6!" />
+  <message msgid="Please enter Prefix Length of ipv6!" msgstr="Please input prefix length of IPv6!" />
+  <message msgid="Please enter Gateway of ipv6!" msgstr="Please input gateway of IPv6!" />
+  <message msgid="Please enter Primary DNS Server of ipv6!" msgstr="Please input primary DNS server of IPv6!" />
+  <message msgid="wStaticIpv6" msgstr="IPv6 Address" />
+  <message msgid="Prefix_Length_title" msgstr="IPv6 Prefix Length" />
+  <message msgid="wStaticGateway_ipv6" msgstr="Default Gateway" />
+  <message msgid="wStaticPriDns_ipv6" msgstr="Primary DNS Server" />
+  <message msgid="wStaticSecDns_ipv6" msgstr="Secondary DNS Server" />
+  <message msgid="Address/Prefix_title" msgstr="IPv6 Address Mode" />
+  <message msgid="Address/Prefix_title_pppoe" msgstr="IPv6 Address Mode" />
+  <message msgid="Prefix_title" msgstr="IPv6 Prefix Mode" />
+  <message msgid="wV6_Address/Prefix_static" msgstr="Static" />
+  <message msgid="wV6_prefixMode_static" msgstr="Static" />
+  <message msgid="ipv6_enable_title" msgstr="IPv6 Enable " />
+  <message msgid="ipv6_enable_tip" msgstr="Enable" />
+  <message msgid="ipv6_disable_tip" msgstr="Disable" />
+
+  <message msgid="wan title" msgstr="Wide Area Network (WAN) Settings" />
+  <message msgid="wan_prompt" msgstr="You may choose different connection type suitable for your environment. Besides, you may also configure parameters according to the selected connection type." />
+  <message msgid="wan_add" msgstr="Add" />
+  <message msgid="wan_delete" msgstr="Delete" />
+  <message msgid="wan connection type" msgstr="WAN IP Mode" />
+  <message msgid="wan connection type static" msgstr="Static" />
+  <message msgid="wan connection type dhcp" msgstr="DHCP" />
+  <message msgid="wan connection type pppoe" msgstr="PPPoE" />
+  <message msgid="wan connection type l2tp" msgstr="L2TP" />
+  <message msgid="wan connection type pptp" msgstr="PPTP" />
+  <message msgid="wan protocol opmode" msgstr="Operation Mode" />
+  <message msgid="wan protocol opmode keepalive" msgstr="Keep Alive" />
+  <message msgid="wan protocol opmode ondemand" msgstr="On Demand" />
+  <message msgid="wan protocol opmode manual" msgstr="Manual" />
+  <message msgid="WAN Enable" msgstr="WAN Enable" />
+  <message msgid="VLAN Enable" msgstr="VLAN Enable" />
+  <message msgid="noInternetWan_alert" msgstr="Please creat INTERNET route WAN first!" />
+  
+
+  <message msgid="pf_mostRulesAlert" msgstr="You can configure 8 WAN connections at most!" />
+  <message msgid="pf_most4RulesAlert" msgstr="You can configure 4 WAN connections at most!" />
+  <message msgid="pf_most4RouteWanAlert" msgstr="You can configure 4 route type WAN connections at most!" />
+  <message msgid="pf_most4BridgeWanAlert" msgstr="You can configure 4 bridge type WAN connections at most!" />
+  <message msgid="pf_noRuleAlert" msgstr="At present there is no rule, can not be deleted!" />
+  <message msgid="pf_noChooseAlert" msgstr="Please select a rule and then delete!" />
+  <message msgid="pf_deleteRuleConfirm" msgstr="Are you sure to delete the selected rule?" />
+  
+  <message msgid="Refresh" msgstr="Refresh" />
+  <message msgid="wDhcpCon_ip_title" msgstr="IP Address" />
+  <message msgid="wDhcpCon_mask_title" msgstr="Subnet Mask" />
+  <message msgid="wDhcpCon_gateway_title" msgstr="Default Gateway" />
+  <message msgid="wDhcpCon_priDNS_title" msgstr="Primary DNS Server" />
+  <message msgid="wDhcpCon_secDNS_title" msgstr="Secondary DNS Server" />
+  <message msgid="wPppoe_connect" msgstr="Connected" />
+  <message msgid="wPppoe_disconnect" msgstr="Disconnect" />
+  <message msgid="wPppoeCon_status_title" msgstr="State" />
+  <message msgid="wPppoeCon_ip_title" msgstr="IP Address" />
+  <message msgid="wPppoeCon_mask_title" msgstr="Subnet Mask" />
+  <message msgid="wPppoeCon_gateway_title" msgstr="Default Gateway" />
+  <message msgid="wPppoeCon_priDNS_title" msgstr="Primary DNS Server" />
+  <message msgid="wPppoeCon_secDNS_title" msgstr="Secondary DNS Server" />
+  
+  <message msgid="wPppoeCon_userTips" msgstr=" (You can input 1-31 characters)" />
+  <message msgid="wPppoeCon_pwdTips" msgstr=" (You can input 1-31 characters)" />
+  <message msgid="wPppoeCon_userTips_63" msgstr=" (You can input 1-63 characters)" />
+  <message msgid="wPppoeCon_pwdTips_63" msgstr=" (You can input 1-63 characters)" />
+  <message msgid="wPppoeCon_retryPeriod_title" msgstr="Keep Alive Mode: Retry Period" />
+  <message msgid="wPppoeCon_retryPeriod_tips" msgstr="Seconds (30-60000)" />
+  
+  <message msgid="wPppoeAuthTypeTitle" msgstr="Authentication Type" />
+  <message msgid="wPppoeConnTriggerTitle" msgstr="Connection Trigger" />
+  
+  <message msgid="wPppoeCon_userNullAlert" msgstr="Please input user name!" />
+  <message msgid="wPppoeCon_pwdNullAlert" msgstr="Please input password!" />
+  <message msgid="wPppoeCon_retryPeriodIllegalAlert" msgstr="Retry Period is illegal! Please input 10-99999! " />
+  <message msgid="wPppoeCon_pwdmismatch" msgstr="Password mismatched!" />  
+  <message msgid="wPppoeCon_noretryperiod" msgstr="Please specify retry period" />  
+  <message msgid="pppoe_accout" msgstr="PPPoE Accout" /> 
+  <message msgid="pppoe_prompt" msgstr="You could modify PPPoE accout on this page!" /> 
+  
+  <message msgid="wan static mode" msgstr="Static Mode" />
+  <message msgid="wan dhcp mode" msgstr="DHCP Mode" />
+  <message msgid="wan pppoe mode" msgstr="PPPoE Mode" />
+  <message msgid="wan l2tp mode" msgstr="L2TP Mode" />
+  <message msgid="wan pptp mode" msgstr="PPTP Mode" />
+  <message msgid="wan 3G mode" msgstr="3G Mode" />
+  <message msgid="wan 3G modem" msgstr="USB 3G Modem" />
+  <message msgid="wan address mode" msgstr="Address Mode" />
+  <message msgid="wan address mode static" msgstr="Static" />
+  <message msgid="wan address mode dynamic" msgstr="Dynamic" />
+
+  <message msgid="wan mac clone" msgstr="MAC Clone" />
+  
+  <message msgid="wan_noXMLHTTP" msgstr="Cannot create an XMLHTTP instance." />
+  <message msgid="wan_nomac" msgstr="Cannot get the MAC address." />
+  <message msgid="wan_IPempty" msgstr="Error! IP address is empty." />
+  <message msgid="wan_mask_illegal" msgstr="Subnet mask is illegal!" />  
+  <message msgid="wan_ip_illegal" msgstr="IP address is illegal!" />  
+
+  <message msgid="lan_prompt" msgstr="You may enable/disable DHCP functions and configure networking parameters as your wish, and it will take effect after restarting." />
+  <message msgid="lan setup" msgstr="LAN Setup" />
+  <message msgid="lan stp" msgstr="NAT" />
+  <message msgid="lan lltd" msgstr="LLTD" />
+  <message msgid="lan igmpp" msgstr="IGMP Proxy" />
+  <message msgid="lan upnp" msgstr="UPnP" />
+  <message msgid="lan radvd" msgstr="Router Advertisement" />
+  <message msgid="lan pppoer" msgstr="PPPoE Relay" />
+  <message msgid="lan dnsp" msgstr="DNS Proxy" />
+  
+  <message msgid="lan_dns_relay" msgstr="DNS Relay" />  
+  
+  <message msgid="lan_IP_empty" msgstr="Error! IP address is empty." />
+  <message msgid="lan_mask_illegal" msgstr="Subnet mask is illegal!" />  
+  <message msgid="lan_ip_illegal" msgstr="IP address is illegal!" />  
+  <message msgid="lan_no_space" msgstr="Do not input blank space in this field" />  
+  
+  <message msgid="paramIllegalAlert" msgstr="You entered an invalid parameter!" />
+  
+  <message msgid="lan_modIPConfirm" msgstr="Please modify DHCP services configuration meanwhile to ensure that LAN IP equals DHCP services gateway, and IP and DHCP address pool on the same subnet, or it may cause network error." />
+
+  <message msgid="lan_modDhcpIPConfirm" msgstr="Please modify LAN IP configuration meanwhile to ensure that LAN IP equals DHCP services gateway, and IP and DHCP address pool on the same subnet, or it may cause network error." />
+
+  <message msgid="dhcp_prompt" msgstr="You may enable/disable DHCP functions and configure the parameters as your wish, and become effective after reboot." />   
+  <message msgid="dhcp_serviceHead" msgstr="DHCP Service" />
+  <message msgid="dhcp_typeTitle" msgstr="Type" />
+  <message msgid="dhcp_typeS" msgstr="Server" />
+  <message msgid="dhcp_relayTitle" msgstr="Server IP" />
+  <message msgid="dhcp_startTitle" msgstr="DHCP Start IP" />
+  <message msgid="dhcp_endTitle" msgstr="DHCP End IP" />
+  <message msgid="dhcp_netmaskTitle" msgstr="DHCP Subnet Mask" />
+  <message msgid="dhcp_priDnsTitle" msgstr="DHCP Primary DNS" />
+  <message msgid="dhcp_secDnsTitle" msgstr="DHCP Secondary DNS" />
+  <message msgid="dhcp_gatewayTitle" msgstr="DHCP Default Gateway" />
+  <message msgid="dhcp_timeTitle" msgstr="DHCP Lease Time" />
+  <message msgid="dhcp_hourTitle" msgstr="Hour " />
+  <message msgid="dhcp_minTitle" msgstr="Min " />
+  <message msgid="dhcp_timeTips" msgstr="( 1 min - 99 hours )" />
+  <message msgid="dhcp_IP_empty" msgstr="Error! IP address is empty." />
+  <message msgid="dhcp_mask_illegal" msgstr="Subnet mask is illegal!" />  
+  <message msgid="dhcp_ip_illegal" msgstr="IP address is illegal!" />
+  <message msgid="pf_endIPTooSmallAlert" msgstr="The start IP should not be bigger than the end IP!" />
+  
+  <message msgid="dhcp_userListPrompt" msgstr="Display information about DHCP client, include IP address, MAC address and lease." />
+  <message msgid="dhcp_userListHead" msgstr="DHCP Clients List" />
+  <message msgid="dhcp_hostnameTitle" msgstr="Hostname" />
+  <message msgid="dhcp_macTitle" msgstr="MAC" />
+  <message msgid="dhcp_ipTitle" msgstr="IP" />
+  <message msgid="dhcp_hiredTimeTitle" msgstr="Leased Time" />
+  <message msgid="dhcp_StatusTitle" msgstr="Status" />
+  <message msgid="dhcp_getRstPrompt" msgstr="Sorry, acquire data failed! Please check connections and try again." />
+
+  <message msgid="dhcp title" msgstr="DHCP Client List" />
+  <message msgid="dhcp introduction" msgstr="You could monitor DHCP clients here." />
+  <message msgid="dhcp clients" msgstr="DHCP Clients" />
+  <message msgid="dhcp expire" msgstr="Expires in" />
+  <message msgid="DHCP Lease Time is illegal." msgstr="DHCP lease time is illegal." />
+
+  <message msgid="dhcpv6_portband_prompt" msgstr="You could configurate DHCPv6 port banding here." />
+  <message msgid="dhcp_portband_prompt" msgstr="You could configurate DHCP port banding here." />
+  <message msgid="DHCP_FE_title" msgstr="LAN Binding" />
+  <message msgid="DHCP_SSID_title" msgstr="SSID Binding" />
+
+  <message msgid="WANListHead" msgstr="WAN List" />
+  <message msgid="WAN_nameTitle" msgstr="WAN Name" />
+  <message msgid="WAN_ipmode" msgstr="WAN IP Mode" />
+  <message msgid="wan_servicetypeTitle" msgstr="Service Type" />
+  <message msgid="wan_connectionTypeTitle" msgstr="Connection Type" />
+  <message msgid="wan_priorityTitle" msgstr="Priority" />
+  <message msgid="nat_typetitle" msgstr="NAT Type" />
+  <message msgid="wan_FE_title" msgstr="LAN Binding" />
+  <message msgid="wan_SSID_title" msgstr="SSID Binding" />
+  <message msgid="wan_SSID_24g_title" msgstr="2.4G SSID Binding" />
+  <message msgid="wan_SSID_5g_title" msgstr="5G SSID Binding" />
+  <message msgid="WAN_VIDtitle" msgstr="VID/Priority" />
+  <message msgid="wConnType_bridge" msgstr="Bridge" />
+  <message msgid="wConnType_route" msgstr="Route" />
+
+  <message msgid="vlan_modeTitle" msgstr="VLAN Mode" />
+  <message msgid="vlan_vlan_trans_tip" msgstr="VLAN Transparent" />
+  <message msgid="vlan_all_trans_tip" msgstr="All Transparent" />
+  
+  <message msgid="wan_enabletitle" msgstr="Enable" />
+  <message msgid="wan_disabletitle" msgstr="Disable" />
+  
+  <message msgid="mtu_1492" msgstr=" (1280-1492)" />
+  <message msgid="mtu_1500" msgstr=" (1280-1500)" />
+
+  <message msgid="option125_textTitle" msgstr="Option125 Value" />
+  <message msgid="Option60value_title" msgstr="Option60 Value" />
+  <message msgid="option60_startTitle" msgstr="Option 60 Start IP" />
+  <message msgid="option60_endTitle" msgstr="Option 60 End IP" />
+  <message msgid="Option125 value is illegal!" msgstr="Option125 value is illegal!" />
+  
+  <message msgid="VID_IllegalAlert" msgstr="VID is illegal!" />
+  <message msgid="priority_IllegalAlert" msgstr="VLAN priority is illegal!" />
+  <message msgid="this wan mode have exist!" msgstr="This WAN mode already exists!" />
+
+  <message msgid="pppoeMode_title" msgstr="PPPoE Mode" />
+  <message msgid="wPppoe_static" msgstr="Static" />
+  <message msgid="wPppoe_dynamic" msgstr="Dynamic" />
+  <message msgid="wppp_outtimeTitle" msgstr="Timeout" />
+  <message msgid="manual_connect" msgstr="Connect" />
+  <message msgid="manual_disconnect" msgstr="Disconnect" />
+  
+
+  <message msgid="diagnosis_prompt" msgstr="On this page, you could do network diagnosis." />
+  <message msgid="diagnosis_ping_prompt" msgstr="On this page, you could do ping diagnosis." />
+  <message msgid="ping_ip_title" msgstr="Destination Address" />
+  <message msgid="diagnosis_ipIllegalAlert" msgstr="Please input IP or domain name!" />
+  
+  <message msgid="tracert_prompt" msgstr="On this page, you could do traceroute diagnosis." />
+  <message msgid="diagnosis_interface_title" msgstr="Interface" />
+  <message msgid="diagnosis_times_title" msgstr="Repeated Times" />
+  <message msgid="diagnosis_apply" msgstr="Diagnosis" />
+  <message msgid="diagnosisTimesNullAlert" msgstr="Please input diagnosis times!" />
+  <message msgid="diagnosisTimesIllegalAlert" msgstr="Please input a valid number!" />
+ 
+  <message msgid="ipv6Alert" msgstr="Please input IPv6 address!" />
+  <message msgid="ipv6prefixAlert" msgstr="Please input IPv6 prefix!" />
+  <message msgid="ipv6dnsAlert" msgstr="Please input IPv6 first DNS!" />
+  <message msgid="ipv6GWAlert" msgstr="Please input IPv6 gateway!" />
+  <message msgid="ipv6AFTRAlert" msgstr="Please input AFTR!" />
+  <message msgid="wIP_mode_title" msgstr="IP Mode" />
+  <message msgid="AFTRType1" msgstr="AFTR Manual" />
+  <message msgid="Prefix_mode" msgstr="Prefix Delegate" />
+  <message msgid="Prefix_value_title" msgstr="IPv6 Prefix" />
+  <message msgid="v6len_IllegalAlert" msgstr="IPv6 prefix length should be 1-64!" />
+  <message msgid="v6len_128_IllegalAlert" msgstr="IPv6 prefix length should be 1-128!" />
+  <message msgid="tr069Wan_exist_alert" msgstr="TR069 associated WAN link exists already!" />
+  <message msgid="port_band_alert" msgstr="Please bind port!" />
+  <message msgid="voip_wan_alert" msgstr="This device has no VoIP port, so VoIP related WAN should not be selected." />
+  <message msgid="wPppoepasv" msgstr="Time-connect pasv chap" />
+  <message msgid="this VID have exist!" msgstr="The VID you inputed has already been used! Please confirm and try again!" /> 
+  <message msgid="ipv6_IllegalAlert" msgstr="Ipv6 IP is illegal!" />
+  <message msgid="ipv6prefix_IllegalAlert" msgstr="Ipv6 prefix is illegal!" />
+  <message msgid="ipv6prefix_same_IllegalAlert" msgstr="The contents of Ipv6 prefix before the symbol '/'should not be the same with IPv6 ip/gateway/dns!" />
+  <message msgid="ipv6GW_IllegalAlert" msgstr="Ipv6 gateway is illegal!" />
+  <message msgid="ipv6dns_IllegalAlert" msgstr="Ipv6 dns is illegal!" />
+  <message msgid="ipv6dns_same_IllegalAlert" msgstr="Ipv6 primary dns and secondary dns can not be the same!" />
+  <message msgid="prefix_length_prompt" msgstr=" (such as 2001:a::/64, prefix length:(48-64))" />
+  <message msgid="v6len_64_Alert" msgstr="IPv6 prefix length should be 64!" />
+  <message msgid="ipv6_mask_Alert" msgstr="IPv6 address should not be a network segment!" />
+  
+  <message msgid="wan_internetRepeatAlert" msgstr="Internet related WAN links already exist!" />
+  <message msgid="wan_RepeatAlert" msgstr="Relevant WAN links already exist!!" />
+  <message msgid="wan_portBindedAlert" msgstr="The port is already bound." />
+  <message msgid="TR069_wan_RepeatAlert" msgstr="TR069 WAN links already exist!!" />
+  <message msgid="INTERNET_TR069_wan_RepeatAlert" msgstr="INTERNET_TR069 WAN links already exist!!" />
+  <message msgid="INTERNET_VOIP_wan_RepeatAlert" msgstr="INTERNET_VOIP WAN links already exist!!" />
+  <message msgid="VOIP_wan_RepeatAlert" msgstr="VOIP WAN links already exist!!" />
+  <message msgid="INTERNET_R_wan_RepeatAlert" msgstr="INTERNET Route WAN links already exist!!" />
+  <message msgid="TR069_VOIP_wan_RepeatAlert" msgstr="TR069_VOIP WAN links already exist!!" />
+  <message msgid="TR069_VOIP_INTERNET_wan_RepeatAlert" msgstr="TR069_VOIP_INTERNET WAN links already exist!!" />
+  <message msgid="IPTV_wan_RepeatAlert" msgstr="IPTV WAN links already exist!!" />
+
+  <message msgid="natsession_prompt" msgstr="You could view NAT IP and port mapping between inside and outside network on this page." />
+  <message msgid="nat_listHead" msgstr="NAT Session" />
+  
+  <message msgid="validationError" msgstr="Verification code error!" />
+
+  <message msgid="cpu_port_mirror_prompt" msgstr="You could configure CPU Port Mirror on this page. " />
+  <message msgid="mirror_title" msgstr="Source Port" />
+  <message msgid="mirror_d_title" msgstr="Destination Port" />
+  <message msgid="direction_title" msgstr="Direction" />
+  <message msgid="up_title" msgstr="Up" />
+  <message msgid="down_title" msgstr="Down" />
+  <message msgid="both_title" msgstr="Both" />
+  <message msgid="lan_port_mirror_prompt" msgstr="You could configure up/down date Port Mirror to LAN on this page. " />
+  
+  <message msgid="lan_mirror_up_title" msgstr="Up" />
+  <message msgid="lan_mirror_down_title" msgstr="Down" />
+  
+  <message msgid="alg_prompt" msgstr="You could configure ALG on this page. " />
+  <message msgid="alg_head" msgstr="ALG Setting" />
+  
+  <message msgid="rebootAlert" msgstr="Please reboot to apply!" />
+
+  <message msgid="IPTV_Multicast_RepeatAlert" msgstr="IPTV wan already exist, you can't config multiscreen wan." />
+ <message msgid="Multicast_IPTV_RepeatAlert" msgstr="Multiscreen wan already exist, you can't config IPTV wan." />	
+  <message msgid="tr069_wan_alert" msgstr="Please make sure that there is one TR069 WAN links." />
+  
+  <message msgid="lan_mac_prompt" msgstr="On this page, you can config the maximum number of MAC connections for each LAN port." />
+  <message msgid="lanMacLimitIllegalAlert" msgstr="Please enter a valid maximum number of connections." />
+  <message msgid="lanMacLimitSumIllegalAlert" msgstr="The sum of the maximum number of connections for all LAN ports need be less than or equal to the maximum number of MAC connections for the ONU." />
+
+  <message msgid="portLayerConfig_confirm" msgstr="The device will be restarted after the port configuration is changed. Please log in to the web system again. Are you sure to config?" />
+  <message msgid="rebooting" msgstr="System is rebooting... Please wait for a moment and relogin after reboot." />
+</po>

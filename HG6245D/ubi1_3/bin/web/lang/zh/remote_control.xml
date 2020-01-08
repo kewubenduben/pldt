@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="recontrol_prompt" msgstr="您可以开启或者关闭远程访问设备：关闭远程访问控制，以使外网无法访问web；或者开启远程访问控制，以使外网可以访问web。" />
+  <message msgid="recontrol_prompt_romania" msgstr="在本页面，您可以开启或者关闭从https远程访问设备的权限。" />
+  <message msgid="rcEnable_title" msgstr="远程访问控制" />
+  
+  <message msgid="rc_enable" msgstr="开启" />
+
+  <message msgid="rc_disable" msgstr="关闭" />
+  
+  <message msgid="recontrolApply" msgstr="提交" />
+  <message msgid="recontrolCancel" msgstr="取消" />
+
+  <message msgid="https_prompt" msgstr="您可以在本页面开启或者关闭HTTPS功能。设备重启生效。" />
+  
+  <message msgid="webport_Prompt" msgstr="另外，您可以配置WEB的HTTP通信端口。设备重启生效。" />
+  <message msgid="web_portTitle" msgstr="当前生效的WEB通信端口" />
+  <message msgid="web_portchangeTitle" msgstr="您所修改的WEB通信端口" />
+  <message msgid="web_portchangeTips" msgstr="(请输入 1024-65535 或 80)" />
+  <message msgid="Change_confirm" msgstr="您修改的配置在设备重启后生效!" />
+  <message msgid="web_portIllegalAlert" msgstr="有效端口范围:1024-65535、80" />
+  <message msgid="web_PortNullAlert" msgstr="请输入端口!" />
+</po>
+

@@ -1,0 +1,11 @@
+<po>
+  <message msgid="IPSEC basic apply" msgstr="Apply" />
+  <message msgid="IPSEC basic cancel" msgstr="Cancel" />
+  
+  <message msgid="IPSEC_prompt" msgstr="On this page, you could configure IPSec passthrough switch." />
+
+  <message msgid="IPSECEnable_title" msgstr="IPSec" />
+  
+  <message msgid="IPSEC_enable" msgstr="Enable" />
+  <message msgid="IPSEC_disable" msgstr="Disable" />
+</po>

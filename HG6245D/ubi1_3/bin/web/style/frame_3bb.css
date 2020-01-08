@@ -1,0 +1,235 @@
+/*
+ *	Frame Style
+ *	主页框架样式表	
+ */
+body {
+    background-color: #FAFFFF;
+}
+div#load {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: #EDEDED;
+	opacity: 0.5;
+	z-index: 999;
+}
+div#main {
+	width: 955px;
+	margin: 0px auto;
+}
+
+/* header */
+div#main div#header {
+	height: 76px;
+}
+div#main div#header div#headerLogoImg {
+	float: left;
+	height: 70px;
+	width: 144px;
+}
+div#main div#header div#headerContent {
+	float: left;
+	height: 70px;
+	width: 811px;
+}
+div#main div#header div#headerContent div#headerInfo {
+	height: 45px;
+}
+div#main div#header div#headerContent div#headerInfo div {
+	float: left;
+	width: 405px;
+	height: 45px;
+	line-height: 45px;
+	font-family: Tahoma;
+}
+div#main div#header div#headerContent div#headerInfo div#headerTitle {
+	color: #505050;
+	text-align: left;
+	font-size: 25px;
+	font-weight: bold;
+}
+div#main div#header div#headerContent div#headerInfo div#headerLogout {
+	text-align: right;
+	font-size: 12px;
+}
+div#main div#header div#headerContent div#headerInfo div#headerLogout span {
+	margin-right: 20px;
+	cursor: pointer;
+	color: #000000;
+	font-weight: bold;
+}
+div#main div#header div#headerContent div#headerTab {
+	height: 25px;
+	clear: both;
+	line-height: 25px;
+}
+div#main div#header div#headerContent div#headerTab ul {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+div#main div#header div#headerContent div#headerTab ul li {
+	height: 25px;
+	float: left;
+	cursor: pointer;
+	font-weight: bold;
+	margin: 0px 3px;
+}
+div#main div#header div#headerContent div#headerTab ul li div {
+	float: left;
+}
+div#main div#header div#headerContent div#headerTab ul li div.tabBtnLeft {
+	width: 10px;
+	height: 25px;
+	clear: both;
+}
+div#main div#header div#headerContent div#headerTab ul li div.tabBtnCenter {
+	height: 25px;
+    width: 40px;
+    text-align: center;
+	color: #000000;
+}
+div#main div#header div#headerContent div#headerTab ul li div.tabBtnRight {
+	width: 10px;
+	height: 25px;
+}
+div#main div#header div#headerContent div#headerTab ul li.hover div.tabBtnLeft {
+	width: 10px;
+	height: 25px;
+	clear: both;
+	background-image: url(../images/menuSide.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+div#main div#header div#headerContent div#headerTab ul li.hover div.tabBtnCenter {
+	height: 25px;
+	color: #FFFFFF;
+	background: #175CA0;
+	-moz-border-radius: 5px 5px 0 0;
+	background-image: url(../images/menuBg.gif);
+	background-repeat: repeat-x;
+}
+div#main div#header div#headerContent div#headerTab ul li.hover div.tabBtnRight {
+	width: 10px;
+	height: 25px;
+	background-image: url(../images/menuSide.gif);
+	background-repeat: no-repeat;
+	background-position: -10px 0px;
+}
+div#main div#header div#headerContent div#headerTab ul li{
+    float: left;
+    text-align: center;
+    width: 110px;
+	font-weight: bold;
+	height: 30px;
+	line-height: 30px;
+	cursor: pointer;
+}
+div#main div#header div#headerContent div#headerTab ul li.selected{
+	color: #FFF;
+	background: #216F6F;
+	-moz-border-radius: 5px 5px 0 0;
+}
+div#main div#header div#headerSpace {
+	height: 6px;
+	clear: both;
+	line-height: 6px;
+	background-color: #216F6F;
+}
+/* end header */
+
+/* center */
+div#main div#center {
+	height: 470px;
+}
+div#main div#center div#nav {
+	width: 220px;
+	height: 495px;
+	float: left;
+	background-color: #F6F6F6;
+}
+div#main div#center div#nav ul {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+div#main div#center div#nav ul li.subMenu div {
+	width: 210px;
+	height: 25px;
+	color: #FFFFFF;
+	cursor: pointer;
+	line-height: 25px;
+	font-weight: bold;
+	margin-bottom: 1px;
+	padding-left: 10px;
+	background-color: #216F6F;
+}
+div#main div#center div#nav ul li.hover div {
+	font-weight: bold;
+	cursor: pointer;
+}
+div#main div#center div#nav ul li.subMenu ul li.sub2Menu div {
+    width: 200px;
+	height: 25px;
+	color: #FFFFFF;
+	cursor: pointer;
+	line-height: 25px;
+	margin-bottom: 1px;
+	padding-left: 20px;
+    color: #274F85;
+    font-weight: normal;
+	background-color: #E3F5F5;
+}
+div#main div#center div#nav ul li.subMenu ul li.hover div {
+    color: #274F85;
+    font-weight: bold;
+}
+
+div#main div#center div#content {
+	float: left;
+	width: 735px;
+	height: 470px;
+	background-color: #DBF7F7;;
+}
+div#main div#center div#content div#topNav {
+	height: 25px;
+	color: #000000;
+	line-height: 25px;
+	padding-left: 10px;
+	background-color: #CEE5E5;
+}
+div#main div#center div#content div#frameWarpContent {
+	height: 470px;
+}
+/* end center */
+
+/* footer */
+div#main div#footer {
+	clear: both;
+	height: 25px;
+	color: #434343;
+	text-align: center;
+	background-color: #BFD6D6;
+}
+div#main table {
+	height: 100%;
+	margin: 0px auto;
+}
+div#main div#footer #footerLogo {
+	height: 25px;
+	width: 40px;
+}
+div#main div#footer #footerText {
+	color: #434343;
+	font-size: 12px;
+}
+/* end footer */
+
+/* fresh */
+div#main div#fresh {
+	display: none;
+}
+/* end fresh */
+

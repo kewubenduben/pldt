@@ -1,0 +1,13 @@
+<po>
+  <message msgid="iptv_prompt" msgstr="On this page, you could configure the multicast VLAN." />
+
+  <message msgid="iptv_infoHead" msgstr="Multicast Info" />
+  <message msgid="iptv_vlanTitle" msgstr="Multicast VLAN" />
+  <message msgid="iptv_vlanTips" msgstr="(Please enter the number -1 or 1 to 4094)" />
+  
+  <message msgid="iptv_apply" msgstr="Apply" />
+  <message msgid="iptv_cancel" msgstr="Cancel" />
+
+  <message msgid="iptv_vlanIllegalAlert" msgstr="Multicast VLAN range is -1 and 1 to 4094." />
+ 
+</po>

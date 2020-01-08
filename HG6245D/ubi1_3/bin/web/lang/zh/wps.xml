@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="WPSconnect" msgstr="连接" />
+  <message msgid="WPSCancel" msgstr="取消" />
+  <message msgid="wps_apply" msgstr="应用" />
+
+  <message msgid="wps_prompt" msgstr="您可以在这里配置WPS. " />
+  <message msgid="WPS_enable_head" msgstr="WPS使能" />
+  <message msgid="wps_enable_title" msgstr="打开" />
+  <message msgid="wps_disable_title" msgstr="关闭" />
+  <message msgid="WPS_cfg_head" msgstr="WPS配置" />
+  <message msgid="wps_statetitle" msgstr="WPS状态" />
+  <message msgid="wps_PINtitel" msgstr="请输入PIN码." />
+  <message msgid="Please enter pin code!" msgstr="请输入PIN码!" />
+  <message msgid="PIN code is illegal!" msgstr="您输入的PIN码不合法" />
+  <message msgid="wps_PINTips" msgstr="请输入数字0-9(8位字符)." />
+  <message msgid="wps_PINer" msgstr="PIN码" />
+  <message msgid="wps_buttontitel" msgstr="请打开设备开关." />
+  <message msgid="wps_nopinalert" msgstr="请输入PIN码!" />
+  <message msgid="wps_pinillegal" msgstr="PIN码非法!" />
+  <message msgid="Connecting" msgstr="连接中" />
+  <message msgid="Time_Out" msgstr="超时" />
+  <message msgid="connection_Successful" msgstr="连接成功" />
+  <message msgid="connection_fail" msgstr="连接失败" />
+
+  <message msgid="wps_PIN1_prompt" msgstr="(你可以输入数字0-9(8位字符))" />
+  <message msgid="wps_bandSelec_head" msgstr="WPS频段切换" />
+  
+</po>
+
+

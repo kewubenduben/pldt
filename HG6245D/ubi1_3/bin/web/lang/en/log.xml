@@ -1,0 +1,19 @@
+<po>
+  <message msgid="log_prompt" msgstr="You can view log on this page." />
+  <message msgid="log_download" msgstr="Download" />
+  <message msgid="log_listHead" msgstr="Log Information" />
+  <message msgid="log_downloaderroralert" msgstr="Download Error!" />
+
+  <message msgid="log_apply" msgstr="Apply" />
+  <message msgid="log_cancel" msgstr="Cancel" />
+  
+  <message msgid="logcfg_prompt" msgstr="On this page, you can config web log enable/disable and log level." />
+  <message msgid="log_title" msgstr="LOG" />
+  <message msgid="logEnableTitle" msgstr="Enable" />
+  <message msgid="logDisableTitle" msgstr="Disable" />
+  <message msgid="logLevelTitle" msgstr="Log Level" />
+  
+  <message msgid="log_debugPrompt" msgstr="You can view debug log on this page." />
+  <message msgid="log_debugListHead" msgstr="Debug Log Information" />
+</po>
+

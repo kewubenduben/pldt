@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="restore_prompt" msgstr="On this page, you may restore several device configuration." />  
+  <message msgid="restore_apply" msgstr="Restore" />  
+  <message msgid="restore_confirm" msgstr="If you restore the default configuration, your private configuration will be lost. You sure you want to restore the default configuration?" />
+  <message msgid="adminRestore_prompt" msgstr="On this page, you may restore all device configuration." />  
+  <message msgid="adminRestore_apply" msgstr="RestoreAll" />  
+
+  <message msgid="restoreSuccessInfo" msgstr="Restore Success! " />
+  <message msgid="restoreFailedInfo" msgstr="Restore failed! " />
+  <message msgid="restorerequestproblem" msgstr="There was a problem with the request." />
+
+  <message msgid="reboot_Prompt" msgstr="On this page, you can reboot the device by clicking the button below." />
+  <message msgid="reboot_apply" msgstr="Reboot" />
+  <message msgid="reboot_confirm" msgstr="It takes some time to reboot the device, and Web-based network management system will automatically disconnect. Please log in again later! Sure you want to reboot the device?" />
+
+ <message msgid="restore_aount_confirm" msgstr="DO you confirm reset the account of web? the account of web will be restore to the default value if you confirm." />
+ <message msgid="reset_acount_prompt" msgstr="On this page, you can reset the account of web to the default value." />
+ <message msgid="reset_acount_apply" msgstr="reset web account" />
+ 
+ <message msgid="div_rebootingHead" msgstr="Rebooting..." />
+ <message msgid="rebooting" msgstr="System is rebooting... Please wait for a moment and relogin after reboot." />
+ <message msgid="reset_prompt" msgstr="On this page, you may reset several device configuration." />  
+ <message msgid="reset_apply" msgstr="Reset" />
+ <message msgid="reset_confirm" msgstr="If you reset the default configuration, your private configuration will be lost. You sure you want to reset the default configuration?" />
+
+  <message msgid="resetFailedInfo" msgstr="Reset failed! " />
+  <message msgid="resetSuccessInfo" msgstr="Reset Success! " />
+</po>
+

@@ -1,0 +1,350 @@
+/* CSS Document */
+
+/* stylesheet for login page */
+body{
+	padding: 0 auto; 
+	margin: 0;
+  width: 100%;
+  height: 100%; 
+}
+
+::-ms-clear,::-ms-reveal{
+  display: none;
+}
+
+/* default css style replace bootstrap */
+.container-fluid {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.container-fluid:before,
+.container-fluid:after{
+	display: table;
+    content: " ";
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.content-left {
+    /* width: 50%; */
+    width:445px;
+    height: 283px;
+    float: left;
+    position: relative;
+    left: 760px;
+    /* display: table; */
+    display: inline-block;
+}
+.content-offset {
+    /*margin-left: 8.33333%;*/
+    margin-left: 74px;
+}
+.content-right {
+    /* width: 41.6667%; */
+    width: 371px;
+    /* display: table; */
+    display: inline-block;
+    position: relative;
+}
+
+.form-control {
+  /* display: block; */
+  /* padding: 6px 12px; */
+  font-size: 14px;
+  line-height: 1.42857143;
+  background-image: none;
+  border-radius: none;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+/* .form-control:focus {
+  border-color: green;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
+          box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
+} */
+.form-control::-moz-placeholder {
+  color: #999;
+  opacity: 1;
+}
+.form-control:-ms-input-placeholder {
+  color: #999;
+}
+.form-control::-webkit-input-placeholder {
+  color: #999;
+}
+.form-control[disabled],
+.form-control[readonly],
+fieldset[disabled] .form-control {
+  background-color: #eee;
+  opacity: 1;
+}
+.form-control[disabled],
+fieldset[disabled] .form-control {
+  cursor: not-allowed;
+}
+textarea.form-control {
+  height: auto;
+}
+
+
+*::before, *::after {
+    box-sizing: border-box;
+}
+
+.btn{
+    -moz-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857;
+    margin-bottom: 0;
+    padding: 12px 12px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    border-color: #39ba93;
+	border-radius: 0px 0px 6px 6px;
+}
+
+.login_bg{
+  min-width: 1366px;
+  width:100%;
+  /*height: 800px;*/
+  height:100%;
+  margin-left: auto; 
+  margin-right: auto;
+  background-image: url(../images/main_bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='../images/main_bg.png',
+    sizingMethod='scale');
+}
+
+.logo{
+    width: 220px;
+    margin-left: 175px;
+    margin-top: 33px;
+    width: 220px;
+    position: absolute;
+  }
+.line {
+    margin-top: 9%;
+    overflow: hidden;
+    *position: absolute;
+    /* height:800px; */
+    /* width:1366px; */
+}
+
+.line table{
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.login_block{
+	width: 860px;
+	height: 280px;
+	padding-top: 9%;
+	color: white;
+	margin-left: 22%;
+}
+
+#login_username{
+	background: white no-repeat scroll right center;
+  width: 216px;
+}
+
+#login_password_show.filled{
+	background: white url("../images/login/eye_close.png") no-repeat scroll right center;
+}
+#login_password_show.filled.open{
+  background: white url("../images/login/login_password-2.png") no-repeat scroll right center;
+}
+.login-block{
+	border-radius: 4px;
+	width: 260px;
+	height: 40px;
+	line-height: 36px;
+	display: block;
+	margin-bottom: 15px;
+	border: 1px solid #dbdbdb;
+}
+.login-block input:focus{
+  outline:0px;
+}
+
+.login-block-focused{
+  border-color: #39ba93;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
+          box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, .6);
+  border-radius: 4px;
+  
+}
+
+.login_block input[type="submit"]{
+	background-color: #39ba93;
+	width: 300px;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+	color: white;
+}
+.login_block input[type="submit"]:disabled{
+	background-color: gray;
+	cursor: default;
+  border: 1px solid gray;
+}
+.login-input{
+	width:260px;
+	background-color: #DDEAF1;
+	min-height: 111px;
+  	height: auto;
+	padding: 10px 20px 10px 20px;
+	border-radius: 6px 6px 0px 0px;
+}
+
+.login-input input{
+	/* margin-bottom: 14px; */
+	margin-left: 36px;
+  width: 180px;
+	border: none;
+	height: 32px;
+  top: 0;
+  vertical-align: top;
+}
+
+/*for  login step 2 */
+#login_WIFI_password.filled{
+  background: white url("../images/login/eye-open.png") no-repeat scroll right center;
+}
+/*for  login step 3 */
+
+#copyright_div{
+	color: white;
+    font-size: 14px;
+    font-weight: bold;
+    left: 500px;
+    position: absolute;
+   	bottom: 60px;
+}
+
+.error{
+	color: #FF0000;
+	font-weight: normal;	
+	text-align: center;	
+	font-size: 20px;
+}
+
+.span_error{
+	position: absolute;
+	left: 30px;
+	top: 310px;
+}
+.login-input label {
+    font-size: 14px;
+}
+
+.step-block{
+    border: medium none;
+    height: 90px;
+    line-height: 21px;
+    margin: 0 auto;
+	background-image: url(../images/login/romania_logo.png);
+	background-repeat: no-repeat;
+	background-position: 5px 30px;
+}
+
+.conf-block{
+    margin: 0 265px;
+    width: 450px;
+    height: 450px;
+    position: absolute;
+}
+
+.conf-content{
+  width: 150;
+  height: 280px;
+  margin: 0 80px 0 80px;
+  padding-top: 32px;
+  text-align: center;
+  position: relative;
+}
+
+.conf-content span{
+  font-size: 14px;
+  color: white;
+  font-family: "Microsoft YaHei";
+}
+
+.round-bg{
+  width: 400px;
+  height: 400px;
+  margin-left: 20px;
+  border-radius: 50%;
+  border: none;
+  position: absolute;
+  background-image: url("../images/login/bg_round_b.png");
+}
+
+.round-content{
+  width: 320px;
+  height:320px;
+  margin-left: 60px;
+  margin-top: 40px;
+  border-radius: 50%;
+  background-image: url("../images/login/bg_round_s.png");
+  *background-image: url("../images/login/bg_round_s_IE.png");
+  background-image: url("../images/login/bg_round_s_IE.png")\0;
+  *position: absolute;
+}
+
+.conf-notice{
+  text-align: center;
+  margin-top: 50px;
+  *margin-top: 400px;
+  *position:  absolute;
+  *width: 100%;
+}
+
+.conf-notice span{
+   font-size: 16px;
+   font-family: "Microsoft YaHei";
+   color: white;
+}
+
+
+.pwd-show-switch{
+    width: 36px;
+    height: 36px;
+    position: absolute;
+}
+
+#wifi_password_show{
+  background: white url("../images/login/WIFI_password_1.png") no-repeat scroll right center;
+}
+
+#wifi_password_show.filled.open{
+  background: white url("../images/login/eye-open.png") no-repeat scroll right center;
+}
+
+#band_password_show{
+  background: white url("../images/login/eye_close.png") no-repeat scroll right center;
+}
+#band_password_show.filled.open{
+  background: white url("../images/login/login_password-2.png") no-repeat scroll right center;
+}

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+	  <message msgid="lanstate_prompt" msgstr="您可以在本页面查询LAN接口状态。" />
+	  <message msgid="lState" msgstr="LAN状态" />
+	  <message msgid="lanIp" msgstr="IP地址" />
+	  <message msgid="lanNetmask" msgstr="LAN子网掩码" />
+	  <message msgid="Lan_PortTitle" msgstr="LAN" />
+	  <message msgid="Servicetitle" msgstr="服务类型" />
+	  <message msgid="Statustitle" msgstr="状态" />
+	  <message msgid="lanIpv6" msgstr="IPv6地址" />
+	  
+	  <message msgid="wanstate_prompt" msgstr="您可以在本页面查询WAN接口状态。" />
+	  <message msgid="wConnectionType" msgstr="连接类型" />
+	  <message msgid="wStaticMode" msgstr="静态模式" />
+	  <message msgid="wStaticIp" msgstr="IP地址" />
+	  <message msgid="wStaticNetmask" msgstr="子网掩码" />
+	  <message msgid="wStaticGateway" msgstr="默认网关" />
+	  <message msgid="wStaticPriDns" msgstr="主DNS服务器" />
+	  <message msgid="wStaticSecDns" msgstr="备用DNS服务器" />
+
+	  <message msgid="wDhcpCon_ip_title" msgstr="IP地址" />
+	  <message msgid="wDhcpMode" msgstr="DHCP模式" />
+	  <message msgid="wDhcpCon_mask_title" msgstr="子网掩码" />
+	  <message msgid="wDhcpCon_gateway_title" msgstr="默认网关" />
+	  <message msgid="wDhcpCon_priDNS_title" msgstr="主DNS服务器" />
+	  <message msgid="wDhcpCon_secDNS_title" msgstr="备用DNS服务器" />
+
+	  <message msgid="lan_inforPrompt" msgstr="您可以在本页面上查看LAN口信息。" />
+	  <message msgid="lan_infor_title" msgstr="LAN信息" />
+	  <message msgid="lanport" msgstr="端口" />
+	  <message msgid="lanport_mode" msgstr="模式" />
+	  <message msgid="lanport_speed" msgstr="速率" />
+	  <message msgid="lanport_link" msgstr="状态" />
+	  <message msgid="lanport_tb" msgstr="发送字节" />
+	  <message msgid="lanport_tp" msgstr="发送包" />
+	  <message msgid="lanport_rb" msgstr="接收字节" />
+	  <message msgid="lanport_rp" msgstr="接收包" />
+	  <message msgid="lanport_errorFrames" msgstr="错误帧" />
+	  
+	  <message msgid="pon_countPrompt" msgstr="您可以在本页面上查看PON口信息。" />
+	  <message msgid="pon_infoHead" msgstr="PON信息" />
+
+	  <message msgid="wanListHead" msgstr="WAN状态" />
+	  <message msgid="wan_name" msgstr="序号" />
+	  <message msgid="wan_state" msgstr="状态" />
+	  <message msgid="wan_mode" msgstr="模式" />
+	  <message msgid="ip_mode" msgstr="IP方式" />
+	  <message msgid="wan_mask" msgstr="掩码" />
+	  <message msgid="wan_vlan" msgstr="VLAN/优先级" />
+	  <message msgid="wan_type" msgstr="连接类型" />
+	  
+	  <message msgid="wPppoeMode" msgstr="PPPoE模式" />
+	  <message msgid="wPppoeUser" msgstr="用户名" />
+	  <message msgid="wPppoeOPMode" msgstr="操作类型" />
+	  <message msgid="wPppoe_connect" msgstr="已连接" />
+	  <message msgid="wPppoe_disconnect" msgstr="断开连接" />
+	  <message msgid="wPppoeUserTimeTip" msgstr="秒" />
+	  <message msgid="wPppoeRetryTimeTip" msgstr="保持连接模式: 重试周期" />
+	  <message msgid="wPppoeCon_status_title" msgstr="状态" />
+	  <message msgid="wPppoeCon_mask_title" msgstr="子网掩码" />
+	  <message msgid="wPppoeCon_gateway_title" msgstr="默认网关" />
+	  <message msgid="wPppoeCon_priDNS_title" msgstr="首选DNS服务器" />
+	  <message msgid="wPppoeCon_secDNS_title" msgstr="备选DNS服务器" />
+	  <message msgid="wPPPOEModeKeepAlive" msgstr="保持连接" />
+	  <message msgid="wPPPOEModeManual" msgstr="手动" />
+
+	  <message msgid="optpower_prompt" msgstr="在本页面上，您可以查询光功率状态。" />
+	  <message msgid="out_power_title" msgstr="发送功率" />
+	  <message msgid="in_power_title" msgstr="接收功率" />
+	  <message msgid="temp_title" msgstr="工作温度" />
+	  <message msgid="voltage_title" msgstr="供电电压" />
+	  <message msgid="bais_title" msgstr="偏置电流" />
+	  <message msgid="powe_Inf" msgstr="光模块信息" />
+
+	  <message msgid="voipstateprompt" msgstr="在本页面上，您可以查询语音状态。" />
+	  <message msgid="NOtitle" msgstr="编号" />
+	  <message msgid="statetitle" msgstr="端口状态" />
+	  <message msgid="phoneNOtitle" msgstr="电话号码" />
+	  
+	  <message msgid="Initializingtitle" msgstr="初始化中" />
+	  <message msgid="uptitle" msgstr="注册成功" />
+	  <message msgid="Registeringtitle" msgstr="注册中" />
+ 	  <message msgid="Disabledtitle" msgstr="已注销" />
+ 	  <message msgid="Errortitle" msgstr="注册失败" />
+	  <message msgid="Unregisteringtitle" msgstr="注销中" />
+	  
+	  <message msgid="INACTIVE" msgstr="端口未激活" />
+	  <message msgid="REGING" msgstr="端口正在注册" />
+	  <message msgid="IDLE" msgstr="端口状态空闲" />
+	  <message msgid="OFF_HOOK" msgstr="端口已摘机" />
+	  <message msgid="DIALING" msgstr="端口在拨号" />
+	  <message msgid="RING" msgstr="端口正在振铃" />
+	  <message msgid="RINGBACK" msgstr="端口处于回铃音" />
+	  <message msgid="CONNECTING" msgstr="端口正在连接中" />
+	  <message msgid="CONNECTED" msgstr="端口已连接" />
+	  <message msgid="ON_HOOK" msgstr="端口已挂机" />
+	  <message msgid="DISCONNECTING" msgstr="端口正在释放连接" />
+	  <message msgid="BUSY" msgstr="端口状态忙" />
+	  <message msgid="REG_FAIL" msgstr="端口注册失败" />
+	  <message msgid="LINE_FAIL" msgstr="用户线路故障" />
+	  
+	  <message msgid="wifistate_prompt" msgstr="在本页面上，您可以查询无线网络状态。" />
+	  <message msgid="WirelessState" msgstr="无线网络状态" />
+	  <message msgid="basicRadioButton" msgstr="无线开启/关闭" />
+	  <message msgid="basicNetMode" msgstr="网络模式" />
+	  <message msgid="basicFreqA" msgstr="频段（信道）" />
+	  <message msgid="basicSSID1_title" msgstr="SSID1名" />
+	  <message msgid="basicSSID2_title" msgstr="SSID2名" />
+	  <message msgid="basicSSID3_title" msgstr="SSID3名" />
+	  <message msgid="basicSSID4_title" msgstr="SSID4名" />
+	  <message msgid="AutoSelect" msgstr="自动选择" />
+	  <message msgid="channel" msgstr="信道" />
+	  <message msgid="Enable" msgstr="开启" />
+	  <message msgid="Disable" msgstr="关闭" />
+	  <message msgid="ssid_index_title" msgstr="SSID序号" />
+	  <message msgid="ssid_name_title" msgstr="SSID名称" />
+	  <message msgid="ssid_enable_title" msgstr="SSID使能" />
+	  <message msgid="euthentication_mode_title" msgstr="安全配置" />
+	  <message msgid="encryption_mode_title" msgstr="加密模式" />
+
+	  <message msgid="deviceinf_prompt" msgstr="您可以在本页面查询设备信息。" />
+	  <message msgid="DeInf" msgstr="设备信息" />
+	  <message msgid="softver" msgstr="软件版本" />
+	  <message msgid="hardver" msgstr="硬件版本" />
+	  <message msgid="device_model" msgstr="设备型号" />
+	  <message msgid="device_descrip" msgstr="设备描述" />
+	  <message msgid="ONU_state" msgstr="ONT 注册状态" />
+	  <message msgid="CPU_rate" msgstr="CPU 使用率" />
+	  <message msgid="mem_rate" msgstr="内存使用率" />
+	  <message msgid="flash_rate" msgstr="Flash使用率" />
+	  <message msgid="server_port" msgstr="Web服务器端口号" />
+	  <message msgid="rf_power_title" msgstr="CATV射频功率" />
+	  <message msgid="catv_revpower_title" msgstr="CATV接收功率" />
+	  <message msgid="catv_enable_title" msgstr="CATV状态" />
+	  <message msgid="pon_reg_title" msgstr="PON 注册认证状态" />
+
+	  <message msgid="radio off" msgstr="关闭" />
+      <message msgid="radio on" msgstr="开启" />
+	  <message msgid="wireStateStatic" msgstr="无线包统计" />
+	  <message msgid="rpc_title" msgstr="接收包统计" />
+	  <message msgid="rbc_title" msgstr="接收字节统计" />
+	  <message msgid="rmc_title" msgstr="接收误包统计" />
+	  <message msgid="rdc_title" msgstr="接收丢包统计" />
+	  <message msgid="spc_title" msgstr="发送包统计" />
+	  <message msgid="sbc_title" msgstr="发送字节统计" />
+	  <message msgid="smc_title" msgstr="发送误包统计" />
+	  <message msgid="sdc_title" msgstr="发送丢包统计" />
+
+	  <message msgid="v6State" msgstr="IPv6状态" />
+	  <message msgid="wanIpv6" msgstr="IPv6地址" />
+	   <message msgid="wanprefix" msgstr="前缀" />
+	  <message msgid="wan_dns" msgstr="主用DNS" />
+	  <message msgid="wan_dns2" msgstr="备用DNS" />
+	  <message msgid="v6gateway" msgstr="默认网关" />
+	  <message msgid="ONU_reg_title" msgstr="认证结果" />
+
+	  <message msgid="INIT" msgstr="初始化" />
+	  <message msgid="OK" msgstr="OK" />
+	  <message msgid="LOID_ERR" msgstr="逻辑ID错误" />
+	  <message msgid="LPWD_ERR" msgstr="逻辑密码错误" />
+	  <message msgid="LOID_COLLISION" msgstr="逻辑ID冲突" />
+	  <message msgid="SN_COLLISION" msgstr="物理SN冲突" />
+	  <message msgid="NO_RESOURCE" msgstr="无资源" />
+	  <message msgid="TYPE_ERRONU" msgstr="类型错误" />
+	  <message msgid="SN_ERR" msgstr="物理SN错误" />
+	  <message msgid="PWD_ERR" msgstr="物理密码错误" />
+	  <message msgid="PWD_COLLISION" msgstr="物理密码冲突" />
+
+	  <message msgid="usbstate_prompt" msgstr="在本页面，您可以查询USB接口的使用状态。" />
+	  <message msgid="usb_state_head" msgstr="USB状态" />
+	  <message msgid="usb_interface_title" msgstr="USB接口" />
+	  <message msgid="usb_using" msgstr="使用中" />
+	  <message msgid="usb_idle" msgstr="空闲" />
+
+	  <message msgid="callhistoryprompt" msgstr="在本页面，您可以查询语音通话历史记录。" />
+	  <message msgid="voip_callhistoryHead" msgstr="呼叫记录" />
+	  <message msgid="voip_dateTitle" msgstr="开始日期" />
+	  <message msgid="voip_timeTitle" msgstr="开始时间" />
+	  <message msgid="voip_outnumberTitle" msgstr="对端号码" />
+	  <message msgid="voip_directionTitle" msgstr="呼入/呼出" />
+	  <message msgid="voip_localnumberTitle" msgstr="本端号码" />
+	  <message msgid="voip_durationTitle" msgstr="通话时长" />
+	  
+	<message msgid="dhcp_userListHead" msgstr="DHCP客户端列表" />
+	<message msgid="dhcp_hostnameTitle" msgstr="主机名" />
+	<message msgid="dhcp_macTitle" msgstr="MAC" />
+	<message msgid="dhcp_ipTitle" msgstr="IP" />
+	<message msgid="dhcp_hiredTimeTitle" msgstr="租约时间" />
+	<message msgid="dhcp_typeTitle" msgstr="类型" />
+
+
+	 <message msgid="device_info_head" msgstr="设备信息" />	  
+	<message msgid="lan_info_head" msgstr="LAN侧信息" />
+	<message msgid="connected_clients_head" msgstr="客户端连接列表" />
+	<message msgid="ont_info_head" msgstr="ONT信息" />
+	<message msgid="voip_info_head" msgstr="语音信息" />
+	<message msgid="wan_info_head" msgstr="WAN侧信息" />
+	<message msgid="setup" msgstr="配置" />
+
+	<message msgid="lan_inforPrompt" msgstr="在本页面，您可以查询LAN端口状态。" />
+	<message msgid="lan_port_status_title" msgstr="LAN口状态" />
+	<message msgid="lanport_admin" msgstr="端口使能状态" />
+	<message msgid="lanport_status" msgstr="端口连接状态" />
+</po>
+
+		

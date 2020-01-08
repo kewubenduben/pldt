@@ -1,0 +1,63 @@
+<po>
+  <message msgid="tr069 basic apply" msgstr="Apply" />
+  <message msgid="tr069 basic cancel" msgstr="Cancel" />
+
+  <message msgid="tr069 title" msgstr="TR069 Basic Settings" />
+  <message msgid="tr069_prompt" msgstr="On this page, you could configure the url, username, password, connectionRequestUsername, connectionRequestPassword of TR069 basic settings. " />
+  <message msgid="tr069_prompt_readonly" msgstr="You could view the url, username, password, connectionRequestUsername, connectionRequestPassword of TR069 basic settings here. " />
+  <message msgid="tr069_prompt_cfgfile" msgstr="On this page, you could configure TR069 effective configuration. " />
+
+  <message msgid="tr069 basic" msgstr=" TR069 Basic" />
+  
+  <message msgid="tr069url_title" msgstr="URL" />
+  <message msgid="tr069userName_title" msgstr="Username" />
+  <message msgid="tr069password_title" msgstr="Password" />
+  <message msgid="tr069conReqUsr_title" msgstr="Connection Request Username" />
+  <message msgid="tr069conReqPwd_title" msgstr="Connection Request Password" />
+  
+  <message msgid="tr069_noURL" msgstr="Please enter URL!" />
+  <message msgid="tr069_urlillegal" msgstr="The URL is illegal!" />
+  <message msgid="tr069_nousername" msgstr="Please enter username!" />
+  <message msgid="tr069_noRequestUsername" msgstr="Please enter connection Request Username!" />
+  <message msgid="tr069_noinforminterval" msgstr="Please enter tr069 inform interval!" />
+
+  <message msgid="tr069InformEnable_title" msgstr="Inform Enable" />
+  <message msgid="tr069InformInterval_title" msgstr="Inform Interval" />
+  <message msgid="tr069Enable_title" msgstr="TR069 Enable" />
+  <message msgid="tr069CertificateEnable_title" msgstr="Enable Certificate" />
+  
+  <message msgid="tr069_enable" msgstr="Enable" />
+  <message msgid="tr069_disable" msgstr="Disable" />
+  
+  <message msgid="tr069auth_Title" msgstr="Connection Request Authentication" />
+  <message msgid="tr069_getRPCMethods" msgstr="GetRPCMethods" />
+  <message msgid="ConnectionRequestPath_title" msgstr="Connection Request Path" />
+  <message msgid="ConnectionRequestPort_title" msgstr="Connection Request Port" />
+  <message msgid="InformInterval_alert" msgstr="Please input legal TR069 Inform Interval(1 - 2147483647)! " />
+  <message msgid="Please enter valid port value: 1-65535." msgstr="Please enter valid port value: 1-65535!" />
+  <message msgid="Please enter connectionRequestPassword!" msgstr="Please enter connection Request Password!" />
+  <message msgid="Please input path!" msgstr="Please input path!" />
+  <message msgid="Please input password!" msgstr="Please input password!" />
+  
+  <message msgid="certi_prompt" msgstr="You could import TR069 certificate." />
+  <message msgid="certi_title" msgstr="TR069 Certificate Import" />
+  <message msgid="certi_import" msgstr="Import" />
+  <message msgid="certi_load" msgstr="Loading " />
+  <message msgid="certi_fileIllegalAlert" msgstr="Please select the correct certificate file!" />
+  <message msgid="certi_complete" msgstr="Certificate import complete!" />
+
+  <message msgid="tr069_inform_prompt" msgstr="On this page, you could trigger manual inform of TR069." />
+  <message msgid="NoWan_alert" msgstr="TR069 WAN does not exist!" />
+  <message msgid="NoIP_alert" msgstr="TR069 WAN has no IP!" />
+  <message msgid="Timeout_alert" msgstr="Inform timeout!" />
+  <message msgid="InformSuccess_infor" msgstr="Inform success! Inform time:" />
+  <message msgid="tr069ManualTriggerInform_title" msgstr="TR069 Manual Inform" />
+  <message msgid="ManualTriggerInform" msgstr="Inform" />
+
+  <message msgid="remote_manage_prompt" msgstr="On this page, you can view the remote-connection status and service provisioning status." />
+  <message msgid="ur_status_title" msgstr="Unsolicited Report Status" />
+  <message msgid="asc_status_title" msgstr="ACS Connection Status" />
+  <message msgid="sp_status_title" msgstr="Service Provisioning Status" />
+  
+</po>
+

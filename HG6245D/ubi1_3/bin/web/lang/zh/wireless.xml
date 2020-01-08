@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="wireless apply" msgstr="提交" />
+  <message msgid="wireless cancel" msgstr="取消" />
+  <message msgid="wireless close" msgstr="关闭" />
+  <message msgid="wireless enable" msgstr="使能" />
+  <message msgid="wireless disable" msgstr="去使能" />
+  <message msgid="wireless allow" msgstr="允许" />
+  <message msgid="wireless reject" msgstr="拒绝" />
+  <message msgid="wireless auto" msgstr="自动" />
+  <message msgid="wireless long" msgstr="长" />
+  <message msgid="wireless on" msgstr="开" />
+  <message msgid="wireless off" msgstr="关" />
+  <message msgid="wireless none" msgstr="无" />
+  <message msgid="ssidNameTips" msgstr="请输入1-32个字符" />
+  <message msgid="Please enter SSID Name!" msgstr="请输入网络名称!" />
+  
+  <message msgid="basic_prompt" msgstr="您仅需修改很少的配置项（例如通道）即可让无线通信正常工作。接入点配置也仅需很少的配置项。" />
+  <message msgid="basic wireless network" msgstr="无线网络" />
+  <message msgid="basic radio button" msgstr="无线开启/关闭" />
+  <message msgid="basic network mode" msgstr="网络模式" />
+  <message msgid="basic ssid" msgstr="网络名称（SSID）" />
+  <message msgid="basic multiple ssid" msgstr="多SSID" />
+  <message msgid="basic hssid" msgstr="隐藏" />
+  <message msgid="basic isolated" msgstr="隔离" />
+  <message msgid="basic broadcast ssid" msgstr="广播网络名（SSID）" />
+  <message msgid="basic apisolated" msgstr="AP隔离" />
+  <message msgid="basic mbssidapisolated" msgstr="MBSSID AP隔离" />
+  <message msgid="basic bssid" msgstr="BSSID" />
+  <message msgid="basic frequency" msgstr="频段（信道）" />
+  <message msgid="basic frequency auto" msgstr="自动选择" />
+  <message msgid="fre_band_title" msgstr="频率带宽" />
+  <message msgid="guard_inter_title" msgstr="保护间隔" />
+  <message msgid="secure_WMMtitle" msgstr="Wi-Fi多媒体" />
+  <message msgid="guestTitle" msgstr="用户访问" />
+  
+  <message msgid="basicDomain" msgstr="区域" />
+  <message msgid="domain0" msgstr="欧洲" />
+  <message msgid="domain1" msgstr="北美" />
+  <message msgid="domain2" msgstr="泰国" />
+  <message msgid="domain3" msgstr="菲律宾" />
+  <message msgid="domain4" msgstr="印度尼西亚" />
+  <message msgid="domain5" msgstr="巴西" />
+  <message msgid="domain6" msgstr="印度" />
+  <message msgid="domain7" msgstr="亚美尼亚" />
+  <message msgid="domain8" msgstr="马来西亚" />
+  <message msgid="domain9" msgstr="巴基斯坦" />
+  <message msgid="domain10" msgstr="俄罗斯" />
+  <message msgid="domain11" msgstr="中国" />
+  <message msgid="domain12" msgstr="智利" />
+  <message msgid="domain13" msgstr="美国" />
+  <message msgid="domain14" msgstr="缅甸" />
+  <message msgid="domain15" msgstr="厄瓜多尔" />
+  <message msgid="domain16" msgstr="哥伦比亚" />
+  <message msgid="domain17" msgstr="阿根廷" />
+  <message msgid="domain18" msgstr="斯里兰卡" />
+  <message msgid="domain19" msgstr="伊朗" />
+  <message msgid="domain20" msgstr="也门" />
+  <message msgid="domain21" msgstr="沙特阿拉伯" />
+  <message msgid="domain22" msgstr="科威特" />
+  <message msgid="domain23" msgstr="伊拉克" />
+  <message msgid="domain24" msgstr="越南" />
+  
+  <message msgid="basic rate" msgstr="速率" />
+  <message msgid="basic wds title" msgstr="无线分布式系统（WDS）" />
+  <message msgid="basic wds mode" msgstr="WDS模式" />
+  <message msgid="basic wds phy mode" msgstr="Phy模式" />
+  <message msgid="basic wds encryp type" msgstr="加密类型" />
+  <message msgid="basic wds encryp key" msgstr="密钥" />
+  <message msgid="basic wds ap macaddr" msgstr="AP MAC地址" />
+  <message msgid="basic ht phy mode" msgstr="HT物理模式" />
+  <message msgid="basic ht op mode" msgstr="操作模式" />
+  <message msgid="basic ht op mixed" msgstr="混合模式" />
+  <message msgid="basic ht channel bandwidth" msgstr="通道带宽" />
+  <message msgid="basic ht guard interval" msgstr="保护间隔" />
+  <message msgid="basic ht rdg" msgstr="反方向授予（RDG）" />
+  <message msgid="basic ht extension channel" msgstr="扩展通道" />
+  <message msgid="basic ht amsdu" msgstr="聚合MSDU（A-MSDU）" />
+  <message msgid="basic ht addba" msgstr="自动阻塞应答" />
+  <message msgid="basic ht delba" msgstr="衰减BA请求" />
+  <message msgid="basic other" msgstr="其他" />
+  <message msgid="basic ht txstream" msgstr="HT发送流" />
+  <message msgid="basic ht rxstream" msgstr="HT接收" />
+  
+  <message msgid="channel" msgstr="信道" />  
+
+  <message msgid="secure ssid title" msgstr="无线安全/加密设置" />
+  <message msgid="security_prompt" msgstr="设置无线安全和加密可以防止未认证的接入和监控。" />
+  <message msgid="secure select ssid" msgstr="选择SSID" />
+  <message msgid="secure ssid choice" msgstr="SSID选择" />
+  <message msgid="security_netName" msgstr="网络名称(SSID)" />
+  <message msgid="basicHSSID_title" msgstr="隐藏" />
+  <message msgid="secure security policy" msgstr="安全规则" />
+  <message msgid="secure security mode" msgstr="安全模式" />
+  <message msgid="secure encryp type" msgstr="加密类型" />
+  <message msgid="secure wep" msgstr="WEP（有线等效保密）" />
+  <message msgid="secure wep default key" msgstr="默认密钥" />
+  <message msgid="secure wep default key1" msgstr="密钥1" />
+  <message msgid="secure wep default key2" msgstr="密钥2" />
+  <message msgid="secure wep default key3" msgstr="密钥3" />
+  <message msgid="secure wep default key4" msgstr="密钥4" />
+  <message msgid="secure wep key" msgstr="WEP密钥" />
+  <message msgid="secure wep key1" msgstr="WEP密钥1" />
+  <message msgid="secure wep key2" msgstr="WEP密钥2" />
+  <message msgid="secure wep key3" msgstr="WEP密钥3" />
+  <message msgid="secure wep key4" msgstr="WEP密钥4" />
+  <message msgid="secure wpa" msgstr="WPA（Wi-Fi网络安全存取）" />
+  <message msgid="secure wpa algorithm" msgstr="WPA算法" />
+  <message msgid="secure wpa pass phrase" msgstr="口令短语" />
+  <message msgid="wpa_passphraseTips" msgstr="（请输入8-64个字符）" />
+  <message msgid="secure wpa key renew interval" msgstr="密钥更新间隔" />
+  <message msgid="secure wpa key renew interval tips" msgstr="秒" />
+  <message msgid="secure wpa pmk cache period" msgstr="PMK缓存周期" />
+  <message msgid="secure wpa preauth" msgstr="预先认证" />
+  <message msgid="secure 8021x wep" msgstr="802.1x WEP" />
+  <message msgid="secure 1x wep" msgstr="WEP" />
+  <message msgid="secure radius" msgstr="Radius服务器" />
+  <message msgid="secure radius ipaddr" msgstr="IP地址" />
+  <message msgid="secure radius port" msgstr="端口" />
+  <message msgid="secure radius shared secret" msgstr="共享密文" />
+  <message msgid="secure radius session timeout" msgstr="会话超时" />
+  <message msgid="secure radius idle timeout" msgstr="空闲超时" />
+  <message msgid="secure access policy" msgstr="接入规则" />
+  <message msgid="secure access policy capable" msgstr="规则" />
+  <message msgid="secure access policy new" msgstr="新增站点MAC" />
+  <message msgid="secure access policy del" msgstr="删除" />
+  <message msgid="secure problem with request" msgstr="请求出错。" />
+  <message msgid="secure no wpapsk key" msgstr="请输入WPA密钥!" />
+  <message msgid="secure wpapsk key length" msgstr="请输入至少8个字符!" />
+  <message msgid="secure invalid character in pass" msgstr="密钥包含非法字符!" />
+  <message msgid="secure choose 802.1x WEP option" msgstr="请选择802.1x WEP类型。" />
+  <message msgid="secure choose Pre-Auth option" msgstr="请选择预授权类型。" />
+  <message msgid="secure no PMK Cache Period" msgstr="请输入PMK缓存周期。" />
+  <message msgid="secure no WPA Algorithm" msgstr="请选择WPA加密算法。" />
+  <message msgid="secure valid key renew" msgstr="请输入合法的密钥更新间隔" />
+  <message msgid="secure renewal interval invalid" msgstr="密钥更新间隔必须为0或者大于60!" />
+  <message msgid="secure renewal interval too big" msgstr="密钥更新间隔过大!" />
+  
+  <message msgid="contains invalid characters." msgstr="包含非法字符。" />
+  <message msgid="Please input 10 or 26 characters of " msgstr="请输入10或者26个字符的" />
+  <message msgid="Please input 5 or 13 characters of" msgstr="请输入5或者13个字符的" />
+  <message msgid="Invalid WEP key1 format!" msgstr="WEP key1 输入不合法。" />
+  <message msgid="Invalid WEP key2 format!" msgstr="WEP key2 输入不合法。" />
+  <message msgid="Invalid WEP key3 format!" msgstr="WEP key3 输入不合法。" />
+  <message msgid="Invalid WEP key4 format!" msgstr="WEP key4 输入不合法。" />
+  <message msgid="you can not input " msgstr="您不能输入 " />
+  <message msgid="Are you sure to ignore changed?" msgstr="您确定取消改变的设置吗?" />
+
+  <message msgid="wifi_macListPrompt" msgstr="您可以在这里获取WIFI客户端列表。" />
+  <message msgid="wifi_macListHead" msgstr="WIFI客户端列表" />
+  
+  <message msgid="wifi_getRstPrompt" msgstr="抱歉，获取数据失败！请检查连接并重试。" />
+
+  <message msgid="wifi_conNumTitle" msgstr="WIFI连接数" />
+  
+  <message msgid="ssid_enable" msgstr="开启" />
+  <message msgid="ssid_disable" msgstr="关闭" />
+
+  <message msgid="wifipower_prompt" msgstr="您可以在本页面调节WIFI功率和WIFI接入用户数。" />
+  <message msgid="wifinum_prompt" msgstr="您可以在本页面配置WIFI接入用户数。" />
+  
+  <message msgid="wifi_power_title" msgstr="WIFI功率控制" />
+  <message msgid="RecommendTips" msgstr="(推荐使用 100%)" />
+  <message msgid="Recommend_120Tips" msgstr="(推荐使用 120%)" />
+  <message msgid="pf_connetnumberIllegalAlert" msgstr="请输入0-32!" />
+  <message msgid="Please enter conection number!" msgstr="请输入SSID连接数目!" />
+
+  <message msgid="td_isolation_title" msgstr="端口隔离" />
+  <message msgid="isolation_enable" msgstr="开启" />
+  <message msgid="isolation_disable" msgstr="关闭" />
+  <message msgid="td_isolation_enable" msgstr="使能" />
+  
+  <message msgid="wifiPower_apply" msgstr="提交" />
+  <message msgid="wifiPower_cancel" msgstr="取消" />
+
+</po>

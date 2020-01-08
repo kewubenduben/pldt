@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="sncfg_prompt" msgstr="在本页面上，您可以修改ONU认证方式的相关参数，使之通过OLT认证。修改ONU的认证参数后请复位ONU生效。" />
+  <message msgid="sncfg_prompt_js" msgstr="在本页面，您可以进行设备注册和认证，提交信息后，请到状态页面查询注册结果!" />
+  <message msgid="sncfg_prompt_user" msgstr="在本页面，您可以修改ONU认证方式的相关参数，使之通过OLT认证。请勿修改密码，否则会影响业务，谢谢!" />
+  
+  <message msgid="sncfg_apply" msgstr="提交" />
+  <message msgid="sncfg_cancel" msgstr="取消" />
+  <message msgid="sncfg_snTitle1" msgstr="设备注册认证" />
+  <message msgid="sncfg_authMethod" msgstr="认证方式" />
+  <message msgid="sncfg_loid" msgstr="LOID" />
+  <message msgid="sncfg_loidTips" msgstr=" （请输入1-24个字符, 不能包含中文字符）" />
+  <message msgid="sncfg_lopwd" msgstr="逻辑密码" />
+  <message msgid="sncfg_lopwdTips" msgstr="  （请输入0-12个字符）" />
+  <message msgid="sncfg_pwd" msgstr="密码" />
+  <message msgid="sncfg_pwdTips" msgstr=" （请输入0-10个字符, 包括数字、字母、'-' 和 '_'）" />
+  <message msgid="oltcfg_phySN" msgstr="物理SN" />
+  <message msgid="oltcfg_phySNTips" msgstr="  （请输入12或16个字符, 包括数字 'a'-'f' 'A'-'F' 'h' 't' 'H' 'T'）" />
+  
+  <message msgid="sncfg_restore" msgstr="恢复默认值" />
+  <message msgid="sncfg_restoreTips" msgstr=" （您可以点击此按钮恢复本页面配置为默认值）" />
+
+  <message msgid="sncfg_snTitle" msgstr="逻辑标识认证" />
+  <message msgid="sncfg_pwdTitle" msgstr="密码认证" />
+  <message msgid="oltcfg_phySNTitle" msgstr="物理SN认证" />
+  <message msgid="sncfg_restoreTitle" msgstr="配置恢复" />
+  
+  <message msgid="sncfg_restartConfirm" msgstr="您修改认证参数成功! 是否重启ONU? 重启ONU后，请重新登录WEB网管!" />
+
+  <message msgid="sncfg_loidNullAlert" msgstr="请输入LOID!" />
+  <message msgid="sncfg_loidIllegalAlert" msgstr="LOID非法!" />
+  <message msgid="sncfg_lopwdIllegalAlert" msgstr="逻辑密码非法!" />
+  <message msgid="sncfg_pwdCfgNullAlert" msgstr="请输入密码!" />
+  <message msgid="sncfg_pwdCfgIllegalAlert" msgstr="密码认证密码非法!" />
+  <message msgid="sncfg_loidchnAlert" msgstr="LOID非法! 逻辑SN不能包含中文字符!" />
+  <message msgid="sncfg_speCharAlert" msgstr="请输入字符不包括 " />
+  <message msgid="sncfg_phySNNullAlert" msgstr="请输入物理SN!" />
+  <message msgid="sncfg_phySNCfgIllegalAlert" msgstr="物理SN非法!" />
+  
+  <message msgid="sncfg_setFailedInfo" msgstr="错误: 配置认证参数失败! 请重启设备后重试!" />
+  <message msgid="physncfg_checkeror" msgstr="错误: 您输入值的合法性校验失败，请重试。" />
+
+  
+  <message msgid="infor_submit_prompt" msgstr="注册信息已提交，请到状态页面查询注册结果!" />
+  
+</po>
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="usb disable" msgstr="开启" />
+  <message msgid="usb enable" msgstr="关闭" />
+  <message msgid="usb add" msgstr="新增" />
+  <message msgid="usb edit" msgstr="编辑" />
+  <message msgid="usb del" msgstr="删除" />
+  <message msgid="usb apply" msgstr="提交" />
+  <message msgid="usb cancel" msgstr="取消" />
+  <message msgid="usb reset" msgstr="重置" />
+  
+  <message msgid="usb_loadPrompt" msgstr="您可以向ftp服务器上传文件，或从ftp服务器下载文件。" />
+  <message msgid="usb_storgeHead" msgstr="FTP客户端" />
+  <message msgid="usb_typeTitle" msgstr="类型" />
+  <message msgid="usb_ftpUserTitle" msgstr="用户名" />
+  <message msgid="usb_ftpPwdTitle" msgstr="密码" />
+  <message msgid="usb_ftpIPTitle" msgstr="FTP服务器IP" />
+  <message msgid="usb_ftpPortTitle" msgstr="FTP服务器端口" />
+  <message msgid="usb_localFileTitle" msgstr="本地文件名" />
+  <message msgid="usb_remoteFileTitle" msgstr="远端文件名" />
+  <message msgid="usb_diskNoTitle" msgstr="本地盘符" />
+  
+  <message msgid="usb_ftpUserTips" msgstr="（请输入1-32个字符, 包括数字、字母和'_'）" />
+  <message msgid="usb_ftpPwdTips" msgstr="（请输入0-32个字符, 包括数字、字母和'_'）" />
+  <message msgid="usb_ftpPortTips" msgstr="（0 ~ 65535）" />
+  <message msgid="usb_ftpIPTips" msgstr="（十进制格式，例如：192.168.1.2）" />
+  <message msgid="usb_localFileTips" msgstr="（请输入1-128个字符, 包括数字、字母、'_' 、'/' 、'.'和'-'）" />
+  <message msgid="usb_remoteFileTips" msgstr="（请输入1-128个字符, 包括数字、字母、'_' 、'/' 、'.' 和 '-'）" />
+  <message msgid="usb_fileTips" msgstr="（请输入1-128个字符, 包括数字、字母、'_' 、'/' 、'.' 和 ':'）" />
+    
+  <message msgid="usb_userIllegalAlert" msgstr="请输入合法的用户名！" />
+  <message msgid="usb_pwdIllegalAlert" msgstr="请输入合法的密码！" />
+  <message msgid="usb_ipIllegalAlert" msgstr="请输入合法的IP地址！" />
+  <message msgid="usb_portIllegalAlert" msgstr="合法的端口范围是0-65535." />
+  <message msgid="usb_fileIllegalAlert" msgstr="请输入合法的文件名！" />
+  
+  <message msgid="usb_cfgBakPrompt" msgstr="在本页面，您可以将设备当前配置文件备份到USB设备中。" />
+  <message msgid="usb_cfgBakTitle" msgstr="USB Backup Directory" />
+  <message msgid="usb_cfgBak" msgstr="Download Backup" />
+  <message msgid="usb_idle" msgstr="无USB存储设备" />
+  <message msgid="usb_cfgBakSuccess" msgstr="下载配置文件成功!" />
+  
+  <message msgid="usb_serverError" msgstr="系统错误!" />
+  <message msgid="usb_serverError1" msgstr="系统错误1!" />
+  <message msgid="usb_serverError2" msgstr="系统错误2!" />
+  <message msgid="usb_serverError3" msgstr="系统错误3!" />
+  
+  <message msgid="usb_cfgRestorePrompt" msgstr="在本页面，您可以用USB设备上保存的配置文件更新您的设备。" />
+  <message msgid="usb_cfgRestoreTitle" msgstr="USB恢复路径" />
+  <message msgid="usb_filenameTitle" msgstr="配置文件" />
+  <message msgid="usb_cfgRestore" msgstr="恢复" />
+  <message msgid="usb_cfgRestoreSuccess" msgstr="配置文件恢复成功!" />
+  <message msgid="usb_openFileFail" msgstr="指定文件打开失败!" />
+  <message msgid="usb_readFileFail" msgstr="指定文件读取失败!" />
+  <message msgid="usb_restoreFail" msgstr="配置文件恢复失败!" />
+  
+  <message msgid="rebooting" msgstr="设备正在重启，此过程需要若干分钟，在此期间请勿将设备断电或进行其他操作。稍候请在登录页面重新登录。" />
+
+</po>

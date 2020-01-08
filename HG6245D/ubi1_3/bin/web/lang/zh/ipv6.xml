@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="pt_PortTriggerPrompt" msgstr="您可以在本页面配置IPv6静态路由。" />
+
+  <message msgid="fw_filterListHead" msgstr="IPv6静态路由表" />
+  <message msgid="DstPrefix_title" msgstr="目的前缀" />
+  <message msgid="Nexthop_title" msgstr="下一跳" />
+  <message msgid="pf_wannameTitle" msgstr="WAN" />
+
+  <message msgid="pf_add" msgstr="新增" />
+  <message msgid="pf_delete" msgstr="删除" />
+  <message msgid="pf_deleteAll" msgstr="删除所有" />
+
+  <message msgid="ipv6_apply" msgstr="应用" />
+  <message msgid="ipv6_cancel" msgstr="取消" />
+
+  <message msgid="pf_mostRulesAlert" msgstr="你最多可以配置8条规则。" />
+  <message msgid="pf_most16RulesAlert" msgstr="你最多可以配置16条规则。" />
+  <message msgid="pf_noRuleAlert" msgstr="当前没有规则，不能删除。" />
+  <message msgid="pf_noChooseAlert" msgstr="请先选定一个规则再执行删除" />
+  <message msgid="pf_deleteRuleConfirm" msgstr="您确定要删除选中的规则吗?" />
+
+  <message msgid="Please enter DstPrefix!" msgstr="请输入目的前缀!" />
+  <message msgid="Please enter Nexthop!" msgstr="请输入下一跳地址!" />
+
+  <message msgid="Nexthop_IllegalAlert" msgstr="下一跳Ipv6 IP地址错误，请重新输入!" />
+  <message msgid="DstPrefix_IllegalAlert" msgstr="目的前缀错误，请重新输入!" />
+ 
+</po>

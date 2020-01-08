@@ -1,0 +1,30 @@
+<po>
+  <message msgid="WPSconnect" msgstr="Connect" />
+  <message msgid="WPSCancel" msgstr="Cancel" />
+  <message msgid="wps_apply" msgstr="Apply" />
+  
+  <message msgid="WPS_enable_head" msgstr="WPS Enable" />
+  <message msgid="wps_enable_title" msgstr="Enable" />
+  <message msgid="wps_disable_title" msgstr="Disable" />
+  <message msgid="WPS_cfg_head" msgstr="WPS Configuration" />
+
+  <message msgid="wps_statetitle" msgstr="WPS State" />
+  <message msgid="wps_prompt" msgstr="On this page, you could configure WPS. " />
+
+  <message msgid="wps_PINtitel" msgstr="Please input PIN code." />
+  <message msgid="wps_PINTips" msgstr="Please input Number 0-9 (8 Characters)." />
+  <message msgid="wps_PINer" msgstr="PIN Code" />
+  <message msgid="wps_buttontitel" msgstr="Please turn on the button of the equipment." />
+  <message msgid="wps_nopinalert" msgstr="Please enter PIN code!" />
+  <message msgid="wps_pinillegal" msgstr="PIN code is illegal!" />
+
+  <message msgid="Connecting" msgstr="Connecting..." />
+  <message msgid="Time_Out" msgstr="Time Out" />
+  <message msgid="connection_Successful" msgstr="Connection Successful" />
+  <message msgid="connection_fail" msgstr="Connection Fail" />
+
+  <message msgid="wps_PIN1_prompt" msgstr="(You can input number 0-9 (8 characters).)" />
+  <message msgid="wps_bandSelec_head" msgstr="WPS Band Select" />
+</po>
+
+

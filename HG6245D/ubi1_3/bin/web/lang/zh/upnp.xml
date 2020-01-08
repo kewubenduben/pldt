@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+  <message msgid="upnpEnableApply" msgstr="提交" />
+  <message msgid="upnpEnableCancel" msgstr="取消" />
+  <message msgid="upnpcfg_remove" msgstr="配置清除" />
+  <message msgid="upnp_prompt" msgstr=" 在本页面上，您可以设置UPnP功能。" />
+  
+  <message msgid="dlna_prompt" msgstr=" 在本页面上，您可以设置DLNA功能。" />
+  <message msgid="usb_pathTitle" msgstr="USB分区" />
+  <message msgid="dlnaEnable_title" msgstr="DLNA使能" />
+  <message msgid="dlna_pathTitle" msgstr="媒体共享路径" />
+  <message msgid="dlna_path_noalert" msgstr="请输入正确格式的媒体共享路径。" />
+  
+  <message msgid="upnp_enable" msgstr="开启" />
+  <message msgid="upnp_disable" msgstr="关闭" />
+  <message msgid="upnp_wan_title" msgstr="WAN 名称" />
+  
+  <message msgid="igmp_prompt" msgstr="在本页面上，您可以设置组播模式。 " />
+  <message msgid="upnpEnable_title" msgstr="IGMP 模式" />
+  <message msgid="upnpEnable_title2" msgstr="MLD 模式" />
+  <message msgid="igmp_apply" msgstr="应用" />
+
+</po>

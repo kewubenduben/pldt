@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="GBK"?>
+<po>
+<message msgid="logout" msgstr="退出" />
+ 
+  <message msgid="state" msgstr="状态" />
+  	<message msgid="Device Information" msgstr="设备信息" />
+	<message msgid="wan state" msgstr="WAN侧状态" />
+  		<message msgid="ddns state" msgstr="DDNS状态" />
+	<message msgid="lan state" msgstr="LAN侧状态" />
+  		<message msgid="lan count" msgstr="LAN口统计" /> 
+  		<message msgid="dhcp_userlist" msgstr="DHCP用户列表" />   
+	<message msgid="wireless state" msgstr="无线网络状态" />
+  		<message msgid="5Gwifistate" msgstr="5G无线网络状态" />
+  		<message msgid="wifi_mac_list" msgstr="WIFI用户列表" />
+	<message msgid="Optical Power" msgstr="光功率状态" />
+	<message msgid="PON State" msgstr="PON状态" />
+	<message msgid="VOIP State" msgstr="语音状态" />
+  	
+  <message msgid="network" msgstr="网络" />
+	<message msgid="wlan_settings" msgstr="Wlan设置" />
+		<message msgid="basic" msgstr="基本参数" />
+		<message msgid="security" msgstr="高级设置" />
+		<message msgid="wifiPowercontrol" msgstr="WIFI控制" />
+  		<message msgid="5Gbasic" msgstr="5G基本参数" />
+  		<message msgid="5Gsecurity" msgstr="5G高级设置" />
+  		<message msgid="5GwifiPowercontrol" msgstr="5G WIFI控制" />
+  	<message msgid="lan_settings" msgstr="LAN设置" />
+  		<message msgid="lan_mac_limit" msgstr="LAN MAC限制" />
+  	<message msgid="broadband" msgstr="宽带设置" />
+  	<message msgid="broadband2" msgstr="宽带设置" />
+  		<message msgid="internet" msgstr="因特网设置" />
+  		<message msgid="lan_portband" msgstr="Lan端口绑定" />
+  	<message msgid="dhcp_server" msgstr="DHCP服务器" />
+  		<message msgid="dhcp_service" msgstr="DHCP服务" />
+  		<message msgid="dhcp_portband" msgstr="DHCP端口绑定" />
+  		<message msgid="dhcpv6_portband" msgstr="DHCPv6端口绑定" />
+  		<message msgid="dhcp_macband" msgstr="DHCP MAC绑定" />
+	<message msgid="qos" msgstr="QoS配置" /> 
+	<message msgid="route" msgstr="路由配置" />
+		<message msgid="v4_def_route" msgstr="IPv4默认路由" />
+  		<message msgid="IPv4 Static Route" msgstr="IPv4静态路由" />
+  		<message msgid="IPV6 Static Route" msgstr="IPv6静态路由" />
+	<message msgid="DHCPv6" msgstr="DHCPv6配置" />
+		<message msgid="IPv6 Configuration" msgstr="IPv6配置" />
+		<message msgid="DNS Proxy Setting" msgstr="DNS 代理设置" />
+		<message msgid="Prefix Mode Setting" msgstr="前缀来源设置" />  		
+  	<message msgid="auth_settings" msgstr="认证设置" />
+  		<message msgid="olt_auth" msgstr="OLT认证" />
+  	<message msgid="remote_management" msgstr="远程管理" />
+  		<message msgid="ITMS Server" msgstr="ACS服务器" />
+  		<message msgid="Certificate" msgstr="TR069证书" />
+  	<message msgid="CATV RF Power" msgstr="RF输出电平调节" />
+  	<message msgid="voip_settings" msgstr="语音配置" />
+  		<message msgid="voip_enable" msgstr="关键参数" />
+	  	<message msgid="advance" msgstr="高级参数" />
+  		<message msgid="dial_timeout" msgstr="数图与时长" />
+	  	<message msgid="code" msgstr="编码" />
+	  	<message msgid="statistics" msgstr="统计" />
+  	
+  <message msgid="Security" msgstr="安全" />
+	<message msgid="firewall" msgstr="防火墙" />  
+		<message msgid="fw_enable" msgstr="防火墙开关" />
+		<message msgid="ip_filter" msgstr="IP过滤" />
+		<message msgid="ipv6_filter" msgstr="IPv6过滤" />
+		<message msgid="urlfilter" msgstr="URL过滤" />
+		<message msgid="DHCP filter" msgstr="DHCP过滤" />
+		<message msgid="Port Scan" msgstr="防端口扫描" />
+		<message msgid="macaddr_filter" msgstr="MAC地址过滤" />
+		<message msgid="IPv6 Mac Filtering" msgstr="IPv6 MAC过滤" />
+		<message msgid="ACL_L3" msgstr="三层ACL" />
+		<message msgid="wan_acl" msgstr="WAN ACL配置" />
+		<message msgid="lan_acl" msgstr="LAN ACL配置" />
+	<message msgid="Remote Control" msgstr="远端控制" />
+	<message msgid="route_qos" msgstr="路由QOS" />
+		<message msgid="qos_enable" msgstr="路由QOS使能" />
+		<message msgid="qos_config" msgstr="路由QOS配置" />
+	<message msgid="acl" msgstr="ACL配置" />
+  		<message msgid="wifi acl" msgstr="WIFI ACL配置" />
+	<message msgid="DDOS" msgstr="防DOS攻击" />
+  	<message msgid="WPS" msgstr="WPS配置" />
+    
+  <message msgid="Application" msgstr="应用" />
+	<message msgid="vpn" msgstr="VPN" />
+		<message msgid="VPN Enable" msgstr="VPN透传" />
+	<message msgid="DDNS" msgstr="DDNS" />
+		<message msgid="DDNS Settings" msgstr="DDNS设置" />
+	<message msgid="Port Forwarding" msgstr="端口转发" />
+	<message msgid="Port Mapping" msgstr="端口转发" />
+	<message msgid="Port Trigger" msgstr="端口触发" />
+	<message msgid="URL_filter" msgstr="URL过滤" />
+	<message msgid="Redirect" msgstr="页面重定向" />
+	<message msgid="WEB_Port" msgstr="WEB端口配置" />
+	<message msgid="Diagnosis" msgstr="网络诊断" />
+		<message msgid="ping" msgstr="Ping测试" />
+		<message msgid="tracert" msgstr="Tracert测试" />
+	<message msgid="TR069 Manual Inform" msgstr="TR069手动上报" />
+	<message msgid="MonitorCollector" msgstr="预检预修" />
+	<message msgid="Nat Session" msgstr="Nat会话" />
+	<message msgid="Multicast Mode" msgstr="组播模式" />
+	
+  <message msgid="management" msgstr="管理" />
+  	<message msgid="user_admin" msgstr="用户管理" />
+  		<message msgid="user_account_admin" msgstr="用户账户管理" />
+  		<message msgid="maintenance_account_admin" msgstr="维护账户管理" />
+  	<message msgid="device_admin" msgstr="设备管理" />
+  		<message msgid="restore" msgstr="配置恢复" />
+  		<message msgid="adminRestore" msgstr="配置全恢复" />
+  		<message msgid="update" msgstr="本地升级" />
+  		<message msgid="down_cfgfile" msgstr="配置备份" />
+  		<message msgid="cfg_file" msgstr="配置文件" />
+  		<message msgid="usb_storge" msgstr="FTP客户端" />
+  		<message msgid="ftp_server" msgstr="FTP服务器" />
+  		<message msgid="reboot" msgstr="设备重启" />
+  		<message msgid="checktime" msgstr="NTP校时" />
+  		<message msgid="catv_settings" msgstr="CATV配置" />
+  	<message msgid="log_admin" msgstr="日志管理" />
+  		<message msgid="log" msgstr="日志" />
+
+  	<message msgid="uernameNotNull" msgstr="用户名不能为空，请输入用户名。" />
+  	<message msgid="passwordNotNull" msgstr="密码不能为空，请输入密码。" />
+  	<message msgid="validationError" msgstr="验证码错误，请重新输入!" />
+  	
+  	<message msgid="namePwdError" msgstr="用户名或密码错误!" />
+  	<message msgid="adminUnavailable" msgstr="管理用户不可用!" />
+  	<message msgid="serverError" msgstr="服务器错误!" />
+  	<message msgid="logoutError" msgstr="用户已登录，请先注销!" />
+  	<message msgid="haveuserLogin" msgstr="已有用户登陆，请稍后重试!" />
+  	<message msgid="3timeError" msgstr="密码或用户名错误3次，请一分钟后重试。" />
+  	<message msgid="3timeError_30" msgstr="密码或用户名错误3次，请30分钟后重试。" />
+	<message msgid="ipNotAllowError" msgstr="访问的IP没有权限登录!" />
+	<message msgid="userInUsing" msgstr="该用户已在别处登录，请稍后重试!" />
+  	
+	<message msgid="accounttitle" msgstr="用户名" />
+	<message msgid="admintitle" msgstr="管理员" />
+	<message msgid="pwdtitle" msgstr="密　码" />
+  	<message msgid="login_submit" msgstr="登录" />
+  	<message msgid="login_reset" msgstr="重置" />
+  	<message msgid="login_user" msgstr="用户登录" />
+  	<message msgid="login_devReg" msgstr="设备注册" />
+  	<message msgid="jiaoyanmatitle" msgstr="校验码" />
+
+  	<message msgid="login_user_cmcc" msgstr="中国移动  登录" />
+  	<message msgid="Voip Call History" msgstr="呼叫记录" />
+  	<message msgid="lan port state" msgstr="Lan端口状态" />
+  	<message msgid="Multicast Vlan Bind" msgstr="ONT桥接配置" />
+  	<message msgid="reset" msgstr="配置恢复" />
+  	<message msgid="Hotline" msgstr="热线" />
+  	<message msgid="CPU Port Mirror" msgstr="CPU端口镜像" />
+
+
+</po>  

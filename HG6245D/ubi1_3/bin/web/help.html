@@ -1,0 +1,319 @@
+<html>
+<head>
+<meta HTTP-EQUIV='Pragma' CONTENT='no-cache'>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+<script type="text/javascript" src="./js/utils.js"></script>
+<style type="text/css">
+   *{
+      padding:0px;
+	  margin:0px;
+      font-family: "Microsoft YaHei", Î¢ÈíÑÅºÚ;
+   }
+   .main{
+      height:100%;
+	  overflow-y: auto;
+	  width:100%;
+   }
+   .text1{
+      padding-left:5%;
+   }
+   ul {
+    list-style: none;
+   }
+   .help1{
+     padding-left:12%;
+   }
+   table{
+	  font-size:10px;
+   }
+   td{
+     height:100px;
+   }
+   .table_div{
+      padding-left:5%;
+   }
+   .left_tr{
+      text-align:center;
+	  width:150px;
+   }
+   .center_tr{
+      text-align:center;
+	  width:20%;
+   }
+   .right_tr{
+     padding:5px;
+   }
+   span{
+    color:#70AD47;
+   }
+   ul.a{
+      list-style-type:circle;
+	  padding-left:5%;
+   }
+    ul.b{
+      list-style-type:square;
+	  padding-left:5%;
+   }
+   ul.c{
+    list-style-type:circle;
+	padding-left:2%;
+   }
+   .hou_p{
+      padding-left:4%;
+   }
+   .help3{
+      width:100px;
+      padding-left:4%;
+   }
+   .help4{
+      padding-left:4%;
+      height:200px;
+	  width:100px;
+   } 
+   .stup_div{
+       padding-left:5%;
+   }
+   ul.d{
+     padding-left:4%;
+   }
+   .putongp{
+     padding-left:4%;
+   }
+   ul.e{
+     padding-left:6%;
+   }
+</style>
+<script language="JavaScript" type="text/javascript">
+
+function initTranslation()
+{
+	setDisplay('tr_voip', 'none');
+	
+	var e = document.getElementById("img_help1");
+	e.src = "images/pldt/help1-6245D.png";
+	e = document.getElementById("img_help2");
+	e.src = "images/pldt/help2-6245D.png";
+	
+	e = document.getElementById("td_wifi_title");
+	e.innerHTML = ("WLAN1/WLAN2");
+	e = document.getElementById("td_wps_title");
+	e.innerHTML = ("WPS");
+	
+}
+
+function initValue()
+{
+    initTranslation();
+}
+</script>
+</head>
+<body onLoad="initValue()">
+<div id="main">
+  <div class="text1">
+    <h4>TROUBLESHOOTING GUIDE:</h4>
+    <br>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;Below are the following:</p>
+    <br>
+    <ul>
+      <li>1.&nbsp;&nbsp;Led indicators Table with troubleshooting guide.</li>
+      <li>2.&nbsp;&nbsp;Physical Connection</li>
+      <li>3.&nbsp;&nbsp;Troubleshooting Guide</li>
+    </ul>
+    <br>
+    <h3>Modem LED Indicators</h3>
+  </div>
+  <br>
+  <div class="help1"> <img id='img_help1'> </div>
+  <div class="table_div">
+    <table border="1" cellspacing="0">
+      <tr>
+        <td class="left_tr">LED LIGHTS</td>
+        <td class="center_tr">DESCRIPTION</td>
+        <td class="right_tr">STATUS INDICATOR</td>
+      </tr>
+      <tr>
+        <td class="left_tr">Power</td>
+        <td class="center_tr">Indicates of the device power supply</td>
+        <td class="right_tr"><span>STEADY GREEN:</span> NORMAL STATE<br>
+          OFF: 1. SWITCH ON. 2. CHECK POWER SUPPLY. 3. PLUG IN TO POWER SOURCE</td>
+      </tr>
+      <tr>
+        <td class="left_tr">PON</td>
+        <td class="center_tr">Passive Optical Network</td>
+        <td class="right_tr" nowrap="nowrap"><span>STEADY GREEN:</span> NORMAL STATE<br>
+          BLINKING : SYNCHRONIZATION ON GOING (UPON TURNING ON THE MODEM)<br>
+          OFF: INTERNET CONNECTION UNSUCCESSFUL. CHECK IF FIBER WIRE IS PROPERLY ATTACHED TO THE<br>
+          MODEM. RESTART MODEM. IF TROUBLE PERSIST CONTACT CUSTOMER SERVICE</td>
+      </tr>
+      <tr>
+        <td class="left_tr">LOS</td>
+        <td class="center_tr">Loss of Signal</td>
+        <td class="right_tr" nowrap="nowrap">OFF : NORMAL <br>
+          BLINKING: LOSS OF SIGNAL IN EFFECT. CHECK IF FIBER OPTIC CABLE IS PROPERLY ATTACHED TO THE MODEM. POSSIBLE FIBER BREAK. <br>
+          IF TROUBLE PERSIST CONTACT CUSTOMER SRVICE. </td>
+      </tr>
+      <tr id='tr_internet'>
+        <td class="left_tr">Internet</td>
+        <td class="center_tr">Internet status</td>
+        <td class="right_tr" nowrap="nowrap"><span>STEADY GREEN:</span> The access to Internet is normal.<br>
+          BLINKING: The access to Internet is normal with data transmission<br>
+          OFF: No access to Internet.</td>
+      </tr>
+      <tr id='tr_usb'>
+        <td class="left_tr">USB1/USB2</td>
+        <td class="center_tr">Indicates of the USB port usage</td>
+        <td class="right_tr"><span>STEADY GREEN:</span> IN USE. THERE IS A USB STORAGE DEVICE CONNECT TO THE USB PORT.<br>
+          OFF: NO USB STORAGE DEVICE CONNECT TO THE USB PORT; </td>
+      </tr>
+      <tr id='tr_lan'>
+        <td class="left_tr">LAN 1 TO LAN 4</td>
+        <td class="center_tr">LOCAL AREA NETWORK / ETHERNET CABLE</td>
+        <td class="right_tr"><span>STEADY GREEN:</span> NORMAL STATE. ETHERNET CABLE IS ATTACHED TO THE LAN PORT OF THE MODEM. <br>
+          BLINKING GREEN: NORMAL STATE. DATA TRANSMISSION ONGOING<br>
+          OFF: NO ETHERNET ATTACHED TO THE LAN INTERFACE. </td>
+      </tr>
+      <tr id='tr_voip' style="display: none">
+        <td class="left_tr">VOIP</td>
+        <td class="center_tr">VOICE OVER INTERNET PROTOCOL / TELEPHONE </td>
+        <td class="right_tr"><span>STEADY GREEN:</span> NORMAL STATE. <br>
+          OFF : INACTIVE </td>
+      </tr>
+      <tr id='tr_phone'>
+        <td class="left_tr">Phone1/ Phone2</td>
+        <td class="center_tr">Indicates the phone status and is ready to take incoming and outgoing calls </td>
+        <td class="right_tr"><span>STEADY GREEN:</span> NORMAL STATE. <br>
+          BLINKING : IN USE<br>
+          OFF : DEACTIVATED </td>
+      </tr>
+      <tr id='tr_wifi'>
+        <td class="left_tr" id='td_wifi_title'></td>
+        <td class="center_tr">Wireless Local Area Network </td>
+        <td class="right_tr"><span>STEADY GREEN:</span> NORMAL STATE. <br>
+          BLINKING: NORMAL STATE. DATA TRANSMISSION ONGOING<br>
+          OFF : DISABLED. LOOK FOR THE WLAN BUTTON AND SWITCH IT ON. </td>
+      </tr>
+      <tr id='tr_wps'>
+        <td class="left_tr" id='td_wps_title'></td>
+        <td class="center_tr">Indicates  of Wi-Fi Protected Setup </td>
+        <td class="right_tr"><span>STEADY GREEN:</span> NORMAL STATE. <br>
+          BLINKING: NORMAL STATE, THE RELATED NEGOTIATION IS CONDUCED.<br>
+          OFF : DISABLED. </td>
+      </tr>
+    </table>
+    <br>
+    <h3>Model Physical Connection</h3>
+    <br>
+    <p>Physical connections are an oft-overlooked common culprit. Check all wireless access point (AP) or wireless router ports to <br>
+      ensure that Ethernet cables are inserted tightly and link status LEDs are green at both ends. </p>
+    <br>
+    <div> <img id='img_help2'> </div>
+    <br>
+    <p style="padding-left:30%;">Note: Insert short instruction of interconnectivity</p>
+    <br>
+    <h3>Troubleshooting Guide</h3>
+    <br>
+    <h3>I have no internet connection using my Fibr service</h3>
+    <br>
+    <p>Follow this simple checklist to troubleshoot your internet connection:</p>
+    <br>
+    <ul>
+      <li>1.&nbsp;&nbsp;Make sure that you are up to date with your account and you have no outstanding balance.</li>
+      <li>2.&nbsp;&nbsp;If you are using an internet browser, make sure that you are not using a Proxy server. This can be checked in your browser settings.</li>
+      <li>
+        <ul class="a">
+          <li><strong>For Internet Explorer</strong>: Go to Internet Options > Click Connections tab> Click LAN Settings > Use automatic configuration script and <br>
+            proxy server should be unchecked</li>
+          <li><strong>For Google Chrome</strong>: Go to Setting > Click Show advance settings > Under Network, click Change proxy settings > Click LAN <br>
+            settings > Use automatic configuration script and proxy server should be unchecked</li>
+          <li><strong>For Safari</strong>:Click System Preferences > Click Network > Click Advanced > Click Change Settings under Proxies > Make sure all boxes<br>
+            are unchecked.</li>
+          <li><strong>For Firefox</strong>: Go to Menu > Click Options > Click Advanced > Click Network tab > Click Settings under Connection > Make sure No <br>
+            proxy is selected.</li>
+        </ul>
+      </li>
+      <li>3.&nbsp;&nbsp;Check the power and LED indicators of your modem; the color must be green and should be steady. If lights are off or the LED indicators are <br>
+        blinking, please make sure the cables of your modem are properly connected.</li>
+      <li>4.&nbsp;&nbsp;Perform a power cycle by turning your modem off for 5 minutes, and back on to re-sync your modem with our network.</li>
+    </ul>
+    <br>
+    <br>
+    <h3>My internet connection is slow when using my Fibr service.</h3>
+    <p>There are several factors that may affect your internet browsing experience. Here are a few of them:</p>
+    <ul>
+      <li>1.&nbsp;&nbsp;Multiple and simultaneous internet usage with activities such as heavy downloading, video streaming, online gaming, apps with auto-updates, etc.</li>
+      <li>2.&nbsp;&nbsp;The specs of your PC, laptop or mobile device may not be compatible with the speed of your plan which does not allow you to attain the maximum speed. You <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;may consult with your personal technician on how to optimize the performance of your device.</li>
+      <li>3.&nbsp;&nbsp;Your connection to your Wi-Fi modem may be interfered by household electronic appliances (microwave, cordless phone, etc.). You may be too far away from <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your modem or there are physical obstructions affecting your connection. Make sure that your connection to your Wi-Fi modem is clear from any obstructions.</li>
+      <li>4.&nbsp;&nbsp;If you are using an internet browser, add-ons such as multimedia add-ons, search bars, etc. may affect the performance of your internet connection. You may try disabling &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;them.</li>
+      <li>5.&nbsp;&nbsp;After checking on 1-4, perform a power cycle by turning your modem off and then on after 5 minutes to re-sync your modem with our network. After 20 seconds or the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;modem has fully initialized, perform a speed test by going to http://www.speedtest.net and select the nearest PLDT server in your location. Then click Begin Test. The results &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;should show you your download and upload speeds. You should at least be getting 80% of your subscribed download speed. </li>
+      <li>6.&nbsp;&nbsp;If you are able to get the subscribed speed but you are still experiencing slow connection, try deleting your browser history, cookies and cache. </li>
+    </ul>
+    <br>
+    <br>
+    <h3>I cannot open specific websites.</h3>
+    <p>If you cannot open a certain website but you have no problem with others, this can be caused by several factors:</p>
+    <ul class="b">
+      <li>&nbsp;&nbsp;Double check if you entered the right URL.</li>
+      <li>&nbsp;&nbsp;The website might be inaccessible because it is down or you can try another device or internet browser.</li>
+      <li>&nbsp;&nbsp;Check your device's internet browser settings. Make sure you're not using a proxy server.</li>
+      <li>&nbsp;&nbsp;If you have an Anti-Virus this may prevent you from browsing some websites.</li>
+    </ul>
+    <br>
+    <br>
+    <h3>I cannot connect to my Wi-Fi modem.</h3>
+    <p>Follow these steps if you are unable to connect to your Wi-Fi:</p>
+    <ul>
+      <li>1.&nbsp;&nbsp;Please make sure that you are connected to the right Wi-Fi name and have entered the correct password.</li>
+      <li>2.&nbsp;&nbsp;If you encounter "Authentication Error," please click on forget button then select the Wi-Fi name and type the correct password.</li>
+      <li>3.&nbsp;&nbsp;Perform a power cycle by turning your modem off and then on after 2-3 minutes and try again after 20 seconds or after the modem fully initializes.</li>
+    </ul>
+    <br>
+    <br>
+    <h3>I forgot my modem password.</h3>
+    <p>This happens even to the best of us so don't worry! If you have a new device or have reset your mobile device to its factory settings but you forgot your <br>
+      Wi-Fi modem password, you may just do a hard reset on your Wi-Fi modem. Follow these easy steps:</p>
+    <ul>
+      <li>1.&nbsp;&nbsp;Look for a small hole on your Wi-Fi modem. It is usually located near the power button.</li>
+      <li>2.&nbsp;&nbsp;Using a pin or needle, gently press the button inside the small hole and hold for at least 5 seconds.</li>
+      <li>3.&nbsp;&nbsp;Once your Wi-Fi modem restarts, connect it to your PC or laptop via a LAN cable.</li>
+      <li>4.&nbsp;&nbsp;Open your internet browser and put http://192.168.1.1</li>
+      <li>5.&nbsp;&nbsp;Once you have opened the Wi-Fi modem User Interface, log in using the default username and password which can be found at the back or under the modem.</li>
+      <li>6.&nbsp;&nbsp;Upon logging in, you may personalize your Wi-Fi modem name (SSID) and set your new password.</li>
+    </ul>
+    <br>
+    <br>
+    <h3> Wi-Fi Device Troubleshooting Guide </h3>
+    <p class="hou_p">Ensure that WiFi is switched on from your mobile device.</p>
+    <br>
+    <p class="hou_p">For <strong>iOS</strong> devices, go to: Settings, then WiFi.</p>
+    <br>
+    <p class="help3"> <img src="images/pldt/help3.jpg"> </p>
+    <br>
+    <br>
+    <br>
+    <p class="hou_p">For Android devices, go to: Settings, then WiFi.</p>
+    <br>
+    <p class="help4"> <img src="images/pldt/help4.png"> </p>
+    <br>
+    <ul class="d">
+      <li>1.&nbsp;&nbsp;Check If Wi-Fi SSID and password are correct.</li>
+      <li>2.&nbsp;&nbsp;Choose the correct Wi-Fi SSID (if not connected to desired Wi-Fi). </li>
+      <li>3.&nbsp;&nbsp;Enter the correct Wi-Fi password. </li>
+      <li>4.&nbsp;&nbsp;If you have previously connected to your Wi-Fi Modem but somehow could no longer connect, "choose forget this network" option and repeat steps 2 and 3.</li>
+    </ul>
+    <br>
+    <p class="putongp">Disclaimer:</p>
+    <ul class="e">
+      <li>a.&nbsp;&nbsp;PLDT Inc. reserves the right to alter any specification without prior notice.</li>
+      <li>b.&nbsp;&nbsp;Photos and specifications shown in this digital guide may vary from the actual unit.</li>
+    </ul>
+    <br>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+</body>
+</html>

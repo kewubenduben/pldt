@@ -1,0 +1,11 @@
+<po>
+  <message msgid="redirect_prompt" msgstr="On this page, you could configure redirect and redirect page. " />
+  <message msgid="redirect_title" msgstr="Redirect" />
+  <message msgid="re_enable" msgstr="Enable" />
+  <message msgid="re_disable" msgstr="Disable" />
+  <message msgid="redirectApply" msgstr="Apply" />
+  <message msgid="redirectCancel" msgstr="Cancel" />
+  <message msgid="redirect_nourlalert" msgstr="Please enter URL!" />
+
+</po>
+
