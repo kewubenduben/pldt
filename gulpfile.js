@@ -16,7 +16,7 @@ gulp.task('sanitize-asp', () => {
     }
   };
 
-  return gulp.src('H*/**/web/**/*.asp')
+  return gulp.src('H*/**/web/**/*.{asp,htm?}')
     .pipe(htmlmin({ minifyJS: minifyJSOption }))
     .pipe(gulp.dest('dist'));
 });
