@@ -138,7 +138,7 @@ function addNewStatisData(tab, newData)
       <td class="prompt"><table border="0" cellpadding="0" cellspacing="0" width="100%">
           <tbody>
             <tr>
-              <td id="voip_diagnosisPrompt" style="padding-left: 10px;" class="title_01" width="100%">On this page, you can query the statistics on the worst voice quality. The following network peformance counters are for your information only. Ideal network: packet loss rate = 0, mean jitter < 10 ms, mean delay < 10 ms.</td>
+              <td id="voip_diagnosisPrompt" style="padding-left: 10px;" class="title_01" width="100%">On this page, you can query the statistics on the worst voice quality. The following network peformance counters are for your information only. Ideal network: packet loss rate = 0, mean jitter &lt; 10 ms, mean delay &lt; 10 ms.</td>
             </tr>
           </tbody>
         </table></td>
